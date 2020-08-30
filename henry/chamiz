@@ -20,58 +20,26 @@ http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=44&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="AZCorazon.cl" group-title="Radio",AZ CORAZON
 http://cinematicket.club/tp2.php?c=70&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/238
-#EXTINF:0 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX COMEDY
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/239
-#EXTINF:0 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/240
-#EXTINF:0 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="ENTRETENIMIENTO",Fox News
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/252
-#EXTINF:0 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX SERIES
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/241
-#EXTINF:0 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+ACT
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/243
-#EXTINF:0 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+CLA
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/244
-#EXTINF:0 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+FAM
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/245
-#EXTINF:0 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+MOV
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/246
-#EXTINF:0 tvg-id="" tvg-name="H2" tvg-logo="" group-title="MUNDO Y CULTURA",H2
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/257
-#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/258
-#EXTINF:0 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO Family
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/259
-#EXTINF:0 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO Plus
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/260
-#EXTINF:0 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO2
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/261
-#EXTINF:0 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Action HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/47
-#EXTINF:0 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Family HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/48
-#EXTINF:0 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/49
-#EXTINF:0 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Movies HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/50
-#EXTINF:0 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Series HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/51
-#EXTINF:0 tvg-id="" tvg-name="LAT*France24" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*France24
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/55
-#EXTINF:0 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FX HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/52
-#EXTINF:0 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FX Movies HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/53
-#EXTINF:0 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO Family HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/58
-#EXTINF:0 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/59
-#EXTINF:0 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO Plus HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/60
-#EXTINF:0 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO2 HD
-http://zufreelist.net:8880/Partido73zutv/LmPcMhUqfD/61
+#EXTINF:-1 ,ES | FOX PREMIUM ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88737
+#EXTINF:-1 ,ES | FOX PREMIUM CLASSICS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88749
+#EXTINF:-1 ,ES | FOX PREMIUM COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88750
+#EXTINF:-1 ,ES | FOX PREMIUM MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88740
+#EXTINF:-1 ,ES | FOX PREMIUM SERIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88736
+#EXTINF:-1 ,ES | HBO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
+#EXTINF:-1 ,ES | HBO 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
+#EXTINF:-1 ,ES | HBO FAMILY ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
+#EXTINF:-1 ,ES | HBO PLUS ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
+#EXTINF:-1 ,ES | HBO SIGNATURE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88770
 #EXTINF:0 tvg-id="AZMundo.cl" group-title="Radio",AZ MUNDO
 http://cinematicket.club/tp2.php?c=84&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7 HD
