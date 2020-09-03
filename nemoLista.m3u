@@ -12,7 +12,7 @@ https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=sDkVXvXcKxks7oPsn-Xe4g&e=15991705
 #EXTINF:-1 tvg-id="109732" tvg-name="DISCOVERY TLC" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png", Hiper TV
 http://usuarios.club/stream/Luis.Ramirez/kPo/87.m3u8
 
-#EXTINF:-1 tvg-id="109731" tvg-name="INVESTIGACIÓN DISCOVERY HD" tvg-logo="https://lh3.googleusercontent.com/-v7TF3hEhSRM/XznZXpOubiI/AAAAAAAA4kY/Q8CWMqa8tZQHLG0LOia9Bnj0NQKTvRzOgCK8BGAsYHg/s0/2020-08-16.png", Canal 7 SLP
+#EXTINF:0 tvg-id="109731" tvg-name="INVESTIGACIÓN DISCOVERY HD" tvg-logo="https://lh3.googleusercontent.com/-v7TF3hEhSRM/XznZXpOubiI/AAAAAAAA4kY/Q8CWMqa8tZQHLG0LOia9Bnj0NQKTvRzOgCK8BGAsYHg/s0/2020-08-16.png", Canal 7 SLP
 Request URL: https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=rZtWKqboVGTe2zk5sfM81w&e=1599171698
 
 #EXTINF:-1 tvg-id="109729" tvg-name="CRIMEN E INVESTIGACIÓN EN VIVO" tvg-logo="https://lh3.googleusercontent.com/-Xleqj_FOs1k/XznWH-cfnjI/AAAAAAAA4j8/-62Imo72kWsnkrTnkF4yfysBUYstwSh0wCK8BGAsYHg/s0/2020-08-16.jpg", Canal 12.1 Colima
