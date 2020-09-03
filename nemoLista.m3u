@@ -3,3 +3,63 @@
 #EXTINF:0 tvg-id="cartoon" group-title="Infantiles",Cartoon Network
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=sDkVXvXcKxks7oPsn-Xe4g&e=1599170507
 
+#EXTINF:-1 tvg-id="109803" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-nn1lsii9bB8/Xz53INdkzcI/AAAAAAAA4sI/5JLfZ5qEUwMl49Kc6fIbR-kAcA-RiN-AwCK8BGAsYHg/s0/2020-08-20.png", Jalisco TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/22.m3u8
+
+#EXTINF:-1 tvg-id="109762" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://lh3.googleusercontent.com/-EgRlfG8qS6k/XzxtdI0B6vI/AAAAAAAA4pw/x3UCH8j26U4wOZjlUJMOLVC86mgg5JhOACK8BGAsYHg/s0/2020-08-18.png", TV Lobo
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=sDkVXvXcKxks7oPsn-Xe4g&e=1599170507
+
+#EXTINF:-1 tvg-id="109732" tvg-name="DISCOVERY TLC" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png", Hiper TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/87.m3u8
+
+#EXTINF:-1 tvg-id="109731" tvg-name="INVESTIGACIÓN DISCOVERY HD" tvg-logo="https://lh3.googleusercontent.com/-v7TF3hEhSRM/XznZXpOubiI/AAAAAAAA4kY/Q8CWMqa8tZQHLG0LOia9Bnj0NQKTvRzOgCK8BGAsYHg/s0/2020-08-16.png", Canal 7 SLP
+Request URL: https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=rZtWKqboVGTe2zk5sfM81w&e=1599171698
+
+#EXTINF:-1 tvg-id="109729" tvg-name="CRIMEN E INVESTIGACIÓN EN VIVO" tvg-logo="https://lh3.googleusercontent.com/-Xleqj_FOs1k/XznWH-cfnjI/AAAAAAAA4j8/-62Imo72kWsnkrTnkF4yfysBUYstwSh0wCK8BGAsYHg/s0/2020-08-16.jpg", Canal 12.1 Colima
+https://ul.cdn946.net:8443/hls/24g3mspayk.m3u8?s=n-Slc1ADTUtxlZ1EBuSK2A&e=1599171988
+
+#EXTINF:-1 tvg-id="109728" tvg-name="DISCOVERY TURBO" tvg-logo="https://lh3.googleusercontent.com/-mBqeWXdHtNM/XznVMgQmi8I/AAAAAAAA4j0/pgCZzU94A9MayIteuQQ8Y8JgUMHokxHNwCK8BGAsYHg/s0/2020-08-16.png", UMTV
+https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=WWMaGwRFS3nfLpQ2DrKhtA&e=1599172232
+
+#EXTINF:-1 tvg-id="109726" tvg-name="DISCOVERY THEATER" tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png", 8 NTV
+https://ul.cdn946.net:8443/hls/dgyv92n1jthz.m3u8?s=qoTrlcz3_MF1tirtdpdphA&e=1599174134
+
+#EXTINF:-1 tvg-id="109725" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/26.m3u8
+
+#EXTINF:-1 tvg-id="109724" tvg-name="DISCOVERY WORLD" tvg-logo="https://lh3.googleusercontent.com/-jYOf8c3Vmlk/XznNQW2xXbI/AAAAAAAA4jE/ytLWVsfYkowyg-ImiQ5ipUCmLqHcBNB1ACK8BGAsYHg/s0/2020-08-16.jpg", SET TV Puebla
+https://ul.cdn946.net:8443/hls/8lrx0rj7tfy.m3u8?s=BUFJ2Z1rCVHM577YTdwrIw&e=1599174431
+
+#EXTINF:-1 tvg-id="109723" tvg-name="DISCOVERY MAX" tvg-logo="https://lh3.googleusercontent.com/-2pp3dwi-vkQ/XznLWR76sUI/AAAAAAAA4i0/nJvPb7KyiCMp3v5JVHky6GjltlEMChz8ACK8BGAsYHg/s0/2020-08-16.jpg", Canal 28 Nuevo Leon
+http://91.126.141.12:1935/live/discoverymax/chunklist_w763200809.m3u8
+
+#EXTINF:-1 tvg-id="109722" tvg-name="ANIMAL PLANET" tvg-logo="https://lh3.googleusercontent.com/-jHnWNwOV1aI/XznKz7-VFEI/AAAAAAAA4io/2Ctyke00gY0YLEXYT-Lc6b93pEhsJxwcgCK8BGAsYHg/s0/2020-08-16.png", Genesis TV
+https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=IplPHxvQyTVCYwVg-5Q-cA&e=1599174774
+
+#EXTINF:-1 tvg-id="109721" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://lh3.googleusercontent.com/-ZsOKRiFydgY/XznJx_JHLsI/AAAAAAAA4ig/NTqH3_Wp1f4sUpZ0kq-j4mcxGn3EgVMAwCK8BGAsYHg/s0/2020-08-16.png", SIZART Canal 24 Zacatecas
+https://ul.cdn946.net:8443/hls/nrlo1xajr4zbot.m3u8?s=iZrG-Kq1roTQn66mewTJ1w&e=1599174961
+
+#EXTINF:-1 tvg-id="109720" tvg-name="NATGEO WILD HD" tvg-logo="https://lh3.googleusercontent.com/-IBYgTEFU-Lc/XznD4I5ZLHI/AAAAAAAA4iU/y1Lgke6t3coR0Exus6bV45W47Dzms_OkACK8BGAsYHg/s0/2020-08-16.png", Tlaxcala TV
+https://ul.cdn946.net:8443/hls/k3v2xfadh90.m3u8?s=ot2GucXPnOI6dX9lmgU32A&e=1599175097
+
+#EXTINF:-1 tvg-id="109719" tvg-name="HISTORY HD" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Los Mochis
+https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=YZDqUtAMAW9yETp0J3beCA&e=1599175337
+
+#EXTINF:-1 tvg-id="109718" tvg-name="TVP Mazatlan" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109725" tvg-name="Quiero TV" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109724" tvg-name="SET TV Puebla" tvg-logo="https://lh3.googleusercontent.com/-jYOf8c3Vmlk/XznNQW2xXbI/AAAAAAAA4jE/ytLWVsfYkowyg-ImiQ5ipUCmLqHcBNB1ACK8BGAsYHg/s0/2020-08-16.jpg", SET TV Puebla
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109723" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://lh3.googleusercontent.com/-2pp3dwi-vkQ/XznLWR76sUI/AAAAAAAA4i0/nJvPb7KyiCMp3v5JVHky6GjltlEMChz8ACK8BGAsYHg/s0/2020-08-16.jpg", Canal 28 Nuevo Leon
+https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109722" tvg-name="Genesis TV" tvg-logo="https://lh3.googleusercontent.com/-jHnWNwOV1aI/XznKz7-VFEI/AAAAAAAA4io/2Ctyke00gY0YLEXYT-Lc6b93pEhsJxwcgCK8BGAsYHg/s0/2020-08-16.png", Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109721" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://lh3.googleusercontent.com/-ZsOKRiFydgY/XznJx_JHLsI/AAAAAAAA4ig/NTqH3_Wp1f4sUpZ0kq-j4mcxGn3EgVMAwCK8BGAsYHg/s0/2020-08-16.png", SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109720" tvg-name="Tlaxcala TV" tvg-logo="https://lh3.googleusercontent.com/-IBYgTEFU-Lc/XznD4I5ZLHI/AAAAAAAA4iU/y1Lgke6t3coR0Exus6bV45W47Dzms_OkACK8BGAsYHg/s0/2020-08-16.png", Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109719" tvg-name="TVP Los Mochis" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="109718" tvg-name="TVP Mazatlan" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/s
