@@ -1,65 +1,357 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="cartoon" group-title="Infantiles",Cartoon Network
-https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=sDkVXvXcKxks7oPsn-Xe4g&e=1599170507
-
-#EXTINF:-1 tvg-id="109803" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-nn1lsii9bB8/Xz53INdkzcI/AAAAAAAA4sI/5JLfZ5qEUwMl49Kc6fIbR-kAcA-RiN-AwCK8BGAsYHg/s0/2020-08-20.png", Jalisco TV
-http://usuarios.club/stream/Luis.Ramirez/kPo/22.m3u8
-
-#EXTINF:-1 tvg-id="109762" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://lh3.googleusercontent.com/-EgRlfG8qS6k/XzxtdI0B6vI/AAAAAAAA4pw/x3UCH8j26U4wOZjlUJMOLVC86mgg5JhOACK8BGAsYHg/s0/2020-08-18.png", TV Lobo
-https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=sDkVXvXcKxks7oPsn-Xe4g&e=1599170507
-
-#EXTINF:-1 tvg-id="109732" tvg-name="DISCOVERY TLC" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png", Hiper TV
-http://usuarios.club/stream/Luis.Ramirez/kPo/87.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="id",investigation discoveri
-Request URL: https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=rZtWKqboVGTe2zk5sfM81w&e=1599171698
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",AZ CLIC HD
-https://ul.cdn946.net:8443/hls/24g3mspayk.m3u8?s=n-Slc1ADTUtxlZ1EBuSK2A&e=1599171988
+http://cinematicket.club/tv.php?c=11&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
+http://cinematicket.club/tv.php?c=17&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Channels",CANAL 5
+http://cinematicket.club/tv.php?c=20&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7
+http://cinematicket.club/tv.php?c=21&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NU9VE
+http://cinematicket.club/tv.php?c=24&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",ONCE
+http://cinematicket.club/tv.php?c=25&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA UNO
+http://cinematicket.club/tv.php?c=27&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Channels",TELEFORMULA SD
+http://cinematicket.club/tv.php?c=32&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEXIQUENSE TV
+http://cinematicket.club/tv.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Channels",AZ CORAZON
+http://cinematicket.club/tv.php?c=70&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="Channels",AZ MUNDO
+http://cinematicket.club/tv.php?c=84&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7 HD
+http://cinematicket.club/tv.php?c=317&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Channels",AZTECA 7 HD (2)
+http://cinematicket.club/tv.php?c=322&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN TV
+http://cinematicket.club/tv.php?c=2298&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS MTY
+http://cinematicket.club/tv.php?c=2305&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",APREDNE TV
+http://cinematicket.club/tv.php?c=401&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS CDMX
+http://cinematicket.club/tv.php?c=1253&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NU9VE HD
+http://cinematicket.club/tv.php?c=1783&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS HD
+http://cinematicket.club/tv.php?c=1784&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Channels",CANAL 5 HD (2)
+http://cinematicket.club/tv.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Channels",ONCE HD
+http://cinematicket.club/tv.php?c=1942&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MVS TV
+http://cinematicket.club/tv.php?c=2149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",TVC
+http://cinematicket.club/tv.php?c=2156&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4
+http://cinematicket.club/tv.php?c=2274&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 8
+http://cinematicket.club/tv.php?c=2307&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISA PUEBLA
+http://cinematicket.club/tv.php?c=2312&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",A+
+http://cinematicket.club/tv.php?c=2316&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVMAS
+http://cinematicket.club/tv.php?c=2324&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DEL CONGRESO
+http://cinematicket.club/tv.php?c=2331&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MULTIMEDIOS CDMX
+http://cinematicket.club/tv.php?c=2352&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IMAGEN TV HD
+http://cinematicket.club/tv.php?c=2606&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ACADEMIA
+http://cinematicket.club/tv.php?c=2703&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Channels",MULTIMEDIOS HD
+http://cinematicket.club/tv.php?c=2882&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",TOONCAST
+http://cinematicket.club/tv.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",DISCOVERY KIDS
+http://cinematicket.club/tv.php?c=109&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Channels",NICK
+http://cinematicket.club/tv.php?c=110&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Channels",DISNEY XD
+http://cinematicket.club/tv.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
+http://cinematicket.club/tv.php?c=112&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
+http://cinematicket.club/tv.php?c=113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",BOOMERANG
+http://cinematicket.club/tv.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BABY TV
+http://cinematicket.club/tv.php?c=116&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR
+http://cinematicket.club/tv.php?c=117&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEY JR
+http://cinematicket.club/tv.php?c=118&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",NICKTOONS SD
+http://cinematicket.club/tv.php?c=1708&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Channels",BABY FIRST
+http://cinematicket.club/tv.php?c=1984&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Channels",NICK 2
+http://cinematicket.club/tv.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO KIDS
+http://cinematicket.club/tv.php?c=2373&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BIT ME
+http://cinematicket.club/tv.php?c=2591&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS SD
+http://cinematicket.club/tv.php?c=81&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DE PELICULA +
+http://cinematicket.club/tv.php?c=121&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN +
+http://cinematicket.club/tv.php?c=122&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
+http://cinematicket.club/tv.php?c=123&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",GOLDEN EDGE
+http://cinematicket.club/tv.php?c=124&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
+http://cinematicket.club/tv.php?c=126&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
+http://cinematicket.club/tv.php?c=128&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE
+http://cinematicket.club/tv.php?c=129&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://cinematicket.club/tv.php?c=131&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
+http://cinematicket.club/tv.php?c=132&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Channels",I SAT
+http://cinematicket.club/tv.php?c=135&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROPA CHANNEL
+http://cinematicket.club/tv.php?c=136&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Channels",FILMS & ARTS
+http://cinematicket.club/tv.php?c=137&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Channels",FXM
+http://cinematicket.club/tv.php?c=138&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Channels",FXM SD
+http://cinematicket.club/tv.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Channels",FOX SERIES
+http://cinematicket.club/tv.php?c=139&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MORBIDO
+http://cinematicket.club/tv.php?c=140&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
+http://cinematicket.club/tv.php?c=146&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINECANAL
+http://cinematicket.club/tv.php?c=149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
+http://cinematicket.club/tv.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://cinematicket.club/tv.php?c=328&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA SD
+http://cinematicket.club/tv.php?c=335&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Channels",FOX ACTION
+http://cinematicket.club/tv.php?c=336&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="paramount" group-title="Channels",PARAMOUNT CHANNEL
+http://cinematicket.club/tv.php?c=1726&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Channels",FOX CINEMA SD
+http://cinematicket.club/tv.php?c=1729&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Channels",FOX CLASSICS SD
+http://cinematicket.club/tv.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CINEMA
+http://cinematicket.club/tv.php?c=1787&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO INTERNACIONAL HD
+http://cinematicket.club/tv.php?c=85&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://cinematicket.club/tv.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",SONY
+http://cinematicket.club/tv.php?c=48&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",WARNER
+http://cinematicket.club/tv.php?c=52&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
+http://cinematicket.club/tv.php?c=55&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
+http://cinematicket.club/tv.php?c=57&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
+http://cinematicket.club/tv.php?c=59&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+http://cinematicket.club/tv.php?c=60&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
+http://cinematicket.club/tv.php?c=62&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://cinematicket.club/tv.php?c=64&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",UNICABLE SD
+http://cinematicket.club/tv.php?c=66&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Channels",SUNDANCE TV
+http://cinematicket.club/tv.php?c=69&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SERIES
+http://cinematicket.club/tv.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Channels",GLITZ
+http://cinematicket.club/tv.php?c=76&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Channels",GOURMET
+http://cinematicket.club/tv.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX LIFE
+http://cinematicket.club/tv.php?c=77&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITO COMEDIA SD
+http://cinematicket.club/tv.php?c=78&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",TRUTV
+http://cinematicket.club/tv.php?c=79&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TLNovelas.pe" group-title="Channels",TL NOVELAS SD
+http://cinematicket.club/tv.php?c=83&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",LIFETIME
+http://cinematicket.club/tv.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Channels",ANTENA 3
+http://cinematicket.club/tv.php?c=199&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://cinematicket.club/tv.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER HD
+http://cinematicket.club/tv.php?c=205&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL HD
+http://cinematicket.club/tv.php?c=207&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://cinematicket.club/tv.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Channels",TRUTV HD
+http://cinematicket.club/tv.php?c=215&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Channels",HOLA TV HD
+http://cinematicket.club/tv.php?c=219&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
+http://cinematicket.club/tv.php?c=340&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL SD
+http://cinematicket.club/tv.php?c=341&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Channels",UNICABLE
+http://cinematicket.club/tv.php?c=1499&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Channels",MAS CHIC
+http://cinematicket.club/tv.php?c=1842&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Channels",A3SERIES
+http://cinematicket.club/tv.php?c=2113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Channels",ESPN +
+http://cinematicket.club/tv.php?c=167&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
+http://cinematicket.club/tv.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
+http://cinematicket.club/tv.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX SPORTS
+http://cinematicket.club/tv.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",FOX SPORTS 2
+http://cinematicket.club/tv.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN
+http://cinematicket.club/tv.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",FOX SPORTS 3
+http://cinematicket.club/tv.php?c=178&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golf.sp" group-title="Channels",GOLF
+http://cinematicket.club/tv.php?c=179&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Channels",AYM SPORTS
+http://cinematicket.club/tv.php?c=180&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
+http://cinematicket.club/tv.php?c=345&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD (2)
+http://cinematicket.club/tv.php?c=1049&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADRENALINA SPORTS HD
+http://cinematicket.club/tv.php?c=1799&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LAS
+http://cinematicket.club/tv.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HAVOC
+http://cinematicket.club/tv.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Channels",TVC DEPORTES
+http://cinematicket.club/tv.php?c=2157&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLARO SPORTS HD
+http://cinematicket.club/tv.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV HD
+http://cinematicket.club/tv.php?c=2587&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",DISCOVERY ID
+http://cinematicket.club/tv.php?c=68&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Channels",GARAGE TV
+http://cinematicket.club/tv.php?c=75&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
+http://cinematicket.club/tv.php?c=86&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMAL PLANET
+http://cinematicket.club/tv.php?c=88&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY
+http://cinematicket.club/tv.php?c=89&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",NAT GEO
+http://cinematicket.club/tv.php?c=91&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NAT GEO WILD
+http://cinematicket.club/tv.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",DISCOVERY THEATER
+http://cinematicket.club/tv.php?c=95&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",H&H
+http://cinematicket.club/tv.php?c=96&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://cinematicket.club/tv.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERY SCIENCE
+http://cinematicket.club/tv.php?c=98&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Channels",DISCOVERY CIVILIZATION
+http://cinematicket.club/tv.php?c=99&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",DISCOVERY WORLD
+http://cinematicket.club/tv.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
+http://cinematicket.club/tv.php?c=198&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="Channels",SHOPPING
+http://cinematicket.club/tv.php?c=1943&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",FOOD NETWORK
+http://cinematicket.club/tv.php?c=2145&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Channels",STAR TVE
+http://cinematicket.club/tv.php?c=2375&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",DISCOVERY TURBO
+http://cinematicket.club/tv.php?c=2379&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CURIOSITY STREAM
+http://cinematicket.club/tv.php?c=2594&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV LIVE
+http://cinematicket.club/tv.php?c=211&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://cinematicket.club/tv.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV HITS SD
+http://cinematicket.club/tv.php?c=213&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Channels",VH1 CLASSIC SD
+http://cinematicket.club/tv.php?c=214&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1 SD
+http://cinematicket.club/tv.php?c=217&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEHIT URBANO SD
+http://cinematicket.club/tv.php?c=218&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEHIT +
+http://cinematicket.club/tv.php?c=220&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Channels",BANDAMAX SD
+http://cinematicket.club/tv.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Channels",AZ CLIC
+http://cinematicket.club/tv.php?c=223&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",VH1 HD
+http://cinematicket.club/tv.php?c=334&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOROTV HD
+http://cinematicket.club/tv.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="Channels",FOROTV SD
+http://cinematicket.club/tv.php?c=19&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN40
+http://cinematicket.club/tv.php?c=40&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADN 40 HD
+http://cinematicket.club/tv.php?c=184&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN
+http://cinematicket.club/tv.php?c=185&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN SD
+http://cinematicket.club/tv.php?c=186&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN Ñ SD
+http://cinematicket.club/tv.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WOBI.ar" group-title="Channels",WOBI
+http://cinematicket.club/tv.php?c=102&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOXN EWS
+http://cinematicket.club/tv.php?c=188&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Channels",BLOOMBERG
+http://cinematicket.club/tv.php?c=190&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="bbc" group-title="Channels",BBC SD
+http://cinematicket.club/tv.php?c=191&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL JAAZERA
+http://cinematicket.club/tv.php?c=192&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Channels",NTN 24
+http://cinematicket.club/tv.php?c=194&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JUSTICIA TV
+http://cinematicket.club/tv.php?c=196&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="Channels",HLN
+http://cinematicket.club/tv.php?c=197&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+http://cinematicket.club/tv.php?c=203&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="Channels",RT
+http://cinematicket.club/tv.php?c=999&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MILENIO HD
+http://cinematicket.club/tv.php?c=1250&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",MILENIO SD
+http://cinematicket.club/tv.php?c=1252&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Channels",EXCELSIOR TV
+http://cinematicket.club/tv.php?c=1449&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EL FINANCIERO HD
+http://cinematicket.club/tv.php?c=1649&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Channels",RT ESPAÑOL
+http://cinematicket.club/tv.php?c=2091&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24
+http://cinematicket.club/tv.php?c=2402&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-id="109728" tvg-name="DISCOVERY TURBO" tvg-logo="https://lh3.googleusercontent.com/-mBqeWXdHtNM/XznVMgQmi8I/AAAAAAAA4j0/pgCZzU94A9MayIteuQQ8Y8JgUMHokxHNwCK8BGAsYHg/s0/2020-08-16.png", UMTV
-https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=WWMaGwRFS3nfLpQ2DrKhtA&e=1599172232
-
-#EXTINF:-1 tvg-id="109726" tvg-name="DISCOVERY THEATER" tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png", 8 NTV
-https://ul.cdn946.net:8443/hls/dgyv92n1jthz.m3u8?s=qoTrlcz3_MF1tirtdpdphA&e=1599174134
-
-#EXTINF:-1 tvg-id="109725" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
-http://usuarios.club/stream/Luis.Ramirez/kPo/26.m3u8
-
-#EXTINF:-1 tvg-id="109724" tvg-name="DISCOVERY WORLD" tvg-logo="https://lh3.googleusercontent.com/-jYOf8c3Vmlk/XznNQW2xXbI/AAAAAAAA4jE/ytLWVsfYkowyg-ImiQ5ipUCmLqHcBNB1ACK8BGAsYHg/s0/2020-08-16.jpg", SET TV Puebla
-https://ul.cdn946.net:8443/hls/8lrx0rj7tfy.m3u8?s=BUFJ2Z1rCVHM577YTdwrIw&e=1599174431
-
-#EXTINF:-1 tvg-id="109723" tvg-name="DISCOVERY MAX" tvg-logo="https://lh3.googleusercontent.com/-2pp3dwi-vkQ/XznLWR76sUI/AAAAAAAA4i0/nJvPb7KyiCMp3v5JVHky6GjltlEMChz8ACK8BGAsYHg/s0/2020-08-16.jpg", Canal 28 Nuevo Leon
-http://91.126.141.12:1935/live/discoverymax/chunklist_w763200809.m3u8
-
-#EXTINF:-1 tvg-id="109722" tvg-name="ANIMAL PLANET" tvg-logo="https://lh3.googleusercontent.com/-jHnWNwOV1aI/XznKz7-VFEI/AAAAAAAA4io/2Ctyke00gY0YLEXYT-Lc6b93pEhsJxwcgCK8BGAsYHg/s0/2020-08-16.png", Genesis TV
-https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=IplPHxvQyTVCYwVg-5Q-cA&e=1599174774
-
-#EXTINF:-1 tvg-id="109721" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://lh3.googleusercontent.com/-ZsOKRiFydgY/XznJx_JHLsI/AAAAAAAA4ig/NTqH3_Wp1f4sUpZ0kq-j4mcxGn3EgVMAwCK8BGAsYHg/s0/2020-08-16.png", SIZART Canal 24 Zacatecas
-https://ul.cdn946.net:8443/hls/nrlo1xajr4zbot.m3u8?s=iZrG-Kq1roTQn66mewTJ1w&e=1599174961
-
-#EXTINF:-1 tvg-id="109720" tvg-name="NATGEO WILD HD" tvg-logo="https://lh3.googleusercontent.com/-IBYgTEFU-Lc/XznD4I5ZLHI/AAAAAAAA4iU/y1Lgke6t3coR0Exus6bV45W47Dzms_OkACK8BGAsYHg/s0/2020-08-16.png", Tlaxcala TV
-https://ul.cdn946.net:8443/hls/k3v2xfadh90.m3u8?s=ot2GucXPnOI6dX9lmgU32A&e=1599175097
-
-#EXTINF:-1 tvg-id="109719" tvg-name="HISTORY HD" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Los Mochis
-https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=YZDqUtAMAW9yETp0J3beCA&e=1599175337
-
-#EXTINF:-1 tvg-id="109718" tvg-name="TVP Mazatlan" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109725" tvg-name="Quiero TV" tvg-logo="https://lh3.googleusercontent.com/-5vFCoh_T-SI/XznP4TlWXeI/AAAAAAAA4jQ/V4CUlWj4BigMkdRO8nqov-4i2KIV80xUACK8BGAsYHg/s0/2020-08-16.jpg", Quiero TV
-https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109724" tvg-name="SET TV Puebla" tvg-logo="https://lh3.googleusercontent.com/-jYOf8c3Vmlk/XznNQW2xXbI/AAAAAAAA4jE/ytLWVsfYkowyg-ImiQ5ipUCmLqHcBNB1ACK8BGAsYHg/s0/2020-08-16.jpg", SET TV Puebla
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109723" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://lh3.googleusercontent.com/-2pp3dwi-vkQ/XznLWR76sUI/AAAAAAAA4i0/nJvPb7KyiCMp3v5JVHky6GjltlEMChz8ACK8BGAsYHg/s0/2020-08-16.jpg", Canal 28 Nuevo Leon
-https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109722" tvg-name="Genesis TV" tvg-logo="https://lh3.googleusercontent.com/-jHnWNwOV1aI/XznKz7-VFEI/AAAAAAAA4io/2Ctyke00gY0YLEXYT-Lc6b93pEhsJxwcgCK8BGAsYHg/s0/2020-08-16.png", Genesis TV
-http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109721" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://lh3.googleusercontent.com/-ZsOKRiFydgY/XznJx_JHLsI/AAAAAAAA4ig/NTqH3_Wp1f4sUpZ0kq-j4mcxGn3EgVMAwCK8BGAsYHg/s0/2020-08-16.png", SIZART Canal 24 Zacatecas
-https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109720" tvg-name="Tlaxcala TV" tvg-logo="https://lh3.googleusercontent.com/-IBYgTEFU-Lc/XznD4I5ZLHI/AAAAAAAA4iU/y1Lgke6t3coR0Exus6bV45W47Dzms_OkACK8BGAsYHg/s0/2020-08-16.png", Tlaxcala TV
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109719" tvg-name="TVP Los Mochis" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="109718" tvg-name="TVP Mazatlan" tvg-logo="https://lh3.googleusercontent.com/-QadwHru1dMs/XznAC1oG-KI/AAAAAAAA4iI/z57K9YZ-j9wdGowRnWOeh5OH7yAkg3j_ACK8BGAsYHg/s0/2020-08-16.jpg", TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net:443/gpacifico4/s
+#EXTINF:0 tvg-id="avi" group-title="Videos",1/Sep/2020
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6105098_LAT_HD.mp4
