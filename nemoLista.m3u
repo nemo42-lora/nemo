@@ -1,6 +1,25 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AZ CLIC HD
+#EXTINF:-1 ,ES | FOX PREMIUM ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88737
+#EXTINF:-1 ,ES | FOX PREMIUM CLASSICS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88749
+#EXTINF:-1 ,ES | FOX PREMIUM COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88750
+#EXTINF:-1 ,ES | FOX PREMIUM MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88740
+#EXTINF:-1 ,ES | FOX PREMIUM SERIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88736
+#EXTINF:-1 ,ES | HBO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
+#EXTINF:-1 ,ES | HBO 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
+#EXTINF:-1 ,ES | HBO FAMILY ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
+#EXTINF:-1 ,ES | HBO PLUS ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
+#EXTINF:-1 ,ES | HBO SIGNATURE
 http://cinematicket.club/tv.php?c=11&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
 http://cinematicket.club/tv.php?c=17&p=3&k=tecnotv&f=.m3u8
