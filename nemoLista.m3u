@@ -20,6 +20,7 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
 #EXTINF:-1 ,ES | HBO PLUS ESTE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
 #EXTINF:-1 ,ES | HBO SIGNATURE
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZ CLIC HD
 http://cinematicket.club/tv.php?c=11&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
 http://cinematicket.club/tv.php?c=17&p=3&k=tecnotv&f=.m3u8
@@ -371,6 +372,3 @@ http://cinematicket.club/tv.php?c=1649&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tv.php?c=2091&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24
 http://cinematicket.club/tv.php?c=2402&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",1/Sep/2020
-https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6105098_LAT_HD.mp4
