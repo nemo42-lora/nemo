@@ -18,5 +18,17 @@ https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=3x4Nxn5w_i7JmJPF3tTeHw&e=16006425
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
 https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY 2
-https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=D9BGkyh_D24UUqA-Lh1gVA&e=1600654827
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
+https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=WLMyZaUQN_djsyNJFG3XAg&e=1600655228
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="documentales", HISTORY HD
+https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=lRxAYgEBVpwHB-B0P38Bfg&e=1600655911
+
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="documentales", HISTORY 2
+https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
+https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=Im_Z0nJIxvsxV3tbEx2rVw&e=1600660301
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
+https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=zhxW44k_ycMxwNfD4Ur6wg&e=1600660469
