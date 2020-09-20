@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=vhrwIlMPEAVUNsLOKFvR8A&e=1600638430
+https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=qu2sCAmho_XXL1Ac6ykb3w&e=1600663721
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Bq-SARzpT9CAJzA49Efj2A&e=1600638839
@@ -32,3 +32,21 @@ https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=Im_Z0nJIxvsxV3tbEx2rVw&e=1600660301
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
 https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=zhxW44k_ycMxwNfD4Ur6wg&e=1600660469
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
+https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=yNyjQFf8jyTIeWVUoIsOhQ&e=1600660850
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
+https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="" group-title="CANALES INFANTILES", DISCOVERY KIDS HD
+https://ul.cdn946.net:8443/hls/hh704lol7xvy5s6.m3u8?s=yMjcJOqWiSZyeyYTUjcH5A&e=1600661217
+
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
+https://ul.cdn946.net:8443/hls/s40z6ckg.m3u8?s=debo4lTQBZKQfmEt2xfbiw&e=1600661478
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
+https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1600661895
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="CANALES INFANTILES", NICK JR
+https://ul.cdn946.net:8443/hls/pj2q41ey3.m3u8?s=jbZhGEv_-dnphLYJGwtamQ&e=1600663212
