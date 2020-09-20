@@ -1,23 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=qu2sCAmho_XXL1Ac6ykb3w&e=1600663721
-
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
-https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Bq-SARzpT9CAJzA49Efj2A&e=1600638839
-
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
-https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=SOsy8A1pfUtmNQsH8TieQA&e=1600641185
-
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
-https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=ayFk32DdAscwB8AePLKiTA&e=1600641526
-
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
-https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=3x4Nxn5w_i7JmJPF3tTeHw&e=1600642570
-
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
-https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
-
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
 https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=WLMyZaUQN_djsyNJFG3XAg&e=1600655228
 
@@ -50,3 +30,31 @@ https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="CANALES INFANTILES", NICK JR
 https://ul.cdn946.net:8443/hls/pj2q41ey3.m3u8?s=jbZhGEv_-dnphLYJGwtamQ&e=1600663212
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
+https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=L2GYONUCa1iFJ4NCpZQ0eg&e=1600664009
+
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
+https://ul.cdn946.net:8443/hls/ib2w7oq.m3u8?s=MMIs-wkeuBzkB0Hskd-j0Q&e=1600664337
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
+https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=1600664427
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
+https://ul.cdn946.net:8443/hls/yolmoo963yo.m3u8?s=RspGDbO_Qk0xqJxP80viPw&e=1600664506
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
+https://ul.cdn946.net:8443/hls/learfrfaw3gwez.m3u8?s=dc4U1RbJRRgIioO6mIHIFw&e=1600664781
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/29b194e5-3263-4945-b5e4-81cc2aaa99eb:BRU/variant/0f5ad4ed4d309536ae9b600d5d6ab803/bandwidth/448800.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
+https://ul.cdn946.net:8443/hls/ynrput0pol6h.m3u8?s=BWrZt-_-x6Rt61jysYawHg&e=1600665554
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
+https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=azirdGP9Y9aR3m42u24r_w&e=1600665749
+
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
+https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
