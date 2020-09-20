@@ -5,3 +5,9 @@ https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=vhrwIlMPEAVUNsLOKFvR8A&e=1600638430
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Bq-SARzpT9CAJzA49Efj2A&e=1600638839
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
+https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=SOsy8A1pfUtmNQsH8TieQA&e=1600641185
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
+https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=ayFk32DdAscwB8AePLKiTA&e=1600641526
