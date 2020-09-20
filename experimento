@@ -1,3 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
+https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=qu2sCAmho_XXL1Ac6ykb3w&e=1600663721
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=Bq-SARzpT9CAJzA49Efj2A&e=1600638839
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
+https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=SOsy8A1pfUtmNQsH8TieQA&e=1600641185
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
+https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=ayFk32DdAscwB8AePLKiTA&e=1600641526
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
+https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=3x4Nxn5w_i7JmJPF3tTeHw&e=1600642570
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
+https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
+
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
 https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=WLMyZaUQN_djsyNJFG3XAg&e=1600655228
 
