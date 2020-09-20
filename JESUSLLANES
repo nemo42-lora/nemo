@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
+https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=qu2sCAmho_XXL1Ac6ykb3w&e=1600663721
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
+https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=B0n_laBOqmAhq6mlAftb5Q&e=1600666503
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
+https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=3pSNPfJNVZ7D5AslFGoQig&e=1600666606
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
+https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=3x4Nxn5w_i7JmJPF3tTeHw&e=1600642570
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
+https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
+https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=WLMyZaUQN_djsyNJFG3XAg&e=1600655228
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="documentales", HISTORY HD
+https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=lRxAYgEBVpwHB-B0P38Bfg&e=1600655911
+
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="documentales", HISTORY 2
+https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
+https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=Im_Z0nJIxvsxV3tbEx2rVw&e=1600660301
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
+https://ul.cdn946.net:8443/hls/jxu7cix.m3u8?s=zhxW44k_ycMxwNfD4Ur6wg&e=1600660469
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
+https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=yNyjQFf8jyTIeWVUoIsOhQ&e=1600660850
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
+https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="" group-title="CANALES INFANTILES", DISCOVERY KIDS HD
+https://ul.cdn946.net:8443/hls/hh704lol7xvy5s6.m3u8?s=yMjcJOqWiSZyeyYTUjcH5A&e=1600661217
+
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
+https://ul.cdn946.net:8443/hls/s40z6ckg.m3u8?s=debo4lTQBZKQfmEt2xfbiw&e=1600661478
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
+https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1600661895
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="CANALES INFANTILES", NICK JR
+https://ul.cdn946.net:8443/hls/pj2q41ey3.m3u8?s=jbZhGEv_-dnphLYJGwtamQ&e=1600663212
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
+https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=L2GYONUCa1iFJ4NCpZQ0eg&e=1600664009
+
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
+https://ul.cdn946.net:8443/hls/ib2w7oq.m3u8?s=MMIs-wkeuBzkB0Hskd-j0Q&e=1600664337
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
+https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=1600664427
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
+https://ul.cdn946.net:8443/hls/yolmoo963yo.m3u8?s=RspGDbO_Qk0xqJxP80viPw&e=1600664506
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
+https://ul.cdn946.net:8443/hls/learfrfaw3gwez.m3u8?s=dc4U1RbJRRgIioO6mIHIFw&e=1600664781
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/29b194e5-3263-4945-b5e4-81cc2aaa99eb:BRU/variant/0f5ad4ed4d309536ae9b600d5d6ab803/bandwidth/448800.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
+https://ul.cdn946.net:8443/hls/ynrput0pol6h.m3u8?s=BWrZt-_-x6Rt61jysYawHg&e=1600665554
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
+https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=azirdGP9Y9aR3m42u24r_w&e=1600665749
+
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
+https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
