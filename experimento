@@ -11,3 +11,9 @@ https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=SOsy8A1pfUtmNQsH8TieQA&e=16
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
 https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=ayFk32DdAscwB8AePLKiTA&e=1600641526
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
+https://raw.githubusercontent.com/nemo42-lora/nemo/master/experimento
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
+https://edge2-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/dash/NatGeoHD-audio_20000=144800.track_id=20000-8666407698902.mp4
