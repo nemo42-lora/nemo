@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://ul.cdn946.net:8443/hls/5vh0n.m3u8?s=qu2sCAmho_XXL1Ac6ykb3w&e=1600663721
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CusErOtN5NTRG6B1kfxhScF1t2WNnLH_6fX5ql5bcbpn9W4K4OJ6_PYORGC6t87xxipi7V8YUlwpWguQaJSx-2W8_TUqSx-k-hYkIE8CCWy5jCVrMx06fyRmz0MxJ-yx1m-Kp2MfbRMamlUAIf3PyOZ49b6BOJmjzVCbCsqC6FXnO5qSXCyW6adZsbXMDxZenBFWV2RlPOTNIBsaJqt9bJwW5Rli_gnse2NdWHnjKjuce8snEpDQAMvAO9_frXN0H-VHDkCg7Okbmsl6lbF2uZ_IoB41I6fOnNnls7KI9awNR08lu6F0Oi5wj7xEYzugLJ1f8lh5IKE2xuBjFf0lgDbtIFcTE5CCr4GvQyL-Ioj46cPh0WJoV1YIYDdrrtpVV_FJV4IXU8SFLKHGYB2R7SUvd2m_0NiqtVswmpvsp2nsPrNr-WzDbwifAL8kNfUIBmdKGkrktHR3VLihmgNm0jFQ8PbPxW9qK7D7Z0TuOMZ8wOpxbrCwOgiP4DINGXB9SScLhwM5CH93uai3F-dTCzyFB38mevVrzPdI8V5mKHWy1pIf-5UB7STgKdLwudJu2LsK6Z-vz686DyblM3YgB4AQQw1dqcFY1eBtUT7Xhi_RpQB5GQHmHiG0MzRZxfmJfCvUWFJHz9zB6FS411JFxKXdNsN01xtdVRguiStKUFut4_6Q_ID3wONHIZjPCG9AkYNuATzDH-j1FBFEskhSARNqfTJOxX7Ln3WfmbH8YFOEflqTvMAQjU8bEU1dzI7BYd_doqMvUcQ7RzcfrXFzRwCWBIUoLwkrX0SzcwPiS9bMe27yNaqG2uvLf5B92RIQy4XG2jbgGC7ISEUKRdnKGhoMNttUO9UHSqAax8bL.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
@@ -65,16 +65,19 @@ https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=16
 https://ul.cdn946.net:8443/hls/yolmoo963yo.m3u8?s=RspGDbO_Qk0xqJxP80viPw&e=1600664506
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
-https://ul.cdn946.net:8443/hls/learfrfaw3gwez.m3u8?s=dc4U1RbJRRgIioO6mIHIFw&e=1600664781
+http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/49/3862f1d48e95c482b34b4043312670a8/49_780.ts
 
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/a6708874-7fc0-4d52-b181-8eac0130c185:BRU/variant/0f5ad4ed4d309536ae9b600d5d6ab803/bandwidth/448800.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg", UNIVISION
+http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/50/33ef84491a8916b9c82b3ca0c6dfa0e6/50_4956.ts
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
+http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/33/4f1b9b1bbb9626d695dd07b771c7dd70/33_2903.ts
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
 https://ul.cdn946.net:8443/hls/ynrput0pol6h.m3u8?s=BWrZt-_-x6Rt61jysYawHg&e=1600665554
 
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
 https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=azirdGP9Y9aR3m42u24r_w&e=1600665749
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
