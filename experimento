@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/dash/DiscoveryHD-video=678000.track_id=10000-5422438535580.mp4
+https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
