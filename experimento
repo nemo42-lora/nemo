@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CusErOtN5NTRG6B1kfxhScF1t2WNnLH_6fX5ql5bcbpn9W4K4OJ6_PYORGC6t87xxipi7V8YUlwpWguQaJSx-2W8_TUqSx-k-hYkIE8CCWy5jCVrMx06fyRmz0MxJ-yx1m-Kp2MfbRMamlUAIf3PyOZ49b6BOJmjzVCbCsqC6FXnO5qSXCyW6adZsbXMDxZenBFWV2RlPOTNIBsaJqt9bJwW5Rli_gnse2NdWHnjKjuce8snEpDQAMvAO9_frXN0H-VHDkCg7Okbmsl6lbF2uZ_IoB41I6fOnNnls7KI9awNR08lu6F0Oi5wj7xEYzugLJ1f8lh5IKE2xuBjFf0lgDbtIFcTE5CCr4GvQyL-Ioj46cPh0WJoV1YIYDdrrtpVV_FJV4IXU8SFLKHGYB2R7SUvd2m_0NiqtVswmpvsp2nsPrNr-WzDbwifAL8kNfUIBmdKGkrktHR3VLihmgNm0jFQ8PbPxW9qK7D7Z0TuOMZ8wOpxbrCwOgiP4DINGXB9SScLhwM5CH93uai3F-dTCzyFB38mevVrzPdI8V5mKHWy1pIf-5UB7STgKdLwudJu2LsK6Z-vz686DyblM3YgB4AQQw1dqcFY1eBtUT7Xhi_RpQB5GQHmHiG0MzRZxfmJfCvUWFJHz9zB6FS411JFxKXdNsN01xtdVRguiStKUFut4_6Q_ID3wONHIZjPCG9AkYNuATzDH-j1FBFEskhSARNqfTJOxX7Ln3WfmbH8YFOEflqTvMAQjU8bEU1dzI7BYd_doqMvUcQ7RzcfrXFzRwCWBIUoLwkrX0SzcwPiS9bMe27yNaqG2uvLf5B92RIQy4XG2jbgGC7ISEUKRdnKGhoMNttUO9UHSqAax8bL.m3u8
+https://raw.githubusercontent.com/nemo42-lora/canales-2/master/DISCOVERY%20CHANNEL
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
