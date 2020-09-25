@@ -28,13 +28,13 @@ https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=lRxAYgEBVpwHB-B0P38Bfg&e=
 https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
-https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=Im_Z0nJIxvsxV3tbEx2rVw&e=1600660301
+http://23.237.54.42/hls/BOOMERANGMX-9794.ts
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
 https://ul.cdn946.net:8443/hls/dmsz3.m3u8?s=sMKB8KqDZpG06sGpR3SYXw&e=1600720656
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
-https://ul.cdn946.net:8443/hls/cvkigz4a.m3u8?s=3twJbSD05uK6HnbW2UTBNg&e=1600721324
+http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
 https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
