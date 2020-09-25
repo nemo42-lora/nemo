@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CusErOtN5NTRG6B1kfxhScF1t2WNnLH_6fX5ql5bcbpn9W4K4OJ6_PYORGC6t87xxipi7V8YUlwpWguQaJSx-2W8_TUqSx-k-hYkIE8CCWy5jCVrMx06fyRmz0MxJ-yx1m-Kp2MfbRMamlUAIf3PyOZ49b6BOJmjzVCbCsqC6FXnO5qSXCyW6adZsbXMDxZenBFWV2RlPOTNIBsaJqt9bJwW5Rli_gnse2NdWHnjKjuce8snEpDQAMvAO9_frXN0H-VHDkCg7Okbmsl6lbF2uZ_IoB41I6fOnNnls7KI9awNR08lu6F0Oi5wj7xEYzugLJ1f8lh5IKE2xuBjFf0lgDbtIFcTE5CCr4GvQyL-Ioj46cPh0WJoV1YIYDdrrtpVV_FJV4IXU8SFLKHGYB2R7SUvd2m_0NiqtVswmpvsp2nsPrNr-WzDbwifAL8kNfUIBmdKGkrktHR3VLihmgNm0jFQ8PbPxW9qK7D7Z0TuOMZ8wOpxbrCwOgiP4DINGXB9SScLhwM5CH93uai3F-dTCzyFB38mevVrzPdI8V5mKHWy1pIf-5UB7STgKdLwudJu2LsK6Z-vz686DyblM3YgB4AQQw1dqcFY1eBtUT7Xhi_RpQB5GQHmHiG0MzRZxfmJfCvUWFJHz9zB6FS411JFxKXdNsN01xtdVRguiStKUFut4_6Q_ID3wONHIZjPCG9AkYNuATzDH-j1FBFEskhSARNqfTJOxX7Ln3WfmbH8YFOEflqTvMAQjU8bEU1dzI7BYd_doqMvUcQ7RzcfrXFzRwCWBIUoLwkrX0SzcwPiS9bMe27yNaqG2uvLf5B92RIQy4XG2jbgGC7ISEUKRdnKGhoMNttUO9UHSqAax8bL.m3u8
+http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
 
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
-https://ul.cdn946.net:8443/hls/cr30346syxge64.m3u8?s=B0n_laBOqmAhq6mlAftb5Q&e=1600666503
+http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
-https://ul.cdn946.net:8443/hls/dsnb3fsix7.m3u8?s=3pSNPfJNVZ7D5AslFGoQig&e=1600666606
+http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
-https://ul.cdn946.net:8443/hls/xv2vgszc.m3u8?s=3x4Nxn5w_i7JmJPF3tTeHw&e=1600642570
+http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
 https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
-https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=WLMyZaUQN_djsyNJFG3XAg&e=1600655228
+http://23.237.54.42/hls/NATGEOMX.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="documentales", HISTORY HD
-https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=lRxAYgEBVpwHB-B0P38Bfg&e=1600655911
+http://23.237.54.42/hls/HISTORYMX.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="documentales", HISTORY 2
 https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
@@ -58,7 +58,7 @@ http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
 https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
-https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=1600664427
+http://23.237.32.130/hls/TLNOVELAS.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
 http://cinematicket.club/tv1.php?c=17&p=3&k=tecnotv&f=.m3u8
@@ -67,7 +67,7 @@ http://cinematicket.club/tv1.php?c=17&p=3&k=tecnotv&f=.m3u8
 https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600720446
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg", UNIVISION
-http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/50/33ef84491a8916b9c82b3ca0c6dfa0e6/50_4956.ts
+http://23.237.32.130/hls/UNIVISION.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
 https://paredo13.pedromo.me/live/azteca7/4347.ts
