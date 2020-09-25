@@ -43,7 +43,7 @@ https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=16006611
 https://ul.cdn946.net:8443/hls/51wwpib23i7aiv6.m3u8?s=nZQH4B59A8cj09DyJc080A&e=1600720774
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
-https://ul.cdn946.net:8443/hls/ccury3.m3u8?s=wVyGR-siW5fIgbV59jzgMw&e=1600721095
+https://petopu152.caraponi.me/live/plusdisney/index.m3u8?token=M-NiC5cmzJdvO-jvaKMvcg&expires=1601135253
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
 https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1600661895
@@ -56,7 +56,7 @@ https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=L2GYONUCa1iFJ4NCpZQ0eg&e=1600
 
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
-https://ul.cdn946.net:8443/hls/ib2w7oq.m3u8?s=MMIs-wkeuBzkB0Hskd-j0Q&e=1600664337
+https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
 https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=1600664427
@@ -71,7 +71,7 @@ https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600
 http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/50/33ef84491a8916b9c82b3ca0c6dfa0e6/50_4956.ts
 
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-http://cinematicket.club/tv1.php?c=311&p=3&k=tecnotv&f=.m3u8
+https://paredo13.pedromo.me/live/azteca7/4347.ts
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
 http://cinematicket.club/tv1.php?c=27&p=3&k=tecnotv&f=.m3u8
@@ -81,126 +81,9 @@ http://cinematicket.club/tv1.php?c=20&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
-#EXTINF: -1,LOS SIMPSONS 24/7
-http://iptvnation.com/simpsonslat.mp4?
 
-#EXTM3U10.
- 
-#EXTINF:-1,11.
- 
-http://#.m3u8#EXTINF:-1,ADN 4012.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8#EXTINF:-1,AZTECA 713.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8#EXTINF:-1,AZTECA 114.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE03.m3u8#EXTINF:-1,AZTECA 40 HD15.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8#EXTINF:-1,MEXIQUENSE TV16.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8#EXTINF:-1,AZTECA CORAZON17.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8#EXTINF:-1,LAS ESTRELLAS18.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8#EXTINF:-1,CANAL 5 HD19.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8#EXTINF:-1,SUNDANCE20.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE03.m3u8#EXTINF:-1,LAS ESTRELLAS21.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u822.
- 
-#EXTINF:-1,CANAL 523.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u824.
- 
-#EXTINF:-1,AZTECA 7 HD25.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u826.
- 
-#EXTINF:-1,CANAL NUEVE27.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u828.
- 
-#EXTINF:-1,CANAL ONCE29.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u830.
- 
-#EXTINF:-1,AZTECA UNO31.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u832.
- 
-#EXTINF:-1,BABY TV33.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u834.
- 
-#EXTINF:-1,GOLDEN35.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u836.
- 
-#EXTINF:-1,EURO CHANNEL37.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE03.m3u838.
- 
-#EXTINF:-1,FILM&ARTS39.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE03.m3u840.
- 
-#EXTINF:-1,ADN 4041.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u842.
- 
-#EXTINF:-1,FORMULA TV43.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u844.
- 
-#EXTINF:-1,MULTIMEDIOS45.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u846.
- 
-#EXTINF:-1,FOX47.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u848.
- 
-#EXTINF:-1,SONY49.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u850.
- 
-#EXTINF:-1,WARNER51.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u852.
- 
-#EXTINF:-1,UNIVERSAL53.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u854.
- 
-#EXTINF:-1,FX55.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u856.
- 
-#EXTINF:-1,A&E57.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u858.
- 
-#EXTINF:-1,AXN59.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u860.
- 
-#EXTINF:-1,TRU TV61.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u862.
- 
-#EXTINF:-1,COMEDY CENTRAL63.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u864.
- 
-#EXTINF:-1,UNICABLE65.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://pbs.twimg.com/profile_images/1257757030/CANAL_9_1_400x400.jpg" group-title="LOCALES", CANAL NUEVE
+http://cinematicket.club/tv1.php?c=27&p=3&k=tecnotv&f=.m3u8
 
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8104.
- 
-#EXTINF:-1,NICK105.
- 
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/450_1000.jpg" group-title="LOCALES", IMAGEN TV
+http://cinematicket.club/tv1.php?c=2298&p=3&k=tecnotv&f=.m3u8
