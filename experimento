@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-https://edge1-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CusErOtN5NTRG6B1kfxhScF1t2WNnLH_6fX5ql5bcbpn9W4K4OJ6_PYORGC6t87xxipi7V8YUlwpWguQaJSx-2W8_TUqSx-k-hYkIE8CCWy5jCVrMx06fyRmz0MxJ-yx1m-Kp2MfbRMamlUAIf3PyOZ49b6BOJmjzVCbCsqC6FXnO5qSXCyW6adZsbXMDxZenBFWV2RlPOTNIBsaJqt9bJwW5Rli_gnse2NdWHnjKjuce8snEpDQAMvAO9_frXN0H-VHDkCg7Okbmsl6lbF2uZ_IoB41I6fOnNnls7KI9awNR08lu6F0Oi5wj7xEYzugLJ1f8lh5IKE2xuBjFf0lgDbtIFcTE5CCr4GvQyL-Ioj46cPh0WJoV1YIYDdrrtpVV_FJV4IXU8SFLKHGYB2R7SUvd2m_0NiqtVswmpvsp2nsPrNr-WzDbwifAL8kNfUIBmdKGkrktHR3VLihmgNm0jFQ8PbPxW9qK7D7Z0TuOMZ8wOpxbrCwOgiP4DINGXB9SScLhwM5CH93uai3F-dTCzyFB38mevVrzPdI8V5mKHWy1pIf-5UB7STgKdLwudJu2LsK6Z-vz686DyblM3YgB4AQQw1dqcFY1eBtUT7Xhi_RpQB5GQHmHiG0MzRZxfmJfCvUWFJHz9zB6FS411JFxKXdNsN01xtdVRguiStKUFut4_6Q_ID3wONHIZjPCG9AkYNuATzDH-j1FBFEskhSARNqfTJOxX7Ln3WfmbH8YFOEflqTvMAQjU8bEU1dzI7BYd_doqMvUcQ7RzcfrXFzRwCWBIUoLwkrX0SzcwPiS9bMe27yNaqG2uvLf5B92RIQy4XG2jbgGC7ISEUKRdnKGhoMNttUO9UHSqAax8bL.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=hsFooi1ZsJU1DmRVxo9UyQ&e=1600666422
@@ -34,7 +34,7 @@ https://ul.cdn946.net:8443/hls/54ryn.m3u8?s=Im_Z0nJIxvsxV3tbEx2rVw&e=1600660301
 https://ul.cdn946.net:8443/hls/dmsz3.m3u8?s=sMKB8KqDZpG06sGpR3SYXw&e=1600720656
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
-https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=yNyjQFf8jyTIeWVUoIsOhQ&e=1600660850
+https://ul.cdn946.net:8443/hls/cvkigz4a.m3u8?s=3twJbSD05uK6HnbW2UTBNg&e=1600721324
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
 https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
@@ -62,7 +62,7 @@ https://ul.cdn946.net:8443/hls/ib2w7oq.m3u8?s=MMIs-wkeuBzkB0Hskd-j0Q&e=160066433
 https://ul.cdn946.net:8443/hls/1rh525v6au6962.m3u8?s=56lHnzl-klCVzFHG3-xRLQ&e=1600664427
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
-https://ul.cdn946.net:8443/hls/yolmoo963yo.m3u8?s=RspGDbO_Qk0xqJxP80viPw&e=1600664506
+http://cinematicket.club/tv1.php?c=17&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
 https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600720446
@@ -71,13 +71,14 @@ https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600
 http://89.105.194.59:25461/hls/mx2FWg/mx2FWg/50/33ef84491a8916b9c82b3ca0c6dfa0e6/50_4956.ts
 
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/de52ce32-695c-4ee2-8ce9-39e83297d024:BRU/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
+http://cinematicket.club/tv1.php?c=311&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
-https://ul.cdn946.net:8443/hls/ynrput0pol6h.m3u8?s=BWrZt-_-x6Rt61jysYawHg&e=1600665554
+http://cinematicket.club/tv1.php?c=27&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
-https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=azirdGP9Y9aR3m42u24r_w&e=1600665749
+http://cinematicket.club/tv1.php?c=17&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
+
