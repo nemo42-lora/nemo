@@ -55,7 +55,7 @@ http://23.237.54.42/hls/NICKJUNIORMX.m3u8
 http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
-https://paredo14.pedromo.me/live/tlnovelas/10299.ts
+https://chromecast.cvattv.com.ar/live/live/Pasiones/SA_Live_dash_enc/Pasiones.mpd
 
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
 http://23.237.32.130/hls/TLNOVELAS.m3u8
