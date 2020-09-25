@@ -28,10 +28,10 @@ https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=lRxAYgEBVpwHB-B0P38Bfg&e=
 https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
 
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
-http://23.237.54.42/hls/BOOMERANGMX-9794.ts
+http://23.237.54.42/hls/BOOMERANGMX.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
-https://ul.cdn946.net:8443/hls/dmsz3.m3u8?s=sMKB8KqDZpG06sGpR3SYXw&e=1600720656
+http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
 http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
@@ -40,10 +40,10 @@ http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
 https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="" group-title="CANALES INFANTILES", DISCOVERY KIDS HD
-https://ul.cdn946.net:8443/hls/51wwpib23i7aiv6.m3u8?s=nZQH4B59A8cj09DyJc080A&e=1600720774
+http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
-https://petopu152.caraponi.me/live/plusdisney/index.m3u8?token=M-NiC5cmzJdvO-jvaKMvcg&expires=1601135253
+http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
 https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1600661895
