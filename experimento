@@ -37,23 +37,22 @@ http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
 http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
-https://ul.cdn946.net:8443/hls/poa3fhkb.m3u8?s=EyI-Qs6USMoiBxMIp72_GA&e=1600661124
+http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="" group-title="CANALES INFANTILES", DISCOVERY KIDS HD
 http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
-http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
+http://23.237.54.42/hls/DISNEYXDMX.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
-https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=Vmi60ptk0HNBYKwxO61PVQ&e=1600661895
+http://23.237.54.42/hls/NICKMX.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="CANALES INFANTILES", NICK JR
-https://ul.cdn946.net:8443/hls/pj2q41ey3.m3u8?s=jbZhGEv_-dnphLYJGwtamQ&e=1600663212
+http://23.237.54.42/hls/NICKJUNIORMX.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
-https://ul.cdn946.net:8443/hls/pw34a6kvro2m.m3u8?s=L2GYONUCa1iFJ4NCpZQ0eg&e=1600664009
-
+http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
 https://paredo14.pedromo.me/live/tlnovelas/10299.ts
