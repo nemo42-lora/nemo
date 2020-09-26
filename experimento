@@ -63,9 +63,6 @@ https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
 http://23.237.32.130/hls/TLNOVELAS.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
-http://cinematicket.club/tv1.php?c=17&p=3&k=tecnotv&f=.m3u8
-
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
 https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600720446
 
@@ -73,13 +70,13 @@ https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600
 http://23.237.32.130/hls/UNIVISION.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-https://paredo13.pedromo.me/live/azteca7/4347.ts
+http://dominiopersonal.xyz:25464/porpro/bRxmp1kk4R/134
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
-http://cinematicket.club/tv1.php?c=27&p=3&k=tecnotv&f=.m3u8
+http://23.237.54.42/hls/AZTECA1MX.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
-http://cinematicket.club/tv1.php?c=20&p=3&k=tecnotv&f=.m3u8
+http://23.237.54.42/hls/CANAL5MX.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
 https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
