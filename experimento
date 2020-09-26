@@ -132,26 +132,29 @@ http://23.237.54.42/hls/CINECANALMX.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CANALES PREMIUM", FOX PREMIUM ACTION
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88737
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="CANALES PREMIUM", FOX PREMIUM CLASSICS
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="CANALES PREMIUM", FOX PREMIUM CLASSICS
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88749
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM COMEDY
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88750
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="CANALES PREMIUM", FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="CANALES PREMIUM", FOX PREMIUM MOVIES
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88740
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM SERIES
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM SERIES
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88736
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://miracomosehace.com/wp-content/uploads/mch/id_1228.jpg" group-title="CANALES PREMIUM", HBO
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://miracomosehace.com/wp-content/uploads/mch/id_1228.jpg" group-title="CANALES PREMIUM", HBO
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CANALES PREMIUM", HBO 2
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CANALES PREMIUM", HBO 2
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
+
+#WXTINF:-1 tvg-chno="69", ver
+https://rzwkzwdwk.xyz/live/64uFEwGQxx/VaPXY0cTOJ/326.ts
