@@ -27,6 +27,9 @@ http://23.237.54.42/hls/HISTORYMX.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="documentales", HISTORY 2
 https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
 
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge-300x300.jpg" group-title="documentales", GOLDEN EDGE
+http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
+
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
 http://23.237.54.42/hls/BOOMERANGMX.m3u8
 
@@ -104,3 +107,51 @@ http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORT 3
 http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES", TUDN SPORT
+https://e10.habrox.xyz/ingest777/akm/bQ2JGGVzTpqfCfcTZWay1Q.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="PELICULAS", CINEMAX
+http://23.237.54.42/hls/CINEMAXMX.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="PELICULAS", GOLDEN
+http://23.237.54.42/hls/GOLDENMX.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-golden-plus.jpg" group-title="PELICULAS", GOLDEN PLUS
+http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-logo="https://i.blogs.es/d334c7/paramount-channel-logo-tm1/1366_2000.jpg" group-title="PELICULAS", PARAMOUNT CHANNEL
+http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" group-title="PELICULAS", TNT
+http://23.237.54.42/hls/TNTMX.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PELICULAS", CINE CANAL
+http://23.237.54.42/hls/CINECANALMX.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CANALES PREMIUM", FOX PREMIUM ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88737
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="CANALES PREMIUM", FOX PREMIUM CLASSICS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88749
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88750
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="CANALES PREMIUM", FOX PREMIUM MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88740
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM SERIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88736
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://miracomosehace.com/wp-content/uploads/mch/id_1228.jpg" group-title="CANALES PREMIUM", HBO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CANALES PREMIUM", HBO 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
