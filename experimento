@@ -57,14 +57,14 @@ http://23.237.54.42/hls/NICKJUNIORMX.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
 http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
-http://23.237.54.42/hls/LASESTRELLASMX.m3u8
-
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
 https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
 http://23.237.32.130/hls/TLNOVELAS.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
+http://23.237.54.42/hls/LASESTRELLASMX.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
 https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600720446
