@@ -73,7 +73,7 @@ https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600
 http://23.237.32.130/hls/UNIVISION.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-http://dominiopersonal.xyz:25464/porpro/bRxmp1kk4R/134
+https://gt-chapintv-canal3-app-j7fhmz-live-0-cdn-0.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
 http://23.237.54.42/hls/AZTECA1MX.m3u8
