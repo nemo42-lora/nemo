@@ -57,6 +57,9 @@ http://23.237.54.42/hls/NICKJUNIORMX.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
 http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
 
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ytimg.com/vi/rtxIkYUzjU8/maxresdefault.jpg" group-title="CANALES INFANTILES", TOONCAST
+http://23.237.54.42/hls/TOONCASTMX.m3u8
+
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
 https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 
@@ -129,7 +132,10 @@ http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" group-title="PELICULAS", TNT
 http://23.237.54.42/hls/TNTMX.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PELICULAS", CINE CANAL
+#EXTINF:-1 tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS", SONY CHANNEL
+http://23.237.54.42/hls/SONYMX.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PELICULAS", CINE CANAL
 http://23.237.54.42/hls/CINECANALMX.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CANALES PREMIUM", FOX PREMIUM ACTION
@@ -153,8 +159,32 @@ http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
 #EXTINF:-1 tvg-chno="66" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CANALES PREMIUM", HBO 2
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
+#EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
+#EXTINF:-1 tvg-chno="68" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
 http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
+
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="ENTRETENIMIENTO", SPACE
+http://23.237.54.42/hls/SPACEMX.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="ENTRETENIMIENTO", AXN
+http://23.237.54.42/hls/AXNMX.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2015/04/wbtv-890x538.jpg" group-title="ENTRETENIMIENTO", WHARNER CHANNEL
+http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="ENTRETENIMIENTO", A&E
+http://23.237.54.42/hls/A-AND-EMX.m3u8 
+
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://www.eitmedia.mx/media/k2/items/cache/3ed2aac558cea007c88e889a4023d829_XL.jpg" group-title="ENTRETENIMIENTO", SYFY
+http://23.237.54.42/hls/SYFYMX.m3u8 
+
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://lh3.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U" group-title="ENTRETENIMIENTO", TBS
+http://23.237.54.42/hls/TBSMX.m3u8
+
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ENTRETENIMIENTO", TCM
+http://23.237.54.42/hls/TCMMX.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
