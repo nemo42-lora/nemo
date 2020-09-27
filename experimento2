@@ -1,331 +1,1151 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/24Horas.es.png" group-title="News",24 Horas (Opt-1)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="News",24 Horas (Opt-2)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",24 Horas (Opt-3)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="",25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24 (Opt-2)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",3/24 (Opt-3)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="Local",7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="Local",A Punt
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alacantitv.com/wp-content/uploads/2017/03/logo_moviles-1.png" group-title="",Alacanti TV
-http://5.39.65.105/hls/alacantixa.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alcarria.tv/web/wp-content/uploads/2016/09/logotipo_alcarria_television.png" group-title="",Alcarria TV (Opt-1)
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 ES" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="General",Antena 3 (Opt-1)
-https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="Antena 3 ES" tvg-logo="https://static.iptv-epg.com/es/Antena3.es.png" group-title="General",Antena 3 (Opt-2)
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gD5eYVs.jpg" group-title="General",Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/beteve-logo-brandemia.jpg" group-title="",Betevé
-http://cdnapi.kaltura.com/p/2346171//sp//234617100//playManifest//entryId//1_n6442jz0//protocol//http//format//applehttp//a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="",Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Boing_circular_500.png" group-title="Kids",Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" group-title="",Bon Dia TV (Opt-1)
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Bon_Dia_TV.png/210px-Logo_Bon_Dia_TV.png" group-title="Local",Bon Dia TV (Opt-2)
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="",Cadena Elite
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="",Canal 25 Barbastro
-http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="",Canal 33 Madrid
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal 4 Tenerife (Opt-1)
-http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="Local",Canal 4 Tenerife (Opt-2)
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canal56.com/wp-content/uploads/2017/06/logoc56header.png" group-title="Local",Canal 56
-https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Extremadura (Opt-1)
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Extremadura (Opt-2)
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV" tvg-logo="" group-title="Local",Canal Extremadura (Opt-3)
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title="Local",Canal Málaga (Opt-1)
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/logo1.png" group-title="Local",Canal Málaga (Opt-2)
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="Local",Canal Málaga (Opt-3)
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tZEu1dV.png" group-title="",Canal Parlament
-http://cdn.s6.eu.nice264.com:1935/niceLiveServer/pcatlive_canal1_MB_800/.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/CANAL-PARLAMENTO.png" group-title="",Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="",Canal San Roque
-http://common01.todostreaming.es/live/sanroque-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9OirosV.png" group-title="",Canal Sur Andalucia
-http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-sur-png-5-300x200.png" group-title="Local",Canal Sur Cocina (Opt-1)
-https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Sur Cocina (Opt-2)
-http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vod.streamingconnect.tv/cscocina/admin/Uploads/medias/logo.png" group-title="",Canal Sur Cocina (Opt-3)
-https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3siqxhh.png" group-title="",Canal Sur Cocina (Opt-4)
-https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JkM7YSM.png" group-title="",Canal Sur Eventos 1
-http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CIOQGyj.png" group-title="",Canal Sur Flamenco (Opt-1)
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/15912_logo_canal_sur_flamenco2.png" group-title="",Canal Sur Flamenco (Opt-2)
-https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Canal Sur La Banda (Opt-1)
-http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9hve8V5.png" group-title="",Canal Sur La Banda (Opt-2)
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.labanda.canalsur.es/css/cssimg/logo.png" group-title="Local",Canal Sur La Banda (Opt-3)
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diariodesevilla.es/resources/images/0001688255.jpg" group-title="Local",Canal Sur La Banda (Opt-4)
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ngU6UBb.png" group-title="",Canal Sur Turismo (Opt-1)
-https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/CANAL-SUR-TURISMO.png" group-title="",Canal Sur Turismo (Opt-2)
-https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFZCqGj.png" group-title="",Canal Taronja Osona
-http://ventdelnord.tv:8080/taronja/directe.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/btUKfIa.png" group-title="",Canal Terrassa (Opt-1)
-http://5.189.181.203:1935/terrassaweb/terrassaweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Terrassa" tvg-logo="New Logo" group-title="Local",Canal Terrassa (Opt-2)
-http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1RVS7Wh.png" group-title="",Canalcosta TV (Opt-1)
-http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.Canalcostatv.es/wp-content/uploads/2013/12/logo-cabecera.png" group-title="",Canalcosta TV (Opt-2)
-http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/90JtWsA.png" group-title="",CCMA Exclusiu 1
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca1_web/master_DVR.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/90JtWsA.png" group-title="",CCMA Exclusiu 2
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca2_web/master_DVR.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="",Condavision
-http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-logo="https://static.iptv-epg.com/es/Cosmo.es.png" group-title="General",Cuatro (Opt-1)
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="Cuatro ES" tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="General",Cuatro (Opt-2)
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nMXmRPZ.png" group-title="",CYL TV Castilla Leon
-http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/Divinity.es.png" group-title="General",Divinity (Opt-1)
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="General",Divinity (Opt-2)
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2sdmBlz.png" group-title="",Dubbi Kids
-https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mRnasqG.png" group-title="",Ecija Comarca TV
-http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB (Opt-1)
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB (Opt-2)
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",EITB (Opt-3)
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg" group-title="Local",EITB (Opt-4)
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1200px-33_%28CCMA%29.svg.png" group-title="",El 33 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/1200px-33_%28CCMA%29.svg.png" group-title="",El 33 (Opt-2)
-http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",El 33 (Opt-3)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UxjG3AB.png" group-title="",El Correo de Andalucia
-http://common01.todostreaming.es/live/elcorreotv-livestream.m3u8
-#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://static.iptv-epg.com/es/Energy.es.png" group-title="General",Energy (Opt-1)
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="General",Energy (Opt-2)
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/adySzI2.png" group-title="",Esplugues Televisio
-https://vodingesta1083.cdnmedia.tv/video/etv/lcnhpgm134311015ceb4c0c-e8af_H,700,1500,.MP4.urlset/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.programacion-tdt.com/imgAPP/Esport3.min.png" group-title="",Esport 3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="",Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/1200px-ETB1_Spain.svg.png" group-title="Local",ETB 1 (Opt-1)
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/1200px-ETB1_Spain.svg.png" group-title="Local",ETB 1 (Opt-2)
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ETB2_Spain.svg/1200px-ETB2_Spain.svg.png" group-title="Local",ETB 2 (Opt-1)
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="Local",ETB 2 (Opt-2)
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/225px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="",FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="",Galicia TV América
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u8aoGk6.png" group-title="",Gigante TV
-http://85.214.130.95:8080/live/stream.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2do66TO.png" group-title="",GITB
-https://5940924978228.streamlock.net/8155/8155/chunklist_w707917731.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="",Hamaika Telebista
-http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="",Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/LOGO-GLOBALTV.png" group-title="Music",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="",Interalmeria TV
-http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="",Intereconomia TV
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-logo="https://static.iptv-epg.com/es/LA1.es.png" group-title="",LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jVxJ4lW.png" group-title="",La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_La_7.svg/150px-Logo_La_7.svg.png" group-title="Local",La 7 Castilla (Opt-1)
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_RTVCYL.svg/245px-Logo_RTVCYL.svg.png" group-title="Local",La 7 Castilla (Opt-2)
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/330px-7TVRM.svg.png" group-title="Local",La 7 TV Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta ES" tvg-logo="https://static.iptv-epg.com/es/LaSexta.es.png" group-title="General",La Sexta (Opt-1)
-https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="La Sexta ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="General",La Sexta (Opt-2)
-https://livestartover.atresmedia.com/lasexta/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="Entertainment",La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Lancelot TV (Opt-1)
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Lancelot TV (Opt-2)
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="",Lebrija TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="",Los 40
-https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg" group-title="News",Mas 24 Horas
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/7367_logo_tv_melilla4.png" group-title="Local",Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/61ttFDF.png" group-title="",Mijas 3.40 TV
-http://mijas.hls.flumotion.com/mijas/live-hls/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="",mtmad 24h (Opt-1)
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="",mtmad 24h (Opt-2)
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Onda Cádiz
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png" group-title="",Onda Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="",Paramount Channel
-http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Local",Popular TV Melilla (Opt-1)
-https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/populartvmelilla.es/wp-content/uploads/2019/03/popweb.png" group-title="Local",Popular TV Melilla (Opt-2)
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.7phonebenimaclet.es/wp-content/uploads/2013/04/logo-PTV-redondeado.png" group-title="",PTV Cordoba
-http://149.91.98.146:1935/cordoba/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.albertoballesteros.com/wp-content/uploads/2016/04/onda-W900-W900.jpg" group-title="",Radio Onda Madrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Sport",Real Betis TV
-https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-QaVUh3LAh2g/WVJEIoTdIYI/AAAAAAAAHeE/PPaKtUxVtwIziTuY46721XotnxUMnwn8ACLcBGAs/s1600/real_madrid_tv_es_english.png" group-title="Sport",Real Madrid TV (English) (Opt-1)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="Sport",Real Madrid TV (English) (Opt-2)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png" group-title="Sport",Real Madrid TV (Opt-1)
-http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="Sport",Real Madrid TV (Opt-2)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Sport",Real Madrid TV (Opt-3)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/realm.png" group-title="Sport",Real Madrid TV (Opt-4)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="" group-title="Sport",Real Madrid TV (Opt-5)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="Sport",Real Madrid TV (Opt-6)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o8EtLad.png" group-title="",RiberaTV
-http://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://doc-it.es/wp-content/uploads/2016/06/RTPA_logo.svg_.png" group-title="",RTPA Asturias
-https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtvce.es/fotos/logo-web-new_15400183441_15443530361.png" group-title="Local",RTVCE (Opt-1)
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png" group-title="Local",RTVCE (Opt-2)
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ceuta TV" tvg-logo="https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Local",RTVCE (Opt-3)
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RTVE
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
-https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taroteame TV" tvg-logo="" group-title="Religious",Taroteame TV
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco ES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="General",Telecinco (Opt-1)
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="Telecinco ES" tvg-logo="https://static.iptv-epg.com/es/Telecinco.es.png" group-title="General",Telecinco (Opt-2)
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vpWSsZ7.png" group-title="",Teleonuba
-http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TeleSafor (Opt-1)
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/889448960150183936/MjLSsZV8_400x400.jpg" group-title="Local",TeleSafor (Opt-2)
-http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="",Televisio Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="Local",TPA 7
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
-#EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="TV Galicia ES" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="",TV Galicia (Opt-1)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="TV Galicia ES" tvg-logo="https://i.imgur.com/A89L7IJ.png" group-title="",TV Galicia (Opt-2)
-http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4idkRI.png" group-title="",TV Hellin
-http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="",TV Municipal Cordoba
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3 (Opt-1)
-http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TVC.svg/1200px-TVC.svg.png" group-title="Local",TV3 (Opt-2)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="Local",TV3 (Opt-3)
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3 (Opt-4)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3 (Opt-5)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
-#EXTINF:-1 tvg-id="TV3 Cat ES" tvg-name="TV3 Cat ES" tvg-logo="" group-title="Local",TV3 (Opt-6)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoTonIp.png" group-title="",TVG 2 (Opt-1)
-http://events3-crtvg.flumotion.com/crtvg/events3/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="",TVG 2 (Opt-2)
-http://events2-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/330px-TvG2.jpg" group-title="Local",TVG 2 (Opt-3)
-http://events3-crtvg.flumotion.com/crtvg/events3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="Local",TVG Cultural (Opt-1)
-http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="",TVG Cultural (Opt-2)
-http://cultural-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="",TVG Evento 1
-http://events1-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="",TVG Infantil (Opt-1)
-http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="Local",TVG Infantil (Opt-2)
-http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="Local",TVG Momento
-http://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/TVGalicia.es.png" group-title="Local",TVG Musigal (Opt-1)
-http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="",TVG Musigal (Opt-2)
-http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="",Urola Telebista
-https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Tutorials Review" https://drive.google.com/open?id=1xXz_dnOPp2A9mEbNVyhkgq6MMN9brhSH4Q" group-title="Tutorials Review",Adulto+18
+https://www.youtube.com/channel/UC6qEcXBiDsRcRxhZV4VKVlA
+#EXTINF:-1 tvg-ID="" tvg-name="Covid 19" tvg-logo="https://img.medscapestatic.com/es/fullsize/Clinical_Trend/5905041-article_2.21.png" group-title="Pandemia",Covid 19
+http://54.39.129.80:8000/movie/flowtv/2791/18104.mp4
+#EXTINF:0 tvg-id="avi" group-title="ADULTO",88
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="XXX Adultos", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg" group-title="XXX Adultos", Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4517/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4521/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4523/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4524/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4525/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4526/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4527/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4528/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4529/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4530/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4531/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4533/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4534/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4536/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-20+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-21+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-1+18 3D 
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-10+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-11+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-13+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-15+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-16+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-25+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-3+18 3D 
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-4+18 3D 
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-5+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-6+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-7+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-8+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-9+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 1 (Adulto +18)
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 4 (Adulto +18)
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 5 (Adulto +18)
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 6 (Adulto +18)
+http://static.brazzers.com/scenes/3339/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 5 (Adulto +18)
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 6 (Adulto +18)
+http://static.brazzers.com/scenes/3341/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 7 (Adulto +18)
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 8 (Adulto +18)
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 9 (Adulto +18)
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 10 (Adulto +18)
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="CANAIS ADULTOS [+18]",Videos:Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Gerta
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Irina
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Jane
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Lacie Channing
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Mirabella
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
+#EXTINF:0 tvg-id="ext" group-title="FILMES",Natalia_Rossi
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Neona
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-+18 3D
+http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-12+18 3D
+http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-14+18 3D
+http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-17+18 3D
+http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-18+18 3D
+http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-19+18 3D
+http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-2+18 3D
+http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-22+18 3D
+http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-23+18 3D
+http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-24+18 3D
+http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-27+18 3D
+http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-28+18 3D
+http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-29+18 3D
+http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-30+18 3D
+http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-31+18 3D
+http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-32+18 3D
+http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="CLIPES",XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 1
+http://static.brazzers.com/scenes/3351/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 10
+http://static.brazzers.com/scenes/3360/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 100
+http://static.brazzers.com/scenes/3449/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 101
+http://static.brazzers.com/scenes/3450/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 102
+http://static.brazzers.com/scenes/3451/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 103
+http://static.brazzers.com/scenes/3481/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 104
+http://static.brazzers.com/scenes/3453/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 105
+http://static.brazzers.com/scenes/3454/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 106
+http://static.brazzers.com/scenes/3455/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 107
+http://static.brazzers.com/scenes/3480/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 108
+http://static.brazzers.com/scenes/3479/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 109
+http://static.brazzers.com/scenes/3458/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 11
+http://static.brazzers.com/scenes/3361/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 110
+http://static.brazzers.com/scenes/3459/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 111
+http://static.brazzers.com/scenes/3460/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 112
+http://static.brazzers.com/scenes/3461/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 113
+http://static.brazzers.com/scenes/3462/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 114
+http://static.brazzers.com/scenes/3463/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 115
+http://static.brazzers.com/scenes/3478/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 116
+http://static.brazzers.com/scenes/3465/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 117
+http://static.brazzers.com/scenes/3350/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 118
+http://static.brazzers.com/scenes/3291/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 119
+http://static.brazzers.com/scenes/3292/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 12
+http://static.brazzers.com/scenes/3362/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 120
+http://static.brazzers.com/scenes/3293/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 121
+http://static.brazzers.com/scenes/3294/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 122
+http://static.brazzers.com/scenes/3295/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 123
+http://static.brazzers.com/scenes/3296/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 124
+http://static.brazzers.com/scenes/3297/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 125
+http://static.brazzers.com/scenes/3298/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 126
+http://static.brazzers.com/scenes/3477/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 127
+http://static.brazzers.com/scenes/3300/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 128
+http://static.brazzers.com/scenes/3301/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 129
+http://static.brazzers.com/scenes/3302/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 13
+http://static.brazzers.com/scenes/3489/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 130
+http://static.brazzers.com/scenes/3303/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 131
+http://static.brazzers.com/scenes/3304/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 132
+http://static.brazzers.com/scenes/3305/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 133
+http://static.brazzers.com/scenes/3306/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 134
+http://static.brazzers.com/scenes/3307/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 135
+http://static.brazzers.com/scenes/3308/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 136
+http://static.brazzers.com/scenes/3309/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 137
+http://static.brazzers.com/scenes/3310/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 138
+http://static.brazzers.com/scenes/3311/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 139
+http://static.brazzers.com/scenes/3312/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 14
+http://static.brazzers.com/scenes/3488/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 140
+http://static.brazzers.com/scenes/3313/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 141
+http://static.brazzers.com/scenes/3314/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 142
+http://static.brazzers.com/scenes/3315/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 143
+http://static.brazzers.com/scenes/3316/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 144
+http://static.brazzers.com/scenes/3317/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 145
+http://static.brazzers.com/scenes/3318/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 146
+http://static.brazzers.com/scenes/3475/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 147
+http://static.brazzers.com/scenes/3474/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 148
+http://static.brazzers.com/scenes/3321/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 149
+http://static.brazzers.com/scenes/3471/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 15
+http://static.brazzers.com/scenes/3365/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 150
+http://static.brazzers.com/scenes/3323/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 151
+http://static.brazzers.com/scenes/3324/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 152
+http://static.brazzers.com/scenes/3325/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 153
+http://static.brazzers.com/scenes/3326/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 154
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 155
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 156
+http://static.brazzers.com/scenes/3469/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 157
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 158
+http://static.brazzers.com/scenes/3331/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 159
+http://static.brazzers.com/scenes/3332/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 16
+http://static.brazzers.com/scenes/3366/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 160
+http://static.brazzers.com/scenes/3333/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 161
+http://static.brazzers.com/scenes/3334/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 162
+http://static.brazzers.com/scenes/3335/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 163
+http://static.brazzers.com/scenes/3336/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 164
+http://static.brazzers.com/scenes/3337/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 165
+http://static.brazzers.com/scenes/3338/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 166
+http://static.brazzers.com/scenes/3339/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 167
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 168
+http://static.brazzers.com/scenes/3468/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 169
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 17
+http://static.brazzers.com/scenes/3367/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 170
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 171
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 172
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 173
+http://static.brazzers.com/scenes/3466/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 174
+http://static.brazzers.com/scenes/3347/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 175
+http://static.brazzers.com/scenes/3348/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 176
+http://static.brazzers.com/scenes/3349/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 177
+http://static.brazzers.com/scenes/3490/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 178
+http://static.brazzers.com/scenes/3491/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 179
+http://static.brazzers.com/scenes/3492/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 18
+http://static.brazzers.com/scenes/3368/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 180
+http://static.brazzers.com/scenes/3493/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 181
+http://static.brazzers.com/scenes/3494/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 182
+http://static.brazzers.com/scenes/3495/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 183
+http://static.brazzers.com/scenes/3496/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 184
+http://static.brazzers.com/scenes/3497/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 185
+http://static.brazzers.com/scenes/3498/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 186
+http://static.brazzers.com/scenes/3499/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 187
+http://static.brazzers.com/scenes/3500/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 188
+http://static.brazzers.com/scenes/3501/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 189
+http://static.brazzers.com/scenes/3503/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 19
+http://static.brazzers.com/scenes/3369/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 190
+http://static.brazzers.com/scenes/3504/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 191
+http://static.brazzers.com/scenes/3505/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 192
+http://static.brazzers.com/scenes/3507/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 193
+http://static.brazzers.com/scenes/3508/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 194
+http://static.brazzers.com/scenes/3509/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 195
+http://static.brazzers.com/scenes/3510/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 196
+http://static.brazzers.com/scenes/3511/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 197
+http://static.brazzers.com/scenes/3512/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 198
+http://static.brazzers.com/scenes/3513/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 199
+http://static.brazzers.com/scenes/3514/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="18+AdultosAmador",BRAZZERS 2
+http://static.brazzers.com/scenes/3352/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 20
+http://static.brazzers.com/scenes/3487/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 200
+http://static.brazzers.com/scenes/3515/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 201
+http://static.brazzers.com/scenes/3516/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 202
+http://static.brazzers.com/scenes/3517/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 203
+http://static.brazzers.com/scenes/3518/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 204
+http://static.brazzers.com/scenes/3520/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 205
+http://static.brazzers.com/scenes/3521/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 206
+http://static.brazzers.com/scenes/3522/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 207
+http://static.brazzers.com/scenes/3526/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 208
+http://static.brazzers.com/scenes/3527/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 209
+http://static.brazzers.com/scenes/3528/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 21
+http://static.brazzers.com/scenes/3371/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 210
+http://static.brazzers.com/scenes/3529/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 211
+http://static.brazzers.com/scenes/3530/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 212
+http://static.brazzers.com/scenes/3531/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 213
+http://static.brazzers.com/scenes/3534/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 214
+http://static.brazzers.com/scenes/3535/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 215
+http://static.brazzers.com/scenes/3536/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 216
+http://static.brazzers.com/scenes/3537/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 217
+http://static.brazzers.com/scenes/3538/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 218
+http://static.brazzers.com/scenes/3539/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 219
+http://static.brazzers.com/scenes/3540/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 22
+http://static.brazzers.com/scenes/3372/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 220
+http://static.brazzers.com/scenes/3541/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 221
+http://static.brazzers.com/scenes/3542/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 222
+http://static.brazzers.com/scenes/3543/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 223
+http://static.brazzers.com/scenes/3544/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 224
+http://static.brazzers.com/scenes/3545/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 225
+http://static.brazzers.com/scenes/3546/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 227
+http://static.brazzers.com/scenes/3547/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 228
+http://static.brazzers.com/scenes/3548/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 229
+http://static.brazzers.com/scenes/3549/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 23
+http://static.brazzers.com/scenes/3373/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 230
+http://static.brazzers.com/scenes/3550/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 231
+http://static.brazzers.com/scenes/3551/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 232
+http://static.brazzers.com/scenes/3552/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 233
+http://static.brazzers.com/scenes/3553/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 234
+http://static.brazzers.com/scenes/3554/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 235
+http://static.brazzers.com/scenes/3555/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 236
+http://static.brazzers.com/scenes/3556/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 237
+http://static.brazzers.com/scenes/3557/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 238
+http://static.brazzers.com/scenes/3558/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 239
+http://static.brazzers.com/scenes/3559/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 24
+http://static.brazzers.com/scenes/3374/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 240
+http://static.brazzers.com/scenes/3560/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 241
+http://static.brazzers.com/scenes/3561/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 242
+http://static.brazzers.com/scenes/3562/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 243
+http://static.brazzers.com/scenes/3563/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 244
+http://static.brazzers.com/scenes/3564/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 245
+http://static.brazzers.com/scenes/3565/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 246
+http://static.brazzers.com/scenes/3566/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 247
+http://static.brazzers.com/scenes/3567/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 248
+http://static.brazzers.com/scenes/3568/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 249
+http://static.brazzers.com/scenes/3569/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 25
+http://static.brazzers.com/scenes/3375/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 250
+http://static.brazzers.com/scenes/3570/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 251
+http://static.brazzers.com/scenes/3571/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 252
+http://static.brazzers.com/scenes/3572/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 253
+http://static.brazzers.com/scenes/3573/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 254
+http://static.brazzers.com/scenes/3575/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 255
+http://static.brazzers.com/scenes/3576/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 256
+http://static.brazzers.com/scenes/3577/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 257
+http://static.brazzers.com/scenes/3586/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 258
+http://static.brazzers.com/scenes/3588/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 259
+http://static.brazzers.com/scenes/3589/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 26
+http://static.brazzers.com/scenes/3376/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 260
+http://static.brazzers.com/scenes/3590/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 261
+http://static.brazzers.com/scenes/3591/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 262
+http://static.brazzers.com/scenes/3592/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 263
+http://static.brazzers.com/scenes/3593/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 264
+http://static.brazzers.com/scenes/3594/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 265
+http://static.brazzers.com/scenes/3595/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 266
+http://static.brazzers.com/scenes/3596/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 267
+http://static.brazzers.com/scenes/3597/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 268
+http://static.brazzers.com/scenes/3598/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 269
+http://static.brazzers.com/scenes/3599/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 27
+http://static.brazzers.com/scenes/3377/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 270
+http://static.brazzers.com/scenes/3600/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 271
+http://static.brazzers.com/scenes/3601/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 272
+http://static.brazzers.com/scenes/3602/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 273
+http://static.brazzers.com/scenes/3603/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 274
+http://static.brazzers.com/scenes/3604/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 275
+http://static.brazzers.com/scenes/3605/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 276
+http://static.brazzers.com/scenes/3606/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 277
+http://static.brazzers.com/scenes/3607/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 278
+http://static.brazzers.com/scenes/3608/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 279
+http://static.brazzers.com/scenes/3609/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 28
+http://static.brazzers.com/scenes/3378/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 280
+http://static.brazzers.com/scenes/3610/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 281
+http://static.brazzers.com/scenes/3611/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 282
+http://static.brazzers.com/scenes/3612/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 283
+http://static.brazzers.com/scenes/3613/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 284
+http://static.brazzers.com/scenes/3614/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 285
+http://static.brazzers.com/scenes/3615/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 286
+http://static.brazzers.com/scenes/3616/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 287
+http://static.brazzers.com/scenes/3617/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 288
+http://static.brazzers.com/scenes/3619/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 289
+http://static.brazzers.com/scenes/3620/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 29
+http://static.brazzers.com/scenes/3379/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 290
+http://static.brazzers.com/scenes/3621/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 291
+http://static.brazzers.com/scenes/3622/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 292
+http://static.brazzers.com/scenes/3623/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 293
+http://static.brazzers.com/scenes/3625/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 294
+http://static.brazzers.com/scenes/3626/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 295
+http://static.brazzers.com/scenes/3627/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 296
+http://static.brazzers.com/scenes/3628/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 297
+http://static.brazzers.com/scenes/3629/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 298
+http://static.brazzers.com/scenes/3630/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 299
+http://static.brazzers.com/scenes/3631/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="18+AdultosAmador",BRAZZERS 3
+http://static.brazzers.com/scenes/3353/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 30
+http://static.brazzers.com/scenes/3380/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 300
+http://static.brazzers.com/scenes/3632/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 31
+http://static.brazzers.com/scenes/3381/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 32
+http://static.brazzers.com/scenes/3382/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 33
+http://static.brazzers.com/scenes/3383/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 34
+http://static.brazzers.com/scenes/3384/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 35
+http://static.brazzers.com/scenes/3385/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 36
+http://static.brazzers.com/scenes/3386/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 37
+http://static.brazzers.com/scenes/3387/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 38
+http://static.brazzers.com/scenes/3388/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 39
+http://static.brazzers.com/scenes/3485/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="18+AdultosAmador",BRAZZERS 4
+http://static.brazzers.com/scenes/3354/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 40
+http://static.brazzers.com/scenes/3389/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 41
+http://static.brazzers.com/scenes/3390/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 42
+http://static.brazzers.com/scenes/3391/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 43
+http://static.brazzers.com/scenes/3392/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 44
+http://static.brazzers.com/scenes/3393/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 45
+http://static.brazzers.com/scenes/3394/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 46
+http://static.brazzers.com/scenes/3395/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 47
+http://static.brazzers.com/scenes/3396/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 48
+http://static.brazzers.com/scenes/3397/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 49
+http://static.brazzers.com/scenes/3398/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 5
+http://static.brazzers.com/scenes/3355/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 50
+http://static.brazzers.com/scenes/3483/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 51
+http://static.brazzers.com/scenes/3400/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 52
+http://static.brazzers.com/scenes/3401/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 53
+http://static.brazzers.com/scenes/3402/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 54
+http://static.brazzers.com/scenes/3482/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 55
+http://static.brazzers.com/scenes/3404/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 56
+http://static.brazzers.com/scenes/3405/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 57
+http://static.brazzers.com/scenes/3406/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 58
+http://static.brazzers.com/scenes/3407/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 59
+http://static.brazzers.com/scenes/3408/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 6
+http://static.brazzers.com/scenes/3356/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 60
+http://static.brazzers.com/scenes/3409/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 61
+http://static.brazzers.com/scenes/3410/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 62
+http://static.brazzers.com/scenes/3411/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 63
+http://static.brazzers.com/scenes/3412/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 64
+http://static.brazzers.com/scenes/3413/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 65
+http://static.brazzers.com/scenes/3414/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 66
+http://static.brazzers.com/scenes/3415/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 67
+http://static.brazzers.com/scenes/3416/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 68
+http://static.brazzers.com/scenes/3417/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 69
+http://static.brazzers.com/scenes/3418/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 7
+http://static.brazzers.com/scenes/3357/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 70
+http://static.brazzers.com/scenes/3419/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 71
+http://static.brazzers.com/scenes/3420/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 72
+http://static.brazzers.com/scenes/3421/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 73
+http://static.brazzers.com/scenes/3422/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 74
+http://static.brazzers.com/scenes/3423/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 75
+http://static.brazzers.com/scenes/3424/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 76
+http://static.brazzers.com/scenes/3425/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 77
+http://static.brazzers.com/scenes/3426/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 78
+http://static.brazzers.com/scenes/3427/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 79
+http://static.brazzers.com/scenes/3428/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 8
+http://static.brazzers.com/scenes/3358/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 80
+http://static.brazzers.com/scenes/3429/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 81
+http://static.brazzers.com/scenes/3430/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 82
+http://static.brazzers.com/scenes/3431/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 83
+http://static.brazzers.com/scenes/3432/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 84
+http://static.brazzers.com/scenes/3433/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 85
+http://static.brazzers.com/scenes/3434/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 86
+http://static.brazzers.com/scenes/3435/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 87
+http://static.brazzers.com/scenes/3436/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 88
+http://static.brazzers.com/scenes/3437/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 89
+http://static.brazzers.com/scenes/3438/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 9
+http://static.brazzers.com/scenes/3359/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 90
+http://static.brazzers.com/scenes/3439/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 91
+http://static.brazzers.com/scenes/3440/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 92
+http://static.brazzers.com/scenes/3441/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 93
+http://static.brazzers.com/scenes/3442/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 94
+http://static.brazzers.com/scenes/3443/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 95
+http://static.brazzers.com/scenes/3444/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 96
+http://static.brazzers.com/scenes/3445/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 97
+http://static.brazzers.com/scenes/3446/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 98
+http://static.brazzers.com/scenes/3447/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="18+AdultosAmador",BRAZZERS 99
+http://static.brazzers.com/scenes/3448/180sec.flv
+#EXTINF:0 tvg-id="avi" group-title="18+",Angel Lima fazendo dupla penetraÃ§Ã£o
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Amigas no hotel trepando
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Chupando a boceta grande
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",PÃ¢mela Pantera fodendo toda lambuzada de Ã³leo
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Giovana Bombom fodendo cheia de tesÃ£o
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Manu Fox fodendo na cozinha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",rabudas levando pica grande do gringo tarado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Empregada gostosona fodendo com o filho tarado do patrÃ£o
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoph568db638ce681.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",metendo com o negÃ£o pauzudo
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24761409.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Brasileira novinha de bunda grande trepando com negro safado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoxh2730127.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Putinha peituda dando pra dois mulatos de cacete grande
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video23235823.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Comendo a mÃ£e e a filha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Dois paus no mesmo cu
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Sexo quente com uma morena safada
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",fodendo na banheira
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Loirinha brasileira no seu primeiro porno
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Pegou na praia e levou para o motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Marido aquecendo para o negrÃ£o comer
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Loira Charmosa
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",IngÃªnua Mas Adora Foder
+http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Escola da Safadeza
+http://media.pornocarioca.com/videos/mp4/7206/7206.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Do Cuzinho Pra Boca
+http://media.pornocarioca.com/videos/mp4/6689/6689.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",SÃ³ Rabuda Deliciosa
+http://media.pornocarioca.com/videos/mp4/6609/6609.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Ousadia em Locais Pouco Discretos
+http://media.pornocarioca.com/videos/mp4/6515/6515.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Primeira Vez no PornÃ´
+http://media.pornocarioca.com/videos/mp4/6404/6404.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Viviane AraÃºjo a Stripper
+http://media.pornocarioca.com/videos/mp4/6316/6316.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Quinta do Conde
+http://media.pornocarioca.com/videos/mp4/6222/6222.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Loira Gostosa Transando Com Gringos
+http://media.pornocarioca.com/videos/mp4/6137/6137.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Desejos Sexuais
+http://media.pornocarioca.com/videos/mp4/6009/6009.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",A Carioca Monique
+http://media.pornocarioca.com/videos/mp4/5963/5963.mp4?www.premiumtv.org
+#EXTINF:0 tvg-id="avi" group-title="18+",Le P@rcone Volanti
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Filomena M@rtusano
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",La M@glie del Dentista
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/1/6/56216132ec850.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Il Di@volo in C@nvento
+http://cdn.videos.pornopizza.it/media/videos/5/6/f/1/6/56f16772da365.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",C@lda pioggia di Sess@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/5/3/56253088b7670.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Le avventure Erotix di C@ppuccetto Ross@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/4/f/5624fb505edd6.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Pr@messi Sp@si
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/e/5623e53b5500a.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",P@rno Classico Angelic@ Bell@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/8/56238a00f2fdd.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Eterna P@ssione
+http://cdn.videos.pornopizza.it/media/videos/5/6/6/6/9/566693ce97327.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 1
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 2
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 3
+http://content2.sexforsure.com/2013/07/03/18/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 4
+http://content2.sexforsure.com/2013/07/02/3/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 5
+http://content2.sexforsure.com/2013/07/02/7/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 6
+http://content2.sexforsure.com/2013/07/03/2/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 7
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 8
+http://content2.sexforsure.com/2013/07/03/1/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 9
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 10
+http://content2.sexforsure.com/2013/07/03/4/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 11
+http://content2.sexforsure.com/2013/07/02/8/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 12
+http://content2.sexforsure.com/2013/07/02/16/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 13
+http://content2.sexforsure.com/2013/07/03/7/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 14
+http://content2.sexforsure.com/2013/07/03/11/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 15
+http://content2.sexforsure.com/2013/07/03/20/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 16
+http://content2.sexforsure.com/2013/07/03/19/Video.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+",Wow Girls Video 17
+http://content2.sexforsure.com/2013/07/02/14/Video.mp4
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="XXX Adultos", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://0.s3.envato.com/files/109789205/newVISITX.jpg" group-title="XXX Adultos", Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4517/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4521/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4523/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4524/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4525/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4526/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4527/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4528/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4529/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4530/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4531/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4533/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4534/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS 
+http://static.brazzers.com/scenes/4536/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-20+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-21+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-1+18 3D 
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-10+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-11+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-13+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-15+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-16+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-25+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-3+18 3D 
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-4+18 3D 
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-5+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-6+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-7+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-8+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", XXXVOD3D-9+18 3D 
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
