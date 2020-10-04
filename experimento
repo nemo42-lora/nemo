@@ -115,7 +115,7 @@ http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
 http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES", TUDN SPORT
-https://e10.habrox.xyz/ingest777/akm/bQ2JGGVzTpqfCfcTZWay1Q.m3u8
+https://unidfpclnlds141.akamaized.net/linear/hls/pb/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/71e30104-ba64-4581-a7ce-c71c4132758c:TPE/variant/3cbd8c1ee1541348f5a9ab3b77ef4103/bandwidth/800000.m3u8?hdntl=exp=1601860318~acl=*~id=2680fedc-2c61-4b81-a58e-2c5ee8cf4dac~data=hdntl~hmac=62eecc1da4b278c1f2700367503338bbe9bebe69417f4fac1591d1f298b8e0c3
 
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="PELICULAS", CINEMAX
 http://23.237.54.42/hls/CINEMAXMX.m3u8
