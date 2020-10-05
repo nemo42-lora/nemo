@@ -1,190 +1,212 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
+http://cinematicket.club/tp12.php?c=17&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
+http://cinematicket.club/tp12.php?c=27&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/2/items/a_20200906/A%2B.png"group-title="NACIONAL", A+
+http://cinematicket.club/tp12.php?c=2316&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/34/items/canal-5/Canal5.png" group-title="NACIONAL", Canal 5
+http://cinematicket.club/tp12.php?c=20&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/30/items/imagen_202009/Imagen.png"group-title="NACIONAL", Imagen TV
+http://cinematicket.club/tp12.php?c=2298&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/12/items/azteca-7/Azteca7.png" group-title="NACIONAL", Azteca 7
+http://cinematicket.club/tp12.php?c=21&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/28/items/canal-6/Canal6.png"group-title="NACIONAL", Canal 6
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/nu-9ve/Nu9ve.png"group-title="NACIONAL", Nu9ve
+http://cinematicket.club/tp12.php?c=24&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/21/items/mexiquense_202009/Mexiquense.png"group-title="NACIONAL", Mexiquense
+http://cinematicket.club/tp12.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/19/items/canal-once/CanalOnce.png"group-title="NACIONAL", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
-http://iptvhd.club:25461/live/aptv2020/CNNuoNJX9k/1487.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://cdn.wallpapersafari.com/94/73/cVAgPv.png" group-title="documentales", INVESTIGACIÓN DISCOVERY HD
-http://23.237.54.42/hls/INVESTIGATIONDISCOVERYMX.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="documentales", DISCOVERY TURBO
-http://23.237.54.42/hls/DISCOVERYTURBOHDMX.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1068/brand.gif?itok=eo7wu1bm" group-title="documentales", ANIMAL PLANET
-http://23.237.54.42/hls/ANIMALPLANETMX.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="documentales", NATIONAL GEOGRAPHIC
-https://u86715.cdn884.net:8443/hls/k3v2xfadh90.m3u8?s=0p__WoOTtXqHEBmHi9zzQA&e=1600642965
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="documentales", NATGEO WILD HD
-http://23.237.54.42/hls/NATGEOMX.m3u8
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
+http://cinematicket.club/tp12.php?c=66&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
+http://cinematicket.club/tp12.php?c=83&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/2/items/telemundo_202009/Telemundo.png"group-title="ENTRETENIMIENTO", Telemundo
+http://cinematicket.club/tp12.php?c=85&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/15/items/e_20200907/E%21.png"group-title="ENTRETENIMIENTO", E!
+http://cinematicket.club/tp12.php?c=55&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/17/items/lifetime_202009/Lifetime.png"group-title="ENTRETENIMIENTO", Lifetime
+http://cinematicket.club/tp12.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/17/items/a-e_20200907/A%26E.png"group-title="ENTRETENIMIENTO", A&E
+http://cinematicket.club/tp12.php?c=62&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/1/items/distrito-comedia/DistritoComedia.png"group-title="ENTRETENIMIENTO", Distrito Comedia
+http://cinematicket.club/tp12.php?c=78&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/comedy-central/ComedyCentral.png"group-title="ENTRETENIMIENTO", Comedy Central
+http://cinematicket.club/tp12.php?c=340&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="documentales", HISTORY HD
-http://23.237.54.42/hls/HISTORYMX.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://cdn.mitvstatic.com/channels/ar_h2_m.png" group-title="documentales", HISTORY 2
-https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=ZYaa9YOfcvYcO1XM3Rkvrg&e=1600659934
 
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/golden-edge-300x300.jpg" group-title="documentales", GOLDEN EDGE
-http://23.237.54.42/hls/GOLDENEDGEMX.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.pinclipart.com/picdir/middle/262-2622593_boomerang-hd-clipart.png" group-title="CANALES INFANTILES", BOOMERANG HD
-http://23.237.54.42/hls/BOOMERANGMX.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719" group-title="CANALES INFANTILES", CARTOON NETWORK HD
-http://23.237.54.42/hls/CARTOONNETWORKMX.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg" group-title="CANALES INFANTILES", DISNEY JUNIOR HD
-http://23.237.54.42/hls/DISNEYJUNIORMX.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/20/items/adn-40/Adn40.png"group-title="NOTICIAS", ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/Teleformula/Teleformula.png"group-title="NOTICIAS",Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/3/items/foro-tv/ForoTV.png"group-title="NOTICIAS", Foro TV
+http://cinematicket.club/tp12.php?c=19&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/29/items/milenio_202009/Milenio.png"group-title="NOTICIAS", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/3/items/cnn_20200907/CNN.png"group-title="NOTICIAS", CNN En Español
+http://cinematicket.club/tp12.php?c=187&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES INFANTILES", DISNEY CHANNEL HD
-http://23.237.54.42/hls/DISNEYCHANNELMX.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="" group-title="CANALES INFANTILES", DISCOVERY KIDS HD
-http://23.237.54.42/hls/DISCOVERYKIDSMX.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="CANALES INFANTILES", DISNEY XD HD
-http://23.237.54.42/hls/DISNEYXDMX.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Bgh.png/revision/latest/top-crop/width/450/height/450?cb=20180402135247" group-title="CANALES INFANTILES", NICK HD
-http://23.237.54.42/hls/NICKMX.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="CANALES INFANTILES", NICK JR
-http://23.237.54.42/hls/NICKJUNIORMX.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="CANALES INFANTILES", NATGEO KIDS
-http://23.237.54.42/hls/NATGEOKIDSMX.m3u8
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/29/items/history_20200907/History.png"group-title="MUNDO Y CULTURA", HISTORY
+http://cinematicket.club/tp12.php?c=89&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/discovery-channel_202009/DiscoveryChannel.png"group-title="MUNDO Y CULTURA", Discovery Channel
+http://cinematicket.club/tp12.php?c=86&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/4/items/discovery-world/DiscoveryWorld.png"group-title="MUNDO Y CULTURA", Discovery World
+http://cinematicket.club/tp12.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/33/items/discovery-turbo/DiscoveryTurbo.png"group-title="MUNDO Y CULTURA", Discovery Turbo
+http://cinematicket.club/tp12.php?c=2379&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/discovery-id/DiscoveryID.png"group-title="MUNDO Y CULTURA", Discovery ID
+http://cinematicket.club/tp12.php?c=68&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/12/items/discovery-h-h/DiscoveryH%26H.png"group-title="MUNDO Y CULTURA", Discovery h&h
+http://cinematicket.club/tp12.php?c=96&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/27/items/animal-planet_20200907/AnimalPlanet.png"group-title="MUNDO Y CULTURA", Animal Planet 
+http://cinematicket.club/tp12.php?c=88&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/31/items/nat-geo/NatGeo.png"group-title="MUNDO Y CULTURA", NatGeo
+http://cinematicket.club/tp12.php?c=91&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/1/items/nat-geo-wild/NatGeoWild.png"group-title="MUNDO Y CULTURA", Natgeo Wild
+http://cinematicket.club/tp12.php?c=92&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ytimg.com/vi/rtxIkYUzjU8/maxresdefault.jpg" group-title="CANALES INFANTILES", TOONCAST
-http://23.237.54.42/hls/TOONCASTMX.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TELENOVELAS", PASIONES TV
-https://paredo14.pedromo.me/live/tlnovelas/10299.ts
 
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="TELENOVELAS",TLNOVELAS
-http://23.237.32.130/hls/TLNOVELAS.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://aristeguinoticias.com/editorial/wp-content/uploads/2012/08/televisa3.jpg" group-title="TELENOVELAS", TELEVISA
-http://23.237.54.42/hls/LASESTRELLASMX.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://yt3.ggpht.com/a/AATXAJxuS-sFu8SqAIWnNgPW-26EV5FmQkB1A80bx6L3IQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TELENOVELAS", TELEMUNDO
-https://ul.cdn946.net:8443/hls/jq371gbzsnww.m3u8?s=pGTCaLxoo3qPv-LCiVpG6A&e=1600720446
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="TELENOVELAS", UNIVISION
-http://23.237.32.130/hls/UNIVISION.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES", AZTECA 7
-http://138.201.49.141:25464/comomega/vYa9gZ2Ybw/134?token=ShMNUhAJQwkXA1VQBgIGCFUHAlZdBAZVVQJTWAcBAQEJVQACUVgEUVNDSBFGQUdcVgg7Xl0QCwcCUBsbQBAHS25YARFZQ1IFBkNIEUFcWFwVX1UBCQMAAAlVBQEZQRJQVRNfEVJWWAUFQ0gRUE1BXEULBVtmVlRAWAdSGw8NF1VdHUdcDT4FVlgAClcXDxcIFUlGXkpCEwxfEVtVGUEAUEVDBEcGQ1tdQA0IHxdWWkxZERZOGwgTe2lGGxtQGxZcX0IMXA1DWxFBEkYfF1xGZkUAF0NLV1BbVBYVAxdTQBUTXARLPAIOXVsEB0dcWltKFV9GBgwCARQdRlpWWwoWVkNuFVoHQ1sRBFRXAQcXSA==
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/18/items/de-pelicula/DePelicula.png"group-title="CINE Y SERIES", De Película
+http://cinematicket.club/tp12.php?c=121&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/5/items/cine-canal_202009/CineCanal.png"group-title="CINE Y SERIES", CineCanal
+http://cinematicket.club/tp12.php?c=149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/23/items/golden_202009/Golden.png"group-title="CINE Y SERIES", Golden
+http://cinematicket.club/tp12.php?c=123&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/20/items/warner_202009/Warner.png"group-title="CINE Y SERIES", Warner Channel
+http://cinematicket.club/tp12.php?c=52&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/sony_20200907/Sony.png"group-title="CINE Y SERIES", Sony
+http://cinematicket.club/tp12.php?c=48&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/1/items/paramount_202009/Paramount.png"group-title="CINE Y SERIES", Paramount
+http://cinematicket.club/tp12.php?c=1726&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/23/items/tnt_20200907/TNT.png"group-title="CINE Y SERIES", TNT
+http://cinematicket.club/tp12.php?c=126&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/tntseries_202009/TNTSeries.png"group-title="CINE Y SERIES", TNT Series
+http://cinematicket.club/tp12.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/23/items/axn_20200907/AXN.png"group-title="CINE Y SERIES", AXN
+http://cinematicket.club/tp12.php?c=64&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/21/items/amc_20200907/AMC.png"group-title="CINE Y SERIES", AMC
+http://cinematicket.club/tp12.php?c=131&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/34/items/cinemax_202009/Cinemax.png"group-title="CINE Y SERIES", Cinemax
+http://cinematicket.club/tp12.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/29/items/space_202009/Space.png"group-title="CINE Y SERIES", Space
+http://cinematicket.club/tp12.php?c=129&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/10/items/studio-universal/StudioUniversal.png"group-title="CINE Y SERIES", Studio Universal
+http://cinematicket.club/tp12.php?c=132&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/34/items/universal-tv/UniversalTV.png"group-title="CINE Y SERIES", Universal Channel
+http://cinematicket.club/tp12.php?c=57&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
+http://cinematicket.club/tp12.php?c=60&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/22/items/fxm_20200907/FXM.png"group-title="CINE Y SERIES", FXM
+http://cinematicket.club/tp12.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/syfy_20200907/Syfy.png"group-title="CINE Y SERIES", SyFy
+http://cinematicket.club/tp12.php?c=59&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/19/items/fox_20200907/Fox.png"group-title="CINE Y SERIES", Fox
+http://cinematicket.club/tp12.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/13/items/fox-life/FoxLife.png"group-title="CINE Y SERIES", FOX Life
+http://cinematicket.club/tp12.php?c=77&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/fox-action/FoxAction.png"group-title="CINE Y SERIES", FOX Action
+http://cinematicket.club/tp12.php?c=336&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/18/items/fox-series/FoxSeries.png"group-title="CINE Y SERIES", Fox Series
+http://cinematicket.club/tp12.php?c=139&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/9/items/fox-cinema/FoxCinema.png"group-title="CINE Y SERIES", Fox Cinema
+http://cinematicket.club/tp12.php?c=1729&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/22/items/fox-classics/FoxClassics.png"group-title="CINE Y SERIES", Fox Classics
+http://cinematicket.club/tp12.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
+http://cinematicket.club/tp12.php?c=146&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950" group-title="LOCALES", AZTECA UNO
-http://23.237.54.42/hls/AZTECA1MX.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES", CANAL 5
-http://23.237.54.42/hls/CANAL5MX.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://yt3.ggpht.com/a/AATXAJy-jcy5rBY7oMDR2fErUYfYdcubSdLiJ5ArZvHSvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOCALES", UNICABLE
-https://ul.cdn946.net:8443/hls/bv1a32ah1l.m3u8?s=H50x_4L9hpMktGJWtTTErQ&e=1600665838
 
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://pbs.twimg.com/profile_images/1257757030/CANAL_9_1_400x400.jpg" group-title="LOCALES", CANAL NUEVE
-http://cinematicket.club/tv1.php?c=27&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://i.blogs.es/213596/imagen-tv-logo/450_1000.jpg" group-title="LOCALES", IMAGEN TV
-https://youtu.be/bwINzqk3ETg
 
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/azteca7-200x300.png?itok=ZPbgVFXY" group-title="LOCALES", AZTECA 7 LATINO
-http://dominiopersonal.xyz:25464/porpro/bRxmp1kk4R/134
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/22/items/disney-channel_202009/DisneyChannel.png"group-title="NIÑOS", Disney Channel
+http://cinematicket.club/tp12.php?c=113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/17/items/disney-junior/DisneyJunior.png"group-title="NIÑOS", Disney Junior
+http://cinematicket.club/tp12.php?c=118&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/discovery-kids/DiscoveryKids.png"group-title="NIÑOS", Discovery Kids
+http://cinematicket.club/tp12.php?c=109&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/30/items/boomerang_202009/Boomerang.png"group-title="NIÑOS", Boomerang
+http://cinematicket.club/tp12.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/7/items/cartoon-network/CartoonNetwork.png"group-title="NIÑOS", Cartoon Network
+http://cinematicket.club/tp12.php?c=112&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/14/items/disney-xd/DisneyXD.png"group-title="NIÑOS", Disney XD
+http://cinematicket.club/tp12.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/14/items/nick_20200908/Nick.png"group-title="NIÑOS", NICK
+http://cinematicket.club/tp12.php?c=110&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/29/items/nick-2/Nick2.png"group-title="NIÑOS", NICK 2
+http://cinematicket.club/tp12.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
+http://cinematicket.club/tp12.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/4/items/nick-toons/NickToons.png"group-title="NIÑOS", Nicktoons
+http://cinematicket.club/tp12.php?c=1708&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
+http://cinematicket.club/tp12.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
+http://cinematicket.club/tp12.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES", ESPN
-http://23.237.54.42/hls/ESPNMX.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="DEPORTES", ESPN2
-http://23.237.54.42/hls/ESPN2MX.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="DEPORTES", ESPN3
-http://23.237.54.42/hls/ESPN3MX.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES", FOX SPORT
-http://23.237.54.42/hls/FOXSPORTSMX.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORT 2
-http://23.237.54.42/hls/FOXSPORTS2MX.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORT 3
-http://23.237.54.42/hls/FOXSPORTS3MX.m3u8
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/1/items/bandamax_202009/Bandamax.png"group-title="MUSICA", Bandamax
+http://cinematicket.club/tp12.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/29/items/telehit_202009/Telehit.png"group-title="MUSICA", Telehit
+http://cinematicket.club/tp12.php?c=220&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/24/items/telehit-urbano/TelehitUrbano.png"group-title="MUSICA", Telehit Urbano
+http://cinematicket.club/tp12.php?c=218&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/25/items/mtv_20200908/MTV.png"group-title="MUSICA", MTV
+http://cinematicket.club/tp12.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/18/items/mtvhits_202009/MTVHits.png"group-title="MUSICA", MTV HITS
+http://cinematicket.club/tp12.php?c=213&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/3/items/vh-1_20200908/Vh1.png"group-title="MUSICA", VH1
+http://cinematicket.club/tp12.php?c=211&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
+http://cinematicket.club/tp12.php?c=214&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES", TUDN SPORT
-https://e10.habrox.xyz/ingest777/akm/bQ2JGGVzTpqfCfcTZWay1Q.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png" group-title="PELICULAS", CINEMAX
-http://23.237.54.42/hls/CINEMAXMX.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="PELICULAS", GOLDEN
-http://23.237.54.42/hls/GOLDENMX.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://www.verlatele.net/wp-content/uploads/2020/06/canal-golden-plus.jpg" group-title="PELICULAS", GOLDEN PLUS
-http://23.237.54.42/hls/GOLDENPLUSMX.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://i.blogs.es/d334c7/paramount-channel-logo-tm1/1366_2000.jpg" group-title="PELICULAS", PARAMOUNT CHANNEL
-http://23.237.54.42/hls/PARAMOUNTCHANNELMX.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" group-title="PELICULAS", TNT
-http://23.237.54.42/hls/TNTMX.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PELICULAS", SONY CHANNEL
-http://23.237.54.42/hls/SONYMX.m3u8
-
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PELICULAS", CINE CANAL
-http://23.237.54.42/hls/CINECANALMX.m3u8
-
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CANALES PREMIUM", FOX PREMIUM ACTION
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88737
-
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="CANALES PREMIUM", FOX PREMIUM CLASSICS
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88749
-
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM COMEDY
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88750
-
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="CANALES PREMIUM", FOX PREMIUM MOVIES
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88740
-
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png" group-title="CANALES PREMIUM", FOX PREMIUM SERIES
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88736
-
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://miracomosehace.com/wp-content/uploads/mch/id_1228.jpg" group-title="CANALES PREMIUM", HBO
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88768
-
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CANALES PREMIUM", HBO 2
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88766
-
-#EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES PREMIUM", HBO FAMILY ESTE
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88767
-
-#EXTINF:-1 tvg-chno="68" tvg-logo="https://cdn.mitvstatic.com/channels/0ea01166-fdb5-4fdb-9b9c-523987f4cfcc_m.jpg" group-title="CANALES PREMIUM", HBO PLUS ESTE
-http://185.232.53.5:2086/wickeduk/etqyhww45e/88769
-
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="ENTRETENIMIENTO", SPACE
-http://23.237.54.42/hls/SPACEMX.m3u8
-
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png" group-title="ENTRETENIMIENTO", AXN
-http://23.237.54.42/hls/AXNMX.m3u8
-
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2015/04/wbtv-890x538.jpg" group-title="ENTRETENIMIENTO", WHARNER CHANNEL
-http://23.237.54.42/hls/WARNERCHANNELMX.m3u8
-
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="ENTRETENIMIENTO", A&E
-http://23.237.54.42/hls/A-AND-EMX.m3u8 
-
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://www.eitmedia.mx/media/k2/items/cache/3ed2aac558cea007c88e889a4023d829_XL.jpg" group-title="ENTRETENIMIENTO", SYFY
-http://23.237.54.42/hls/SYFYMX.m3u8 
-
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://lh3.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U" group-title="ENTRETENIMIENTO", TBS
-http://23.237.54.42/hls/TBSMX.m3u8
-
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ENTRETENIMIENTO", TCM
-http://23.237.54.42/hls/TCMMX.m3u8
-
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://23.237.54.42/hls/DISTRITOCOMEDIAMX.m3u8
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
+http://cinematicket.club/tp12.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
+http://cinematicket.club/tp12.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
+http://cinematicket.club/tp12.php?c=345&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
+http://cinematicket.club/tp12.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/27/items/fox-sports-2/FoxSports2.png" group-title="DEPORTES", Fox Sports 2
+http://cinematicket.club/tp12.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/18/items/fox-sports-3/FoxSports3.png" group-title="DEPORTES", Fox Sports 3
+http://cinematicket.club/tp12.php?c=178&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
+http://cinematicket.club/tp12.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
+http://cinematicket.club/tp12.php?c=2564&p=3&k=tecnotv&f=.m3u8
