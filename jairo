@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ytimg.com/vi/LQUXyznU5yQ/maxresdefault.jpg" group-title="documentales", DISCOVERY CHANNEL HD
-http://23.237.54.42/hls/DISCOVERYCHANNELMX.m3u8
+http://23.237.54.42/hls/A-AND-EMX.m3u
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA83qjK82Mfganj2ZHAaOKchzHSvhMxRYENcA=s900-mo-c-c0xffffffff-rj-k-no" group-title="documentales", DISCOVERY HOME & HEALTH
 http://iptvhd.club:25461/live/aptv2020/CNNuoNJX9k/1487.m3u8
