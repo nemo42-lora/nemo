@@ -167,7 +167,10 @@ http://cinematicket.club/tp12.php?c=1708&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp12.php?c=108&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
 http://cinematicket.club/tp12.php?c=2591&p=3&k=tecnotv&f=.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="24/7 PREMIUM",Cinema Disney Family ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PREMIUM",Cinema Disney Pixar ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.ts
 
 
 
