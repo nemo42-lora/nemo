@@ -209,6 +209,36 @@ http://cinematicket.club/tp12.php?c=178&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
 http://cinematicket.club/tp12.php?c=174&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="AFIZZIONADOS" tvg-logo="https://afizzionados.tv/izzi/v4/img/logos/izzi-spaced-logo.png" group-title="DEPORTES",AFIZZIONADOS
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",BARCA TV
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15360.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILERO" tvg-logo="https://img1.freepng.es/20180614/et/kisspng-2018-campeonato-brasileiro-srie-a-campeonato-bra-brasileira-5b22a6daa19c87.707316201528997594662.jpg" group-title="DEPORTES",CAMPEONATO BRASILERO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58272.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO" tvg-logo="https://www.pesalmanac.com/cdn/competition/emb_0023_l.png" group-title="DEPORTES",CAMPEONATO CHILENO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54021.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO ⁽ᴹ⁾" tvg-logo="https://www.chilemagazine.net/wp-content/uploads/2020/08/CHI-1.png" group-title="DEPORTES",CAMPEONATO CHILENO ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58267.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ECUATORIANO" tvg-logo="https://pm1.narvii.com/6237/c4d34ed2a3091ad788cf8f4772a6f6ea331608c8_00.jpg" group-title="DEPORTES",CAMPEONATO ECUATORIANO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55194.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAGUAYO" tvg-logo="https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png" group-title="DEPORTES",CAMPEONATO PARAGUAYO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54022.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAGUAYO 2" tvg-logo="https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png" group-title="DEPORTES",CAMPEONATO PARAGUAYO 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54327.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PERUANO" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-6876BAD77D-seeklogo.com.png" group-title="DEPORTES",CAMPEONATO PERUANO
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55377.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO URUGUAYO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n.png/1200px-Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n.png" group-title="DEPORTES",CAMPEONATO URUGUAYO 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54020.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27592.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27593.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal_plus_liga_campeones.png" group-title="ESPAÑA",ES: LIGA DE CAMPEONES
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25653.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV FÚTBOL",LIGA MX
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58270.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV FÚTBOL",LIGA MX 2
+http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58271.ts
 
 
 #EXTINF:-1 tvg-id="EPG123.81623.XMLTV.CO" tvg-name="Entretenimiento | DHE" tvg-logo="http://54.39.128.48/img/91.png" group-title="Entretenimiento",Entretenimiento | DHE
