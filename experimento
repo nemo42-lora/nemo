@@ -190,7 +190,54 @@ http://cinematicket.club/tp12.php?c=213&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp12.php?c=211&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
 http://cinematicket.club/tp12.php?c=214&p=3&k=tecnotv&f=.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| 90s" tvg-logo="" group-title="MUSICA",Music Choice| 90s
+http://appstv.us:25461/lozanos/tvmulti/557
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Alternative" tvg-logo="" group-title="MUSICA",Music Choice| Alternative
+http://appstv.us:25461/lozanos/tvmulti/558
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Brits   Hits" tvg-logo="" group-title="MUSICA",Music Choice| Brits   Hits
+http://appstv.us:25461/lozanos/tvmulti/559
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Dance/EDM" tvg-logo="" group-title="MUSICA",Music Choice| Dance/EDM
+http://appstv.us:25461/lozanos/tvmulti/560
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hip-Hop and R&B" tvg-logo="" group-title="MUSICA",Music Choice| Hip-Hop and R&B
+http://appstv.us:25461/lozanos/tvmulti/561
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hit List" tvg-logo="" group-title="MUSICA",Music Choice| Hit List
+http://appstv.us:25461/lozanos/tvmulti/562
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Indie" tvg-logo="" group-title="MUSICA",Music Choice| Indie
+http://appstv.us:25461/lozanos/tvmulti/563
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Kidz Only!" tvg-logo="" group-title="MUSICA",Music Choice| Kidz Only!
+http://appstv.us:25461/lozanos/tvmulti/564
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Metal" tvg-logo="" group-title="MUSICA",Music Choice| Metal
+http://appstv.us:25461/lozanos/tvmulti/565
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Mexicana" tvg-logo="" group-title="MUSICA",Music Choice| Mexicana
+http://appstv.us:25461/lozanos/tvmulti/566
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Musica Urbana" tvg-logo="" group-title="MUSICA",Music Choice| Musica Urbana
+http://appstv.us:25461/lozanos/tvmulti/567
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop & Country" tvg-logo="" group-title="MUSICA",Music Choice| Pop & Country
+http://appstv.us:25461/lozanos/tvmulti/568
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop Hits" tvg-logo="" group-title="MUSICA",Music Choice| Pop Hits
+http://appstv.us:25461/lozanos/tvmulti/569
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop Latino" tvg-logo="" group-title="MUSICA",Music Choice| Pop Latino
+http://appstv.us:25461/lozanos/tvmulti/570
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| R&B Soul" tvg-logo="" group-title="MUSICA",Music Choice| R&B Soul
+http://appstv.us:25461/lozanos/tvmulti/571
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rap" tvg-logo="" group-title="MUSICA",Music Choice| Rap
+http://appstv.us:25461/lozanos/tvmulti/572
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rap 2K" tvg-logo="" group-title="MUSICA",Music Choice| Rap 2K
+http://appstv.us:25461/lozanos/tvmulti/573
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rock" tvg-logo="" group-title="MUSICA",Music Choice| Rock
+http://appstv.us:25461/lozanos/tvmulti/574
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Teen Beats" tvg-logo="" group-title="MUSICA",Music Choice| Teen Beats
+http://appstv.us:25461/lozanos/tvmulti/575
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Throwback Jamz" tvg-logo="" group-title="MUSICA",Music Choice| Throwback Jamz
+http://appstv.us:25461/lozanos/tvmulti/576
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Today's Country" tvg-logo="" group-title="MUSICA",Music Choice| Today's Country
+http://appstv.us:25461/lozanos/tvmulti/577
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Toddler Tunes" tvg-logo="" group-title="MUSICA",Music Choice| Toddler Tunes
+http://appstv.us:25461/lozanos/tvmulti/578
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Tropicales" tvg-logo="" group-title="MUSICA",Music Choice| Tropicales
+http://appstv.us:25461/lozanos/tvmulti/579
+#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Y2K" tvg-logo="" group-title="MUSICA",Music Choice| Y2K
+http://appstv.us:25461/lozanos/tvmulti/580
 
 
 
@@ -242,89 +289,48 @@ http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25653.ts
 http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58270.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV FÚTBOL",LIGA MX 2
 http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino | TVC Deportes" tvg-logo="" group-title="",Latino | TVC Deportes
+http://appstv.us:25461/lozanos/tvmulti/162
+#EXTINF:-1 tvg-id="" tvg-name="Latino | TyC Sports" tvg-logo="" group-title="",Latino | TyC Sports
+http://appstv.us:25461/lozanos/tvmulti/16
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Action" tvg-logo="" group-title="",UK | Sky Sports Action
+http://appstv.us:25461/lozanos/tvmulti/187
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports F1" tvg-logo="" group-title="",UK | Sky Sports F1
+http://appstv.us:25461/lozanos/tvmulti/188
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Golf" tvg-logo="" group-title="",UK | Sky Sports Golf
+http://appstv.us:25461/lozanos/tvmulti/189
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Main Event" tvg-logo="" group-title="",UK | Sky Sports Main Event
+http://appstv.us:25461/lozanos/tvmulti/190
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports MIX" tvg-logo="" group-title="",UK | Sky Sports MIX
+http://appstv.us:25461/lozanos/tvmulti/191
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Premier League" tvg-logo="" group-title="",UK | Sky Sports Premier League
+http://appstv.us:25461/lozanos/tvmulti/192
 
-
-#EXTINF:-1 tvg-id="EPG123.81623.XMLTV.CO" tvg-name="Entretenimiento | DHE" tvg-logo="http://54.39.128.48/img/91.png" group-title="Entretenimiento",Entretenimiento | DHE
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15971.m3u8
-#EXTINF:-1 tvg-id="EPG123.55980.XMLTV.CO" tvg-name="Entretenimiento | Distrito Comedia" tvg-logo="http://54.39.128.48/img/92.png" group-title="Entretenimiento",Entretenimiento | Distrito Comedia
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12690.m3u8
-#EXTINF:-1 tvg-id="EPG123.101734.XMLTV.CO" tvg-name="Entretenimiento | E!" tvg-logo="http://54.39.128.48/img/93.png" group-title="Entretenimiento",Entretenimiento | E!
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12687.m3u8
-#EXTINF:-1 tvg-id="EPG123.19787.XMLTV.CO" tvg-name="Entretenimiento | Film Zone" tvg-logo="http://54.39.128.48/img/137.png" group-title="Entretenimiento",Entretenimiento | Film Zone
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/17302.m3u8
-#EXTINF:-1 tvg-id="EPG123.95131.XMLTV.CO" tvg-name="Entretenimiento | Fox" tvg-logo="http://54.39.128.48/img/94.png" group-title="Entretenimiento",Entretenimiento | Fox
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/11998.m3u8
-#EXTINF:-1 tvg-id="foxaction.ar" tvg-name="Entretenimiento | Fox Action" tvg-logo="http://54.39.128.48/img/95.png" group-title="Entretenimiento",Entretenimiento | Fox Action
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/11994.m3u8
-#EXTINF:-1 tvg-id="foxaction.ar" tvg-name="Entretenimiento | Fox Action Mexico" tvg-logo="http://54.39.128.48/img/96.png" group-title="Entretenimiento",Entretenimiento | Fox Action Mexico
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15998.m3u8
-#EXTINF:-1 tvg-id="EPG123.98729.XMLTV.CO" tvg-name="Entretenimiento | Fox Cinema" tvg-logo="http://54.39.128.48/img/97.png" group-title="Entretenimiento",Entretenimiento | Fox Cinema
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/14055.m3u8
-#EXTINF:-1 tvg-id="foxclassics.ar" tvg-name="Entretenimiento | Fox Classics" tvg-logo="http://54.39.128.48/img/99.png" group-title="Entretenimiento",Entretenimiento | Fox Classics
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12647.m3u8
-#EXTINF:-1 tvg-id="foxcomedy.ar" tvg-name="Entretenimiento | Fox Comedy" tvg-logo="http://54.39.128.48/img/100.png" group-title="Entretenimiento",Entretenimiento | Fox Comedy
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/11996.m3u8
-#EXTINF:-1 tvg-id="foxfamily.ar" tvg-name="Entretenimiento | Fox Family" tvg-logo="http://54.39.128.48/img/101.png" group-title="Entretenimiento",Entretenimiento | Fox Family
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/11997.m3u8
-#EXTINF:-1 tvg-id="EPG123.49263.XMLTV.CO" tvg-name="Entretenimiento | Fox Life" tvg-logo="http://54.39.128.48/img/103.png" group-title="Entretenimiento",Entretenimiento | Fox Life
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12685.m3u8
-#EXTINF:-1 tvg-id="foxmovies.mx" tvg-name="Entretenimiento | Fox Movies" tvg-logo="http://54.39.128.48/img/102.png" group-title="Entretenimiento",Entretenimiento | Fox Movies
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/11999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Entretenimiento | Fox Series" tvg-logo="http://54.39.128.48/img/104.png" group-title="Entretenimiento",Entretenimiento | Fox Series
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12000.m3u8
-#EXTINF:-1 tvg-id="fx.ar" tvg-name="Entretenimiento | FX" tvg-logo="http://54.39.128.48/img/105.png" group-title="Entretenimiento",Entretenimiento | FX
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12001.m3u8
-#EXTINF:-1 tvg-id="golden.ar" tvg-name="Entretenimiento | Golden" tvg-logo="http://54.39.128.48/img/106.png" group-title="Entretenimiento",Entretenimiento | Golden
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12044.m3u8
-#EXTINF:-1 tvg-id="EPG123.68317.XMLTV.CO" tvg-name="Entretenimiento | Golden Plus " tvg-logo="http://54.39.128.48/img/107.png" group-title="Entretenimiento",Entretenimiento | Golden Plus 
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12043.m3u8
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="Entretenimiento | HBO" tvg-logo="http://54.39.128.48/img/108.png" group-title="Entretenimiento",Entretenimiento | HBO
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15996.m3u8
-#EXTINF:-1 tvg-id="hbo2.ar" tvg-name="Entretenimiento | HBO 2" tvg-logo="http://54.39.128.48/img/110.png" group-title="Entretenimiento",Entretenimiento | HBO 2
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12003.m3u8
-#EXTINF:-1 tvg-id="hbofamily.ar" tvg-name="Entretenimiento | HBO Family" tvg-logo="http://54.39.128.48/img/111.png" group-title="Entretenimiento",Entretenimiento | HBO Family
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12005.m3u8
-#EXTINF:-1 tvg-id="hbomundi.ar" tvg-name="Entretenimiento | HBO Mundi " tvg-logo="http://54.39.128.48/img/117.png" group-title="Entretenimiento",Entretenimiento | HBO Mundi 
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/14056.m3u8
-#EXTINF:-1 tvg-id="EPG123.75537.XMLTV.CO" tvg-name="Entretenimiento | HBO Plus" tvg-logo="http://54.39.128.48/img/112.png" group-title="Entretenimiento",Entretenimiento | HBO Plus
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12004.m3u8
-#EXTINF:-1 tvg-id="hbopop.ar" tvg-name="Entretenimiento | HBO Pop" tvg-logo="http://54.39.128.48/img/119.png" group-title="Entretenimiento",Entretenimiento | HBO Pop
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12034.m3u8
-#EXTINF:-1 tvg-id="EPG123.80120.XMLTV.CO" tvg-name="Entretenimiento | HBO Signature" tvg-logo="http://54.39.128.48/img/113.png" group-title="Entretenimiento",Entretenimiento | HBO Signature
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12006.m3u8
-#EXTINF:-1 tvg-id="hboxtreme.ar" tvg-name="Entretenimiento | HBO Xtreme " tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="Entretenimiento",Entretenimiento | HBO Xtreme 
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12693.m3u8
-#EXTINF:-1 tvg-id="isat.ar" tvg-name="Entretenimiento | I-SAT" tvg-logo="http://54.39.128.48/img/114.png" group-title="Entretenimiento",Entretenimiento | I-SAT
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12035.m3u8
-#EXTINF:-1 tvg-id="EPG123.100088.XMLTV.CO" tvg-name="Entretenimiento | LifeTime" tvg-logo="http://54.39.128.48/img/115.png" group-title="Entretenimiento",Entretenimiento | LifeTime
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12651.m3u8
-#EXTINF:-1 tvg-id="maschic.ar" tvg-name="Entretenimiento | Maschic" tvg-logo="http://54.39.128.48/img/116.png" group-title="Entretenimiento",Entretenimiento | Maschic
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15929.m3u8
-#EXTINF:-1 tvg-id="multipremier.co" tvg-name="Entretenimiento | Film Arts" tvg-logo="http://54.39.128.48/img/121.png" group-title="Entretenimiento",Entretenimiento | Film Arts
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15952.m3u8
-#EXTINF:-1 tvg-id="paramountchannel.ar" tvg-name="Entretenimiento | Paramount" tvg-logo="http://54.39.128.48/img/122.png" group-title="Entretenimiento",Entretenimiento | Paramount
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12032.m3u8
-#EXTINF:-1 tvg-id="pasiones.ar" tvg-name="Entretenimiento | Pasiones" tvg-logo="http://54.39.128.48/img/123.png" group-title="Entretenimiento",Entretenimiento | Pasiones
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15931.m3u8
-#EXTINF:-1 tvg-id="EPG123.88517.XMLTV.CO" tvg-name="Entretenimiento | Sony" tvg-logo="http://54.39.128.48/img/124.png" group-title="Entretenimiento",Entretenimiento | Sony
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12010.m3u8
-#EXTINF:-1 tvg-id="EPG123.66349.XMLTV.CO" tvg-name="Entretenimiento | Space" tvg-logo="http://54.39.128.48/img/125.png" group-title="Entretenimiento",Entretenimiento | Space
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12009.m3u8
-#EXTINF:-1 tvg-id="EPG123.29017.XMLTV.CO" tvg-name="Entretenimiento | Studio Universal" tvg-logo="http://54.39.128.48/img/127.png" group-title="Entretenimiento",Entretenimiento | Studio Universal
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12011.m3u8
-#EXTINF:-1 tvg-id="sundancechannel.ar" tvg-name="Entretenimiento | Sundance" tvg-logo="http://54.39.128.48/img/126.png" group-title="Entretenimiento",Entretenimiento | Sundance
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15954.m3u8
-#EXTINF:-1 tvg-id="syfy.mx" tvg-name="Entretenimiento | SYFY" tvg-logo="http://54.39.128.48/img/128.png" group-title="Entretenimiento",Entretenimiento | SYFY
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/15974.m3u8
-#EXTINF:-1 tvg-id="EPG123.75073.XMLTV.CO" tvg-name="Entretenimiento | TBS" tvg-logo="http://54.39.128.48/img/129.png" group-title="Entretenimiento",Entretenimiento | TBS
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12041.m3u8
-#EXTINF:-1 tvg-id="tcm.ar" tvg-name="Entretenimiento | TCM" tvg-logo="http://54.39.128.48/img/130.png" group-title="Entretenimiento",Entretenimiento | TCM
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12053.m3u8
-#EXTINF:-1 tvg-id="EPG123.80807.XMLTV.CO" tvg-name="Entretenimiento | TNT" tvg-logo="http://54.39.128.48/img/132.png" group-title="Entretenimiento",Entretenimiento | TNT
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12036.m3u8
-#EXTINF:-1 tvg-id="EPG123.91993.XMLTV.CO" tvg-name="Entretenimiento | Tnt series" tvg-logo="http://54.39.128.48/img/133.png" group-title="Entretenimiento",Entretenimiento | Tnt series
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12037.m3u8
-#EXTINF:-1 tvg-id="EPG123.68223.XMLTV.CO" tvg-name="Entretenimiento | Tru tv" tvg-logo="http://54.39.128.48/img/134.png" group-title="Entretenimiento",Entretenimiento | Tru tv
-http://54.39.51.30:25461/live/5493813640091/jyHBgeRd6V/12040.m3u8
-
-http://cinematicket.club/tp12.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | FXM" tvg-logo="" group-title="",Latino | FXM
+http://appstv.us:25461/lozanos/tvmulti/112
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Gala TV" tvg-logo="" group-title="",Latino | Gala TV
+http://appstv.us:25461/lozanos/tvmulti/113
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="" group-title="",Latino | Glitz
+http://appstv.us:25461/lozanos/tvmulti/114
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="",Latino | Gol TV
+http://appstv.us:25461/lozanos/tvmulti/115
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
+http://appstv.us:25461/lozanos/tvmulti/116
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden Plus" tvg-logo="" group-title="",Latino | Golden Plus
+http://appstv.us:25461/lozanos/tvmulti/117
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO" tvg-logo="" group-title="",Latino | HBO
+http://appstv.us:25461/lozanos/tvmulti/118
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO 2" tvg-logo="" group-title="",Latino | HBO 2
+http://appstv.us:25461/lozanos/tvmulti/119
+#EXTINF:-1 tvg-id="I356.34879.schedulesdirect.org" tvg-name="Latino | HBO Family" tvg-logo="https://i.imgur.com/RQa2ipx.png" group-title="LOCAL CA",Latino | HBO Family
+http://appstv.us:25461/lozanos/tvmulti/120
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO Plus" tvg-logo="" group-title="",Latino | HBO Plus
+http://appstv.us:25461/lozanos/tvmulti/121
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO XTREME" tvg-logo="" group-title="",Latino | HBO XTREME
+http://appstv.us:25461/lozanos/tvmulti/128
+#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO POP" tvg-logo="" group-title="",Latino | HBO POP
+http://appstv.us:25461/lozanos/tvmulti/129
+#EXTINF:-1 tvg-id="" tvg-name="Latino | History 2" tvg-logo="" group-title="",Latino | History 2
+http://appstv.us:25461/lozanos/tvmulti/122
+#EXTINF:-1 tvg-id="" tvg-name="Latino | TruTV" tvg-logo="" group-title="PERU",Latino | TruTV
+http://appstv.us:25461/lozanos/tvmulti/159
