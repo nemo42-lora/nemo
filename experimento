@@ -1,1415 +1,22 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet 360" tvg-logo="" group-title="",CANADA | Sportsnet 360
-http://appstv.us:25461/lozanos/tvmulti/7
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet EAST" tvg-logo="" group-title="",CANADA | Sportsnet EAST
-http://appstv.us:25461/lozanos/tvmulti/8
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet One" tvg-logo="" group-title="",CANADA | Sportsnet One
-http://appstv.us:25461/lozanos/tvmulti/9
-#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="CANADA | Sportsnet World" tvg-logo="" group-title="LOCAL CA",CANADA | Sportsnet World
-http://appstv.us:25461/lozanos/tvmulti/10
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet Ontario" tvg-logo="" group-title="",CANADA | Sportsnet Ontario
-http://appstv.us:25461/lozanos/tvmulti/11
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet Pacific" tvg-logo="" group-title="",CANADA | Sportsnet Pacific
-http://appstv.us:25461/lozanos/tvmulti/12
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 1" tvg-logo="" group-title="",CANADA | TSN 1
-http://appstv.us:25461/lozanos/tvmulti/13
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 2" tvg-logo="" group-title="",CANADA | TSN 2
-http://appstv.us:25461/lozanos/tvmulti/14
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 3" tvg-logo="" group-title="",CANADA | TSN 3
-http://appstv.us:25461/lozanos/tvmulti/15
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 4" tvg-logo="" group-title="",CANADA | TSN 4
-http://appstv.us:25461/lozanos/tvmulti/16
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 5" tvg-logo="" group-title="",CANADA | TSN 5
-http://appstv.us:25461/lozanos/tvmulti/17
-#EXTINF:-1 tvg-id="" tvg-name="Event 1 " tvg-logo="" group-title="EVENTOS DE HOY",Event 1 
-http://appstv.us:25461/lozanos/tvmulti/18
-#EXTINF:-1 tvg-id="" tvg-name="Event 2" tvg-logo="" group-title="EVENTOS DE HOY",Event 2
-http://appstv.us:25461/lozanos/tvmulti/19
-#EXTINF:-1 tvg-id="" tvg-name="Event 3" tvg-logo="" group-title="EVENTOS DE HOY",Event 3
-http://appstv.us:25461/lozanos/tvmulti/20
-#EXTINF:-1 tvg-id="" tvg-name="Event 4" tvg-logo="" group-title="EVENTOS DE HOY",Event 4
-http://appstv.us:25461/lozanos/tvmulti/21
-#EXTINF:-1 tvg-id="" tvg-name="Event 5" tvg-logo="" group-title="EVENTOS DE HOY",Event 5
-http://appstv.us:25461/lozanos/tvmulti/22
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports Arizona" tvg-logo="" group-title="",USA | FOX Sports Arizona
-http://appstv.us:25461/lozanos/tvmulti/26
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports Indiana" tvg-logo="" group-title="",USA | FOX Sports Indiana
-http://appstv.us:25461/lozanos/tvmulti/28
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports North" tvg-logo="" group-title="",USA | FOX Sports North
-http://appstv.us:25461/lozanos/tvmulti/29
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports Ohio" tvg-logo="" group-title="",USA | FOX Sports Ohio
-http://appstv.us:25461/lozanos/tvmulti/30
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports San Diego" tvg-logo="" group-title="",USA | FOX Sports San Diego
-http://appstv.us:25461/lozanos/tvmulti/31
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports South" tvg-logo="" group-title="",USA | FOX Sports South
-http://appstv.us:25461/lozanos/tvmulti/32
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports SouthEast" tvg-logo="" group-title="",USA | FOX Sports SouthEast
-http://appstv.us:25461/lozanos/tvmulti/33
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports SouthWest" tvg-logo="" group-title="",USA | FOX Sports SouthWest
-http://appstv.us:25461/lozanos/tvmulti/34
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports Sun" tvg-logo="" group-title="",USA | FOX Sports Sun
-http://appstv.us:25461/lozanos/tvmulti/35
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Sports West" tvg-logo="" group-title="",USA | FOX Sports West
-http://appstv.us:25461/lozanos/tvmulti/36
-#EXTINF:-1 tvg-id="" tvg-name="Latino | A&E" tvg-logo="" group-title="",Latino | A&E
-http://appstv.us:25461/lozanos/tvmulti/38
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golf Channel" tvg-logo="" group-title="",Latino | Golf Channel
-http://appstv.us:25461/lozanos/tvmulti/39
-#EXTINF:-1 tvg-id="" tvg-name="USA | Golf Channel" tvg-logo="" group-title="",USA | Golf Channel
-http://appstv.us:25461/lozanos/tvmulti/40
-#EXTINF:-1 tvg-id="" tvg-name="Latino | A3S" tvg-logo="" group-title="",Latino | A3S
-http://appstv.us:25461/lozanos/tvmulti/41
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ADN40" tvg-logo="" group-title="",Latino | ADN40
-http://appstv.us:25461/lozanos/tvmulti/42
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Affizionados" tvg-logo="" group-title="",Latino | Affizionados
-http://appstv.us:25461/lozanos/tvmulti/43
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AMC" tvg-logo="" group-title="",Latino | AMC
-http://appstv.us:25461/lozanos/tvmulti/44
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Animal Planet" tvg-logo="" group-title="",Latino | Animal Planet
-http://appstv.us:25461/lozanos/tvmulti/45
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Antena 3" tvg-logo="" group-title="",Latino | Antena 3
-http://appstv.us:25461/lozanos/tvmulti/46
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AXN" tvg-logo="" group-title="",Latino | AXN
-http://appstv.us:25461/lozanos/tvmulti/47
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AXN White" tvg-logo="" group-title="",Latino | AXN White
-http://appstv.us:25461/lozanos/tvmulti/48
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AyM Sports" tvg-logo="" group-title="",Latino | AyM Sports
-http://appstv.us:25461/lozanos/tvmulti/49
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ Cinema" tvg-logo="" group-title="",Latino | AZ Cinema
-http://appstv.us:25461/lozanos/tvmulti/50
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ Corazon" tvg-logo="" group-title="",Latino | AZ Corazon
-http://appstv.us:25461/lozanos/tvmulti/51
-#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ Mundo" tvg-logo="" group-title="",Latino | AZ Mundo
-http://appstv.us:25461/lozanos/tvmulti/52
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Azteca 1" tvg-logo="" group-title="",Latino | Azteca 1
-http://appstv.us:25461/lozanos/tvmulti/53
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Azteca 7" tvg-logo="" group-title="MEXICO",Latino | Azteca 7
-http://appstv.us:25461/lozanos/tvmulti/54
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Bandamax" tvg-logo="" group-title="",Latino | Bandamax
-http://appstv.us:25461/lozanos/tvmulti/55
-#EXTINF:-1 tvg-id="" tvg-name="Latino | beIN Sports" tvg-logo="" group-title="",Latino | beIN Sports
-http://appstv.us:25461/lozanos/tvmulti/56
-#EXTINF:-1 tvg-id="" tvg-name="Latino | beIN Sports La Liga" tvg-logo="" group-title="",Latino | beIN Sports La Liga
-http://appstv.us:25461/lozanos/tvmulti/57
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Boomerang" tvg-logo="" group-title="INFANTILES",Latino | Boomerang
-http://appstv.us:25461/lozanos/tvmulti/58
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal 11" tvg-logo="" group-title="",Latino | Canal 11
-http://appstv.us:25461/lozanos/tvmulti/59
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal 5" tvg-logo="" group-title="",Latino | Canal 5
-http://appstv.us:25461/lozanos/tvmulti/60
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="" group-title="",Latino | Canal De Las Estrellas
-http://appstv.us:25461/lozanos/tvmulti/61
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol
-http://appstv.us:25461/lozanos/tvmulti/62
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Cartoon Network" tvg-logo="" group-title="",Latino | Cartoon Network
-http://appstv.us:25461/lozanos/tvmulti/63
-#EXTINF:-1 tvg-id="" tvg-name="Latino | CineCanal" tvg-logo="" group-title="PERU",Latino | CineCanal
-http://appstv.us:25461/lozanos/tvmulti/64
-#EXTINF:-1 tvg-id="" tvg-name="Latino | CineLatino" tvg-logo="" group-title="",Latino | CineLatino
-http://appstv.us:25461/lozanos/tvmulti/65
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Cinemax" tvg-logo="" group-title="",Latino | Cinemax
-http://appstv.us:25461/lozanos/tvmulti/66
-#EXTINF:-1 tvg-id="" tvg-name="Latino | CNN en Espanol" tvg-logo="" group-title="",Latino | CNN en Espanol
-http://appstv.us:25461/lozanos/tvmulti/67
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Comedy Central" tvg-logo="" group-title="",Latino | Comedy Central
-http://appstv.us:25461/lozanos/tvmulti/68
-#EXTINF:-1 tvg-id="" tvg-name="Latino | De Pelicula" tvg-logo="" group-title="",Latino | De Pelicula
-http://appstv.us:25461/lozanos/tvmulti/69
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Channel" tvg-logo="" group-title="",Latino | Discovery Channel
-http://appstv.us:25461/lozanos/tvmulti/70
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Civilization" tvg-logo="" group-title="",Latino | Discovery Civilization
-http://appstv.us:25461/lozanos/tvmulti/71
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery en Espanol" tvg-logo="" group-title="",Latino | Discovery en Espanol
-http://appstv.us:25461/lozanos/tvmulti/72
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Familia" tvg-logo="" group-title="",Latino | Discovery Familia
-http://appstv.us:25461/lozanos/tvmulti/73
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery H&H" tvg-logo="" group-title="",Latino | Discovery H&H
-http://appstv.us:25461/lozanos/tvmulti/74
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery ID" tvg-logo="" group-title="",Latino | Discovery ID
-http://appstv.us:25461/lozanos/tvmulti/75
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Kids" tvg-logo="" group-title="",Latino | Discovery Kids
-http://appstv.us:25461/lozanos/tvmulti/76
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Science" tvg-logo="" group-title="",Latino | Discovery Science
-http://appstv.us:25461/lozanos/tvmulti/77
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Theater" tvg-logo="" group-title="",Latino | Discovery Theater
-http://appstv.us:25461/lozanos/tvmulti/78
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery TLC" tvg-logo="" group-title="",Latino | Discovery TLC
-http://appstv.us:25461/lozanos/tvmulti/79
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery Turbo" tvg-logo="" group-title="",Latino | Discovery Turbo
-http://appstv.us:25461/lozanos/tvmulti/80
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Discovery World" tvg-logo="" group-title="",Latino | Discovery World
-http://appstv.us:25461/lozanos/tvmulti/81
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Disney Channel" tvg-logo="" group-title="",Latino | Disney Channel
-http://appstv.us:25461/lozanos/tvmulti/82
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Disney Jr" tvg-logo="" group-title="",Latino | Disney Jr
-http://appstv.us:25461/lozanos/tvmulti/83
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Disney XD" tvg-logo="" group-title="",Latino | Disney XD
-http://appstv.us:25461/lozanos/tvmulti/84
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Distrito Comedia" tvg-logo="" group-title="",Latino | Distrito Comedia
-http://appstv.us:25461/lozanos/tvmulti/85
-#EXTINF:-1 tvg-id="" tvg-name="Latino | E!" tvg-logo="" group-title="",Latino | E!
-http://appstv.us:25461/lozanos/tvmulti/86
-#EXTINF:-1 tvg-id="" tvg-name="Latino | El Garage" tvg-logo="" group-title="",Latino | El Garage
-http://appstv.us:25461/lozanos/tvmulti/87
-#EXTINF:-1 tvg-id="" tvg-name="Latino | El Gourmet" tvg-logo="" group-title="",Latino | El Gourmet
-http://appstv.us:25461/lozanos/tvmulti/88
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN" tvg-logo="" group-title="PERU",Latino | ESPN
-http://appstv.us:25461/lozanos/tvmulti/89
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN 2" tvg-logo="" group-title="",Latino | ESPN 2
-http://appstv.us:25461/lozanos/tvmulti/90
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN 3" tvg-logo="" group-title="",Latino | ESPN 3
-http://appstv.us:25461/lozanos/tvmulti/91
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Deportes" tvg-logo="" group-title="",Latino | ESPN Deportes
-http://appstv.us:25461/lozanos/tvmulti/92
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ESPN Plus" tvg-logo="" group-title="",Latino | ESPN Plus
-http://appstv.us:25461/lozanos/tvmulti/93
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Estrella TV" tvg-logo="" group-title="LOCAL CA",Latino | Estrella TV
-http://appstv.us:25461/lozanos/tvmulti/94
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Food Network" tvg-logo="" group-title="",Latino | Food Network
-http://appstv.us:25461/lozanos/tvmulti/95
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Foro TV" tvg-logo="" group-title="",Latino | Foro TV
-http://appstv.us:25461/lozanos/tvmulti/96
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX" tvg-logo="" group-title="",Latino | FOX
-http://appstv.us:25461/lozanos/tvmulti/97
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Action" tvg-logo="" group-title="PELICULAS",Latino | FOX PREMIUM Action
-http://appstv.us:25461/lozanos/tvmulti/98
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Cinema" tvg-logo="" group-title="",Latino | FOX PREMIUM Cinema
-http://appstv.us:25461/lozanos/tvmulti/99
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Classic" tvg-logo="" group-title="",Latino | FOX PREMIUM Classic
-http://appstv.us:25461/lozanos/tvmulti/100
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Family" tvg-logo="" group-title="",Latino | FOX PREMIUM Family
-http://appstv.us:25461/lozanos/tvmulti/101
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX Life" tvg-logo="" group-title="",Latino | FOX Life
-http://appstv.us:25461/lozanos/tvmulti/102
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Movies" tvg-logo="" group-title="",Latino | FOX PREMIUM Movies
-http://appstv.us:25461/lozanos/tvmulti/103
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX PREMIUM Series" tvg-logo="" group-title="",Latino | FOX PREMIUM Series
-http://appstv.us:25461/lozanos/tvmulti/104
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX Sports" tvg-logo="" group-title="",Latino | FOX Sports
-http://appstv.us:25461/lozanos/tvmulti/105
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX Sports 2" tvg-logo="" group-title="",Latino | FOX Sports 2
-http://appstv.us:25461/lozanos/tvmulti/106
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FOX Sports 3" tvg-logo="" group-title="",Latino | FOX Sports 3
-http://appstv.us:25461/lozanos/tvmulti/107
-#EXTINF:-1 tvg-id="" tvg-name="USA | FS2" tvg-logo="" group-title="",USA | FS2
-http://appstv.us:25461/lozanos/tvmulti/109
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | SPORTSNET WEST" tvg-logo="" group-title="",CANADA | SPORTSNET WEST
-http://appstv.us:25461/lozanos/tvmulti/110
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FX" tvg-logo="" group-title="",Latino | FX
-http://appstv.us:25461/lozanos/tvmulti/111
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FXM" tvg-logo="" group-title="",Latino | FXM
-http://appstv.us:25461/lozanos/tvmulti/112
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Gala TV" tvg-logo="" group-title="",Latino | Gala TV
-http://appstv.us:25461/lozanos/tvmulti/113
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="" group-title="",Latino | Glitz
-http://appstv.us:25461/lozanos/tvmulti/114
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="",Latino | Gol TV
-http://appstv.us:25461/lozanos/tvmulti/115
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
-http://appstv.us:25461/lozanos/tvmulti/116
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden Plus" tvg-logo="" group-title="",Latino | Golden Plus
-http://appstv.us:25461/lozanos/tvmulti/117
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO" tvg-logo="" group-title="",Latino | HBO
-http://appstv.us:25461/lozanos/tvmulti/118
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO 2" tvg-logo="" group-title="",Latino | HBO 2
-http://appstv.us:25461/lozanos/tvmulti/119
-#EXTINF:-1 tvg-id="I356.34879.schedulesdirect.org" tvg-name="Latino | HBO Family" tvg-logo="https://i.imgur.com/RQa2ipx.png" group-title="LOCAL CA",Latino | HBO Family
-http://appstv.us:25461/lozanos/tvmulti/120
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO Plus" tvg-logo="" group-title="",Latino | HBO Plus
-http://appstv.us:25461/lozanos/tvmulti/121
-#EXTINF:-1 tvg-id="" tvg-name="Latino | History 2" tvg-logo="" group-title="",Latino | History 2
-http://appstv.us:25461/lozanos/tvmulti/122
-#EXTINF:-1 tvg-id="" tvg-name="Latino | History Channel" tvg-logo="" group-title="",Latino | History Channel
-http://appstv.us:25461/lozanos/tvmulti/123
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Hola TV" tvg-logo="" group-title="",Latino | Hola TV
-http://appstv.us:25461/lozanos/tvmulti/124
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Imagen" tvg-logo="" group-title="",Latino | Imagen
-http://appstv.us:25461/lozanos/tvmulti/125
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Lifetime" tvg-logo="" group-title="",Latino | Lifetime
-http://appstv.us:25461/lozanos/tvmulti/126
-#EXTINF:-1 tvg-id="" tvg-name="Latino | MasChic" tvg-logo="" group-title="",Latino | MasChic
-http://appstv.us:25461/lozanos/tvmulti/127
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO XTREME" tvg-logo="" group-title="",Latino | HBO XTREME
-http://appstv.us:25461/lozanos/tvmulti/128
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO POP" tvg-logo="" group-title="",Latino | HBO POP
-http://appstv.us:25461/lozanos/tvmulti/129
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Mexiquense" tvg-logo="" group-title="",Latino | Mexiquense
-http://appstv.us:25461/lozanos/tvmulti/130
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Multimedios" tvg-logo="" group-title="",Latino | Multimedios
-http://appstv.us:25461/lozanos/tvmulti/131
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nat Geo Kids" tvg-logo="" group-title="",Latino | Nat Geo Kids
-http://appstv.us:25461/lozanos/tvmulti/132
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nat Geo Mundo" tvg-logo="" group-title="",Latino | Nat Geo Mundo
-http://appstv.us:25461/lozanos/tvmulti/133
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nat Geo Wild" tvg-logo="" group-title="",Latino | Nat Geo Wild
-http://appstv.us:25461/lozanos/tvmulti/134
-#EXTINF:-1 tvg-id="" tvg-name="Latino | National Geographic" tvg-logo="" group-title="",Latino | National Geographic
-http://appstv.us:25461/lozanos/tvmulti/135
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nick" tvg-logo="" group-title="",Latino | Nick
-http://appstv.us:25461/lozanos/tvmulti/136
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nick Jr" tvg-logo="" group-title="",Latino | Nick Jr
-http://appstv.us:25461/lozanos/tvmulti/137
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Nicktoons" tvg-logo="" group-title="",Latino | Nicktoons
-http://appstv.us:25461/lozanos/tvmulti/138
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="" group-title="",Latino | Pasiones
-http://appstv.us:25461/lozanos/tvmulti/139
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN
-http://appstv.us:25461/lozanos/tvmulti/140
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Ritmoson" tvg-logo="" group-title="",Latino | Ritmoson
-http://appstv.us:25461/lozanos/tvmulti/141
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Showtime" tvg-logo="" group-title="",Latino | Showtime
-http://appstv.us:25461/lozanos/tvmulti/142
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Sony" tvg-logo="" group-title="",Latino | Sony
-http://appstv.us:25461/lozanos/tvmulti/143
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Space" tvg-logo="" group-title="",Latino | Space
-http://appstv.us:25461/lozanos/tvmulti/144
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz" tvg-logo="" group-title="",Latino | Starz
-http://appstv.us:25461/lozanos/tvmulti/145
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Starz Encore" tvg-logo="" group-title="",Latino | Starz Encore
-http://appstv.us:25461/lozanos/tvmulti/146
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Studio Universal" tvg-logo="" group-title="",Latino | Studio Universal
-http://appstv.us:25461/lozanos/tvmulti/147
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Sundance" tvg-logo="" group-title="",Latino | Sundance
-http://appstv.us:25461/lozanos/tvmulti/148
-#EXTINF:-1 tvg-id="" tvg-name="Latino | SyFy" tvg-logo="" group-title="",Latino | SyFy
-http://appstv.us:25461/lozanos/tvmulti/149
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TBS" tvg-logo="" group-title="",Latino | TBS
-http://appstv.us:25461/lozanos/tvmulti/150
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TCM" tvg-logo="" group-title="",Latino | TCM
-http://appstv.us:25461/lozanos/tvmulti/151
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Teleformula" tvg-logo="" group-title="",Latino | Teleformula
-http://appstv.us:25461/lozanos/tvmulti/152
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Telehit" tvg-logo="" group-title="",Latino | Telehit
-http://appstv.us:25461/lozanos/tvmulti/153
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Telemundo Int" tvg-logo="" group-title="",Latino | Telemundo Int
-http://appstv.us:25461/lozanos/tvmulti/154
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TLnovelas" tvg-logo="" group-title="PERU",Latino | TLnovelas
-http://appstv.us:25461/lozanos/tvmulti/155
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TNT" tvg-logo="" group-title="PELICULAS",Latino | TNT
-http://appstv.us:25461/lozanos/tvmulti/156
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TNT Series" tvg-logo="" group-title="",Latino | TNT Series
-http://appstv.us:25461/lozanos/tvmulti/157
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Tooncast" tvg-logo="" group-title="",Latino | Tooncast
-http://appstv.us:25461/lozanos/tvmulti/158
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TruTV" tvg-logo="" group-title="PERU",Latino | TruTV
-http://appstv.us:25461/lozanos/tvmulti/159
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TUDN" tvg-logo="" group-title="",Latino | TUDN
-http://appstv.us:25461/lozanos/tvmulti/160
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TVC" tvg-logo="" group-title="",Latino | TVC
-http://appstv.us:25461/lozanos/tvmulti/161
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TVC Deportes" tvg-logo="" group-title="",Latino | TVC Deportes
-http://appstv.us:25461/lozanos/tvmulti/162
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TyC Sports" tvg-logo="" group-title="",Latino | TyC Sports
-http://appstv.us:25461/lozanos/tvmulti/163
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Unicable" tvg-logo="" group-title="",Latino | Unicable
-http://appstv.us:25461/lozanos/tvmulti/173
-#EXTINF:-1 tvg-id="" tvg-name="Latino | UniMas" tvg-logo="" group-title="",Latino | UniMas
-http://appstv.us:25461/lozanos/tvmulti/174
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Universal Channel" tvg-logo="" group-title="",Latino | Universal Channel
-http://appstv.us:25461/lozanos/tvmulti/175
-#EXTINF:-1 tvg-id="" tvg-name="Latino | VH1" tvg-logo="" group-title="",Latino | VH1
-http://appstv.us:25461/lozanos/tvmulti/176
-#EXTINF:-1 tvg-id="" tvg-name="Latino | VH1 Classic" tvg-logo="" group-title="",Latino | VH1 Classic
-http://appstv.us:25461/lozanos/tvmulti/177
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Warner" tvg-logo="" group-title="",Latino | Warner
-http://appstv.us:25461/lozanos/tvmulti/178
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Win Sports" tvg-logo="" group-title="",Latino | Win Sports
-http://appstv.us:25461/lozanos/tvmulti/179
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | MEGA TV" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | MEGA TV
-http://appstv.us:25461/lozanos/tvmulti/180
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | Punto 2" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | Punto 2
-http://appstv.us:25461/lozanos/tvmulti/181
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | Univision" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | Univision
-http://appstv.us:25461/lozanos/tvmulti/182
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | WAPA" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | WAPA
-http://appstv.us:25461/lozanos/tvmulti/183
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | WAPA 2" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | WAPA 2
-http://appstv.us:25461/lozanos/tvmulti/184
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | WIPR" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | WIPR
-http://appstv.us:25461/lozanos/tvmulti/185
-#EXTINF:-1 tvg-id="" tvg-name="UK | BoxNation" tvg-logo="" group-title="",UK | BoxNation
-http://appstv.us:25461/lozanos/tvmulti/186
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Action" tvg-logo="" group-title="",UK | Sky Sports Action
-http://appstv.us:25461/lozanos/tvmulti/187
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports F1" tvg-logo="" group-title="",UK | Sky Sports F1
-http://appstv.us:25461/lozanos/tvmulti/188
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Golf" tvg-logo="" group-title="",UK | Sky Sports Golf
-http://appstv.us:25461/lozanos/tvmulti/189
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Main Event" tvg-logo="" group-title="",UK | Sky Sports Main Event
-http://appstv.us:25461/lozanos/tvmulti/190
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports MIX" tvg-logo="" group-title="",UK | Sky Sports MIX
-http://appstv.us:25461/lozanos/tvmulti/191
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Premier League" tvg-logo="" group-title="",UK | Sky Sports Premier League
-http://appstv.us:25461/lozanos/tvmulti/192
-#EXTINF:-1 tvg-id="" tvg-name="USA  | ABC" tvg-logo="" group-title="",USA  | ABC
-http://appstv.us:25461/lozanos/tvmulti/193
-#EXTINF:-1 tvg-id="" tvg-name="USA |  Outside TV" tvg-logo="" group-title="",USA |  Outside TV
-http://appstv.us:25461/lozanos/tvmulti/194
-#EXTINF:-1 tvg-id="" tvg-name="USA | A&E" tvg-logo="" group-title="",USA | A&E
-http://appstv.us:25461/lozanos/tvmulti/195
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 10 Miami" tvg-logo="" group-title="",USA | ABC 10 Miami
-http://appstv.us:25461/lozanos/tvmulti/196
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 13 Houston" tvg-logo="" group-title="",USA | ABC 13 Houston
-http://appstv.us:25461/lozanos/tvmulti/197
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 2 Atlanta" tvg-logo="" group-title="",USA | ABC 2 Atlanta
-http://appstv.us:25461/lozanos/tvmulti/198
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 28 Tampa Bay" tvg-logo="" group-title="",USA | ABC 28 Tampa Bay
-http://appstv.us:25461/lozanos/tvmulti/199
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Chicago" tvg-logo="" group-title="",USA | ABC 7 Chicago
-http://appstv.us:25461/lozanos/tvmulti/200
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Denver" tvg-logo="" group-title="",USA | ABC 7 Denver
-http://appstv.us:25461/lozanos/tvmulti/201
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 Los Angeles" tvg-logo="" group-title="",USA | ABC 7 Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/202
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 New York" tvg-logo="" group-title="",USA | ABC 7 New York
-http://appstv.us:25461/lozanos/tvmulti/203
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 8 Dallas" tvg-logo="" group-title="",USA | ABC 8 Dallas
-http://appstv.us:25461/lozanos/tvmulti/204
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 9 Orlando" tvg-logo="" group-title="",USA | ABC 9 Orlando
-http://appstv.us:25461/lozanos/tvmulti/205
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="" group-title="",USA | ABC News
-http://appstv.us:25461/lozanos/tvmulti/206
-#EXTINF:-1 tvg-id="" tvg-name="USA | ACC Network" tvg-logo="" group-title="",USA | ACC Network
-http://appstv.us:25461/lozanos/tvmulti/207
-#EXTINF:-1 tvg-id="" tvg-name="USA | AMC" tvg-logo="" group-title="",USA | AMC
-http://appstv.us:25461/lozanos/tvmulti/208
-#EXTINF:-1 tvg-id="" tvg-name="USA | American Heroes Channel" tvg-logo="" group-title="",USA | American Heroes Channel
-http://appstv.us:25461/lozanos/tvmulti/209
-#EXTINF:-1 tvg-id="" tvg-name="USA | Animal Planet" tvg-logo="" group-title="",USA | Animal Planet
-http://appstv.us:25461/lozanos/tvmulti/210
-#EXTINF:-1 tvg-id="" tvg-name="USA | BBC America" tvg-logo="" group-title="",USA | BBC America
-http://appstv.us:25461/lozanos/tvmulti/211
-#EXTINF:-1 tvg-id="" tvg-name="USA | beIN Sports" tvg-logo="" group-title="",USA | beIN Sports
-http://appstv.us:25461/lozanos/tvmulti/212
-#EXTINF:-1 tvg-id="" tvg-name="USA | BET" tvg-logo="" group-title="",USA | BET
-http://appstv.us:25461/lozanos/tvmulti/213
-#EXTINF:-1 tvg-id="" tvg-name="USA | BET Her" tvg-logo="" group-title="",USA | BET Her
-http://appstv.us:25461/lozanos/tvmulti/214
-#EXTINF:-1 tvg-id="" tvg-name="USA | Big Ten Network" tvg-logo="" group-title="",USA | Big Ten Network
-http://appstv.us:25461/lozanos/tvmulti/215
-#EXTINF:-1 tvg-id="" tvg-name="USA | Boomerang" tvg-logo="" group-title="",USA | Boomerang
-http://appstv.us:25461/lozanos/tvmulti/216
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bravo" tvg-logo="" group-title="",USA | Bravo
-http://appstv.us:25461/lozanos/tvmulti/217
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cartoon Network" tvg-logo="" group-title="",USA | Cartoon Network
-http://appstv.us:25461/lozanos/tvmulti/218
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS" tvg-logo="" group-title="",USA | CBS
-http://appstv.us:25461/lozanos/tvmulti/219
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 10 Tampa Bay" tvg-logo="" group-title="",USA | CBS 10 Tampa Bay
-http://appstv.us:25461/lozanos/tvmulti/220
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 11 Dallas" tvg-logo="" group-title="",USA | CBS 11 Dallas
-http://appstv.us:25461/lozanos/tvmulti/221
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 11 Houston" tvg-logo="" group-title="",USA | CBS 11 Houston
-http://appstv.us:25461/lozanos/tvmulti/222
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 Chicago" tvg-logo="" group-title="",USA | CBS 2 Chicago
-http://appstv.us:25461/lozanos/tvmulti/223
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 Los Angeles" tvg-logo="" group-title="",USA | CBS 2 Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/224
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 2 New York" tvg-logo="" group-title="",USA | CBS 2 New York
-http://appstv.us:25461/lozanos/tvmulti/225
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 3 Philadelphia" tvg-logo="" group-title="",USA | CBS 3 Philadelphia
-http://appstv.us:25461/lozanos/tvmulti/226
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Denver" tvg-logo="" group-title="",USA | CBS 4 Denver
-http://appstv.us:25461/lozanos/tvmulti/227
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Miami" tvg-logo="" group-title="",USA | CBS 4 Miami
-http://appstv.us:25461/lozanos/tvmulti/228
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Orlando" tvg-logo="" group-title="",USA | CBS 4 Orlando
-http://appstv.us:25461/lozanos/tvmulti/229
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 46 Atlanta" tvg-logo="" group-title="",USA | CBS 46 Atlanta
-http://appstv.us:25461/lozanos/tvmulti/230
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBSN" tvg-logo="" group-title="",USA | CBSN
-http://appstv.us:25461/lozanos/tvmulti/231
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax East" tvg-logo="" group-title="",USA | Cinemax East
-http://appstv.us:25461/lozanos/tvmulti/233
-#EXTINF:-1 tvg-id="" tvg-name="USA | CMT" tvg-logo="" group-title="",USA | CMT
-http://appstv.us:25461/lozanos/tvmulti/234
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC" tvg-logo="" group-title="",USA | CNBC
-http://appstv.us:25461/lozanos/tvmulti/235
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNN" tvg-logo="" group-title="",USA | CNN
-http://appstv.us:25461/lozanos/tvmulti/236
-#EXTINF:-1 tvg-id="" tvg-name="USA | Comedy Central" tvg-logo="" group-title="",USA | Comedy Central
-http://appstv.us:25461/lozanos/tvmulti/237
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cooking Channel" tvg-logo="" group-title="",USA | Cooking Channel
-http://appstv.us:25461/lozanos/tvmulti/238
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cozi TV" tvg-logo="" group-title="",USA | Cozi TV
-http://appstv.us:25461/lozanos/tvmulti/239
-#EXTINF:-1 tvg-id="" tvg-name="USA | CW" tvg-logo="" group-title="",USA | CW
-http://appstv.us:25461/lozanos/tvmulti/240
-#EXTINF:-1 tvg-id="" tvg-name="USA | Destination America" tvg-logo="" group-title="",USA | Destination America
-http://appstv.us:25461/lozanos/tvmulti/241
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Channel" tvg-logo="" group-title="",USA | Discovery Channel
-http://appstv.us:25461/lozanos/tvmulti/242
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Family" tvg-logo="" group-title="",USA | Discovery Family
-http://appstv.us:25461/lozanos/tvmulti/243
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Life" tvg-logo="" group-title="",USA | Discovery Life
-http://appstv.us:25461/lozanos/tvmulti/244
-#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Science" tvg-logo="" group-title="",USA | Discovery Science
-http://appstv.us:25461/lozanos/tvmulti/245
-#EXTINF:-1 tvg-id="" tvg-name="USA | Disney Channel" tvg-logo="" group-title="",USA | Disney Channel
-http://appstv.us:25461/lozanos/tvmulti/246
-#EXTINF:-1 tvg-id="" tvg-name="USA | Disney Jr" tvg-logo="" group-title="",USA | Disney Jr
-http://appstv.us:25461/lozanos/tvmulti/247
-#EXTINF:-1 tvg-id="" tvg-name="USA | Disney XD" tvg-logo="" group-title="",USA | Disney XD
-http://appstv.us:25461/lozanos/tvmulti/248
-#EXTINF:-1 tvg-id="" tvg-name="USA | DIY" tvg-logo="" group-title="",USA | DIY
-http://appstv.us:25461/lozanos/tvmulti/249
-#EXTINF:-1 tvg-id="" tvg-name="USA | E!" tvg-logo="" group-title="",USA | E!
-http://appstv.us:25461/lozanos/tvmulti/250
-#EXTINF:-1 tvg-id="" tvg-name="USA | Eleven Sports" tvg-logo="" group-title="",USA | Eleven Sports
-http://appstv.us:25461/lozanos/tvmulti/251
-#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX" tvg-logo="" group-title="",USA | EPIX
-http://appstv.us:25461/lozanos/tvmulti/252
-#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX 2" tvg-logo="" group-title="",USA | EPIX 2
-http://appstv.us:25461/lozanos/tvmulti/253
-#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX Hits" tvg-logo="" group-title="",USA | EPIX Hits
-http://appstv.us:25461/lozanos/tvmulti/254
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN" tvg-logo="" group-title="",USA | ESPN
-http://appstv.us:25461/lozanos/tvmulti/255
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN 2" tvg-logo="" group-title="",USA | ESPN 2
-http://appstv.us:25461/lozanos/tvmulti/256
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN News" tvg-logo="" group-title="",USA | ESPN News
-http://appstv.us:25461/lozanos/tvmulti/257
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN U" tvg-logo="" group-title="",USA | ESPN U
-http://appstv.us:25461/lozanos/tvmulti/258
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fight Network" tvg-logo="" group-title="",USA | Fight Network
-http://appstv.us:25461/lozanos/tvmulti/259
-#EXTINF:-1 tvg-id="" tvg-name="USA | Food Network" tvg-logo="" group-title="",USA | Food Network
-http://appstv.us:25461/lozanos/tvmulti/260
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX" tvg-logo="" group-title="",USA | FOX
-http://appstv.us:25461/lozanos/tvmulti/261
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 11 Los Angeles" tvg-logo="" group-title="",USA | FOX 11 Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/262
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 13 Tampa" tvg-logo="" group-title="",USA | FOX 13 Tampa
-http://appstv.us:25461/lozanos/tvmulti/263
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 26 Houston" tvg-logo="" group-title="",USA | FOX 26 Houston
-http://appstv.us:25461/lozanos/tvmulti/264
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 29 Philadelphia" tvg-logo="" group-title="",USA | FOX 29 Philadelphia
-http://appstv.us:25461/lozanos/tvmulti/265
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 31 Denver" tvg-logo="" group-title="",USA | FOX 31 Denver
-http://appstv.us:25461/lozanos/tvmulti/266
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 35 Orlando" tvg-logo="" group-title="",USA | FOX 35 Orlando
-http://appstv.us:25461/lozanos/tvmulti/267
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 4 Dallas" tvg-logo="" group-title="",USA | FOX 4 Dallas
-http://appstv.us:25461/lozanos/tvmulti/268
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 5 Atlanta" tvg-logo="" group-title="",USA | FOX 5 Atlanta
-http://appstv.us:25461/lozanos/tvmulti/269
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 5 New York" tvg-logo="" group-title="",USA | FOX 5 New York
-http://appstv.us:25461/lozanos/tvmulti/270
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 7 Miami" tvg-logo="" group-title="",USA | FOX 7 Miami
-http://appstv.us:25461/lozanos/tvmulti/271
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 8 Cleveland" tvg-logo="" group-title="",USA | FOX 8 Cleveland
-http://appstv.us:25461/lozanos/tvmulti/272
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Business Network" tvg-logo="" group-title="",USA | FOX Business Network
-http://appstv.us:25461/lozanos/tvmulti/273
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Deportes" tvg-logo="" group-title="PERU",USA | Fox Deportes
-http://appstv.us:25461/lozanos/tvmulti/274
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX News" tvg-logo="" group-title="",USA | FOX News
-http://appstv.us:25461/lozanos/tvmulti/275
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Soccer Plus" tvg-logo="" group-title="",USA | FOX Soccer Plus
-http://appstv.us:25461/lozanos/tvmulti/276
-#EXTINF:-1 tvg-id="" tvg-name="USA | FreeForm" tvg-logo="" group-title="",USA | FreeForm
-http://appstv.us:25461/lozanos/tvmulti/277
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fuse" tvg-logo="" group-title="",USA | Fuse
-http://appstv.us:25461/lozanos/tvmulti/278
-#EXTINF:-1 tvg-id="" tvg-name="USA | FX" tvg-logo="" group-title="",USA | FX
-http://appstv.us:25461/lozanos/tvmulti/280
-#EXTINF:-1 tvg-id="" tvg-name="USA | FXM" tvg-logo="" group-title="",USA | FXM
-http://appstv.us:25461/lozanos/tvmulti/281
-#EXTINF:-1 tvg-id="" tvg-name="USA | FXX" tvg-logo="" group-title="",USA | FXX
-http://appstv.us:25461/lozanos/tvmulti/282
-#EXTINF:-1 tvg-id="" tvg-name="USA | FYI" tvg-logo="" group-title="",USA | FYI
-http://appstv.us:25461/lozanos/tvmulti/283
-#EXTINF:-1 tvg-id="" tvg-name="USA | Galavision" tvg-logo="" group-title="",USA | Galavision
-http://appstv.us:25461/lozanos/tvmulti/284
-#EXTINF:-1 tvg-id="" tvg-name="USA | Golden Premier" tvg-logo="" group-title="",USA | Golden Premier
-http://appstv.us:25461/lozanos/tvmulti/285
-#EXTINF:-1 tvg-id="" tvg-name="USA | GSN" tvg-logo="" group-title="",USA | GSN
-http://appstv.us:25461/lozanos/tvmulti/286
-#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark" tvg-logo="" group-title="",USA | Hallmark
-http://appstv.us:25461/lozanos/tvmulti/287
-#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Drama" tvg-logo="" group-title="",USA | Hallmark Drama
-http://appstv.us:25461/lozanos/tvmulti/288
-#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Movies & Mysteries" tvg-logo="" group-title="",USA | Hallmark Movies & Mysteries
-http://appstv.us:25461/lozanos/tvmulti/289
-#EXTINF:-1 tvg-id="" tvg-name="USA | HBO" tvg-logo="" group-title="",USA | HBO
-http://appstv.us:25461/lozanos/tvmulti/290
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="USA | HBO Family" tvg-logo="" group-title="LOCAL CA",USA | HBO Family
-http://appstv.us:25461/lozanos/tvmulti/291
-#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Signature" tvg-logo="" group-title="",USA | HBO Signature
-http://appstv.us:25461/lozanos/tvmulti/292
-#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone" tvg-logo="" group-title="",USA | HBO Zone
-http://appstv.us:25461/lozanos/tvmulti/293
-#EXTINF:-1 tvg-id="" tvg-name="USA | HGTV" tvg-logo="" group-title="",USA | HGTV
-http://appstv.us:25461/lozanos/tvmulti/294
-#EXTINF:-1 tvg-id="" tvg-name="USA | History Channel" tvg-logo="" group-title="",USA | History Channel
-http://appstv.us:25461/lozanos/tvmulti/295
-#EXTINF:-1 tvg-id="" tvg-name="USA | HLN" tvg-logo="" group-title="",USA | HLN
-http://appstv.us:25461/lozanos/tvmulti/296
-#EXTINF:-1 tvg-id="" tvg-name="USA | IFC" tvg-logo="" group-title="",USA | IFC
-http://appstv.us:25461/lozanos/tvmulti/297
-#EXTINF:-1 tvg-id="" tvg-name="USA | Investigation Discovery" tvg-logo="" group-title="",USA | Investigation Discovery
-http://appstv.us:25461/lozanos/tvmulti/299
-#EXTINF:-1 tvg-id="" tvg-name="USA | Lifetime" tvg-logo="" group-title="",USA | Lifetime
-http://appstv.us:25461/lozanos/tvmulti/300
-#EXTINF:-1 tvg-id="" tvg-name="USA | LMN" tvg-logo="" group-title="",USA | LMN
-http://appstv.us:25461/lozanos/tvmulti/301
-#EXTINF:-1 tvg-id="" tvg-name="USA | Longhorn Network" tvg-logo="" group-title="",USA | Longhorn Network
-http://appstv.us:25461/lozanos/tvmulti/302
-#EXTINF:-1 tvg-id="" tvg-name="USA | MLB Network" tvg-logo="" group-title="",USA | MLB Network
-http://appstv.us:25461/lozanos/tvmulti/303
-#EXTINF:-1 tvg-id="" tvg-name="USA | MSG" tvg-logo="" group-title="",USA | MSG
-http://appstv.us:25461/lozanos/tvmulti/304
-#EXTINF:-1 tvg-id="" tvg-name="USA | MSG 2" tvg-logo="" group-title="",USA | MSG 2
-http://appstv.us:25461/lozanos/tvmulti/305
-#EXTINF:-1 tvg-id="" tvg-name="USA | MSNBC" tvg-logo="" group-title="",USA | MSNBC
-http://appstv.us:25461/lozanos/tvmulti/306
-#EXTINF:-1 tvg-id="" tvg-name="USA | MTV" tvg-logo="" group-title="",USA | MTV
-http://appstv.us:25461/lozanos/tvmulti/307
-#EXTINF:-1 tvg-id="" tvg-name="USA | MTV 2" tvg-logo="" group-title="",USA | MTV 2
-http://appstv.us:25461/lozanos/tvmulti/308
-#EXTINF:-1 tvg-id="" tvg-name="USA | My9" tvg-logo="" group-title="",USA | My9
-http://appstv.us:25461/lozanos/tvmulti/309
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nat Geo" tvg-logo="" group-title="",USA | Nat Geo
-http://appstv.us:25461/lozanos/tvmulti/310
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nat Geo Wild" tvg-logo="" group-title="",USA | Nat Geo Wild
-http://appstv.us:25461/lozanos/tvmulti/311
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBA TV" tvg-logo="" group-title="",USA | NBA TV
-http://appstv.us:25461/lozanos/tvmulti/312
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC" tvg-logo="" group-title="",USA | NBC
-http://appstv.us:25461/lozanos/tvmulti/313
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 10 Philadelphia" tvg-logo="" group-title="",USA | NBC 10 Philadelphia
-http://appstv.us:25461/lozanos/tvmulti/314
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 2 Houston" tvg-logo="" group-title="",USA | NBC 2 Houston
-http://appstv.us:25461/lozanos/tvmulti/315
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 2 Orlando" tvg-logo="" group-title="",USA | NBC 2 Orlando
-http://appstv.us:25461/lozanos/tvmulti/316
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 4 Los Angeles" tvg-logo="" group-title="",USA | NBC 4 Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/317
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 4 New York" tvg-logo="" group-title="",USA | NBC 4 New York
-http://appstv.us:25461/lozanos/tvmulti/318
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 5 Chicago" tvg-logo="" group-title="",USA | NBC 5 Chicago
-http://appstv.us:25461/lozanos/tvmulti/319
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 5 Dallas" tvg-logo="" group-title="",USA | NBC 5 Dallas
-http://appstv.us:25461/lozanos/tvmulti/320
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 6 Miami" tvg-logo="" group-title="",USA | NBC 6 Miami
-http://appstv.us:25461/lozanos/tvmulti/321
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 9 Denver" tvg-logo="" group-title="",USA | NBC 9 Denver
-http://appstv.us:25461/lozanos/tvmulti/322
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Bay Area" tvg-logo="" group-title="",USA | NBC Sports Bay Area
-http://appstv.us:25461/lozanos/tvmulti/323
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Boston" tvg-logo="" group-title="",USA | NBC Sports Boston
-http://appstv.us:25461/lozanos/tvmulti/324
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports California" tvg-logo="" group-title="",USA | NBC Sports California
-http://appstv.us:25461/lozanos/tvmulti/325
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Chicago" tvg-logo="" group-title="",USA | NBC Sports Chicago
-http://appstv.us:25461/lozanos/tvmulti/326
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Northwest" tvg-logo="" group-title="",USA | NBC Sports Northwest
-http://appstv.us:25461/lozanos/tvmulti/327
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Philadelphia" tvg-logo="" group-title="",USA | NBC Sports Philadelphia
-http://appstv.us:25461/lozanos/tvmulti/328
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Sports Washington" tvg-logo="" group-title="",USA | NBC Sports Washington
-http://appstv.us:25461/lozanos/tvmulti/329
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Universo" tvg-logo="" group-title="",USA | NBC Universo
-http://appstv.us:25461/lozanos/tvmulti/330
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN" tvg-logo="" group-title="",USA | NBCSN
-http://appstv.us:25461/lozanos/tvmulti/331
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Network" tvg-logo="" group-title="",USA | NFL Network
-http://appstv.us:25461/lozanos/tvmulti/332
-#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Red Zone" tvg-logo="" group-title="",USA | NFL Red Zone
-http://appstv.us:25461/lozanos/tvmulti/333
-#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Network" tvg-logo="" group-title="",USA | NHL Network
-http://appstv.us:25461/lozanos/tvmulti/334
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nick" tvg-logo="" group-title="",USA | Nick
-http://appstv.us:25461/lozanos/tvmulti/335
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nick Jr" tvg-logo="" group-title="",USA | Nick Jr
-http://appstv.us:25461/lozanos/tvmulti/336
-#EXTINF:-1 tvg-id="" tvg-name="USA | Nicktoons" tvg-logo="" group-title="",USA | Nicktoons
-http://appstv.us:25461/lozanos/tvmulti/337
-#EXTINF:-1 tvg-id="" tvg-name="USA | Outdoor Channel" tvg-logo="" group-title="",USA | Outdoor Channel
-http://appstv.us:25461/lozanos/tvmulti/338
-#EXTINF:-1 tvg-id="" tvg-name="USA | OWN" tvg-logo="" group-title="",USA | OWN
-http://appstv.us:25461/lozanos/tvmulti/339
-#EXTINF:-1 tvg-id="" tvg-name="USA | Oxygen" tvg-logo="" group-title="",USA | Oxygen
-http://appstv.us:25461/lozanos/tvmulti/340
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Mountain" tvg-logo="" group-title="",USA | PAC-12 Mountain
-http://appstv.us:25461/lozanos/tvmulti/341
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pac-12 Network" tvg-logo="" group-title="",USA | Pac-12 Network
-http://appstv.us:25461/lozanos/tvmulti/342
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Oregon" tvg-logo="" group-title="",USA | PAC-12 Oregon
-http://appstv.us:25461/lozanos/tvmulti/343
-#EXTINF:-1 tvg-id="" tvg-name="USA | Paramount" tvg-logo="" group-title="",USA | Paramount
-http://appstv.us:25461/lozanos/tvmulti/344
-#EXTINF:-1 tvg-id="" tvg-name="USA | PBS Kids" tvg-logo="" group-title="",USA | PBS Kids
-http://appstv.us:25461/lozanos/tvmulti/345
-#EXTINF:-1 tvg-id="" tvg-name="USA | PoP" tvg-logo="" group-title="",USA | PoP
-http://appstv.us:25461/lozanos/tvmulti/346
-#EXTINF:-1 tvg-id="" tvg-name="USA | SEC Network" tvg-logo="" group-title="",USA | SEC Network
-http://appstv.us:25461/lozanos/tvmulti/347
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime" tvg-logo="" group-title="",USA | Showtime
-http://appstv.us:25461/lozanos/tvmulti/348
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime 2" tvg-logo="" group-title="",USA | Showtime 2
-http://appstv.us:25461/lozanos/tvmulti/349
-#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Extreme" tvg-logo="" group-title="",USA | Showtime Extreme
-http://appstv.us:25461/lozanos/tvmulti/350
-#EXTINF:-1 tvg-id="" tvg-name="USA | Smithsonian Channel" tvg-logo="" group-title="",USA | Smithsonian Channel
-http://appstv.us:25461/lozanos/tvmulti/352
-#EXTINF:-1 tvg-id="" tvg-name="USA | SNY" tvg-logo="" group-title="",USA | SNY
-http://appstv.us:25461/lozanos/tvmulti/353
-#EXTINF:-1 tvg-id="" tvg-name="USA | Spectrum Sportsnet" tvg-logo="" group-title="",USA | Spectrum Sportsnet
-http://appstv.us:25461/lozanos/tvmulti/354
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz" tvg-logo="" group-title="",USA | Starz
-http://appstv.us:25461/lozanos/tvmulti/356
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge" tvg-logo="" group-title="",USA | Starz Edge
-http://appstv.us:25461/lozanos/tvmulti/357
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Westerns" tvg-logo="" group-title="",USA | Starz Encore Westerns
-http://appstv.us:25461/lozanos/tvmulti/358
-#EXTINF:-1 tvg-id="" tvg-name="USA | Starz in Black" tvg-logo="" group-title="",USA | Starz in Black
-http://appstv.us:25461/lozanos/tvmulti/359
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sundance" tvg-logo="" group-title="",USA | Sundance
-http://appstv.us:25461/lozanos/tvmulti/360
-#EXTINF:-1 tvg-id="" tvg-name="USA | SyFy" tvg-logo="" group-title="",USA | SyFy
-http://appstv.us:25461/lozanos/tvmulti/361
-#EXTINF:-1 tvg-id="" tvg-name="USA | TBS" tvg-logo="" group-title="",USA | TBS
-http://appstv.us:25461/lozanos/tvmulti/362
-#EXTINF:-1 tvg-id="" tvg-name="USA | TCM" tvg-logo="" group-title="",USA | TCM
-http://appstv.us:25461/lozanos/tvmulti/363
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo" tvg-logo="" group-title="",USA | Telemundo
-http://appstv.us:25461/lozanos/tvmulti/364
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Chicago" tvg-logo="" group-title="",USA | Telemundo Chicago
-http://appstv.us:25461/lozanos/tvmulti/365
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Los Angeles" tvg-logo="" group-title="",USA | Telemundo Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/366
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Miami" tvg-logo="" group-title="",USA | Telemundo Miami
-http://appstv.us:25461/lozanos/tvmulti/367
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Texas" tvg-logo="" group-title="",USA | Telemundo Texas
-http://appstv.us:25461/lozanos/tvmulti/368
-#EXTINF:-1 tvg-id="" tvg-name="USA | Tennis Channel" tvg-logo="" group-title="",USA | Tennis Channel
-http://appstv.us:25461/lozanos/tvmulti/369
-#EXTINF:-1 tvg-id="" tvg-name="USA | The Weather Channel" tvg-logo="" group-title="",USA | The Weather Channel
-http://appstv.us:25461/lozanos/tvmulti/370
-#EXTINF:-1 tvg-id="" tvg-name="USA | TLC" tvg-logo="" group-title="",USA | TLC
-http://appstv.us:25461/lozanos/tvmulti/371
-#EXTINF:-1 tvg-id="" tvg-name="USA | TNT" tvg-logo="" group-title="",USA | TNT
-http://appstv.us:25461/lozanos/tvmulti/372
-#EXTINF:-1 tvg-id="" tvg-name="USA | Travel Channel" tvg-logo="" group-title="",USA | Travel Channel
-http://appstv.us:25461/lozanos/tvmulti/373
-#EXTINF:-1 tvg-id="" tvg-name="USA | TruTV" tvg-logo="" group-title="",USA | TruTV
-http://appstv.us:25461/lozanos/tvmulti/374
-#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN" tvg-logo="" group-title="",USA | TUDN
-http://appstv.us:25461/lozanos/tvmulti/375
-#EXTINF:-1 tvg-id="" tvg-name="USA | TV Land" tvg-logo="" group-title="",USA | TV Land
-http://appstv.us:25461/lozanos/tvmulti/376
-#EXTINF:-1 tvg-id="" tvg-name="USA | TV One" tvg-logo="" group-title="",USA | TV One
-http://appstv.us:25461/lozanos/tvmulti/377
-#EXTINF:-1 tvg-id="" tvg-name="USA | TVG" tvg-logo="" group-title="",USA | TVG
-http://appstv.us:25461/lozanos/tvmulti/378
-#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass" tvg-logo="" group-title="",USA | UFC Fight Pass
-http://appstv.us:25461/lozanos/tvmulti/379
-#EXTINF:-1 tvg-id="" tvg-name="USA | Universal Kids" tvg-logo="" group-title="",USA | Universal Kids
-http://appstv.us:25461/lozanos/tvmulti/380
-#EXTINF:-1 tvg-id="" tvg-name="USA | USA Network" tvg-logo="" group-title="",USA | USA Network
-http://appstv.us:25461/lozanos/tvmulti/381
-#EXTINF:-1 tvg-id="" tvg-name="USA | Velocity" tvg-logo="" group-title="",USA | Velocity
-http://appstv.us:25461/lozanos/tvmulti/382
-#EXTINF:-1 tvg-id="" tvg-name="USA | VH1" tvg-logo="" group-title="",USA | VH1
-http://appstv.us:25461/lozanos/tvmulti/383
-#EXTINF:-1 tvg-id="" tvg-name="USA | Viceland" tvg-logo="" group-title="",USA | Viceland
-http://appstv.us:25461/lozanos/tvmulti/384
-#EXTINF:-1 tvg-id="" tvg-name="USA | WE TV" tvg-logo="" group-title="",USA | WE TV
-http://appstv.us:25461/lozanos/tvmulti/385
-#EXTINF:-1 tvg-id="" tvg-name="USA | Wolrd Fishing Network" tvg-logo="" group-title="",USA | Wolrd Fishing Network
-http://appstv.us:25461/lozanos/tvmulti/386
-#EXTINF:-1 tvg-id="" tvg-name="USA | Worcester - WCCA TV 13" tvg-logo="" group-title="",USA | Worcester - WCCA TV 13
-http://appstv.us:25461/lozanos/tvmulti/387
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="" group-title="",USA | WWE Network
-http://appstv.us:25461/lozanos/tvmulti/388
-#EXTINF:-1 tvg-id="" tvg-name="USA | YES Network" tvg-logo="" group-title="",USA | YES Network
-http://appstv.us:25461/lozanos/tvmulti/389
-#EXTINF:-1 tvg-id="" tvg-name="USA | BLOOMBERG" tvg-logo="" group-title="PERU",USA | BLOOMBERG
-http://appstv.us:25461/lozanos/tvmulti/404
-#EXTINF:-1 tvg-id="" tvg-name="USA | ELREY NETWORK" tvg-logo="" group-title="",USA | ELREY NETWORK
-http://appstv.us:25461/lozanos/tvmulti/419
-#EXTINF:-1 tvg-id="" tvg-name="USA | HBO COMEDY" tvg-logo="" group-title="",USA | HBO COMEDY
-http://appstv.us:25461/lozanos/tvmulti/422
-#EXTINF:-1 tvg-id="" tvg-name="USA | REVOLT" tvg-logo="" group-title="",USA | REVOLT
-http://appstv.us:25461/lozanos/tvmulti/441
-#EXTINF:-1 tvg-id="" tvg-name="USA | SHOWTIME BEYOND" tvg-logo="" group-title="",USA | SHOWTIME BEYOND
-http://appstv.us:25461/lozanos/tvmulti/443
-#EXTINF:-1 tvg-id="" tvg-name="USA | SMITHSONIAN EAST" tvg-logo="" group-title="",USA | SMITHSONIAN EAST
-http://appstv.us:25461/lozanos/tvmulti/447
-#EXTINF:-1 tvg-id="" tvg-name="USA | SONY MOVIE CHANNEL" tvg-logo="" group-title="",USA | SONY MOVIE CHANNEL
-http://appstv.us:25461/lozanos/tvmulti/449
-#EXTINF:-1 tvg-id="" tvg-name="USA | STARZ KIDS&FAMILY" tvg-logo="" group-title="",USA | STARZ KIDS&FAMILY
-http://appstv.us:25461/lozanos/tvmulti/451
-#EXTINF:-1 tvg-id="" tvg-name="USA | STARZENCORE ACTION" tvg-logo="" group-title="",USA | STARZENCORE ACTION
-http://appstv.us:25461/lozanos/tvmulti/452
-#EXTINF:-1 tvg-id="" tvg-name="USA | STARZENCORE CLASSIC" tvg-logo="" group-title="",USA | STARZENCORE CLASSIC
-http://appstv.us:25461/lozanos/tvmulti/453
-#EXTINF:-1 tvg-id="" tvg-name="USA | STARZENCORE FAMILY" tvg-logo="" group-title="",USA | STARZENCORE FAMILY
-http://appstv.us:25461/lozanos/tvmulti/454
-#EXTINF:-1 tvg-id="" tvg-name="USA | STARZENCORE SUSPENSE" tvg-logo="" group-title="",USA | STARZENCORE SUSPENSE
-http://appstv.us:25461/lozanos/tvmulti/455
-#EXTINF:-1 tvg-id="" tvg-name="PERU | WILLAX TV" tvg-logo="" group-title="PERU",PERU | WILLAX TV
-http://appstv.us:25461/lozanos/tvmulti/473
-#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV PLUS" tvg-logo="" group-title="PERU",PERU | ATV PLUS
-http://appstv.us:25461/lozanos/tvmulti/472
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL IPE" tvg-logo="" group-title="PERU",PERU | CANAL IPE
-http://appstv.us:25461/lozanos/tvmulti/470
-#EXTINF:-1 tvg-id="" tvg-name="PERO | TV PERU NOTICIAS" tvg-logo="" group-title="PERU",PERO | TV PERU NOTICIAS
-http://appstv.us:25461/lozanos/tvmulti/469
-#EXTINF:-1 tvg-id="" tvg-name="PERU | TV PERU" tvg-logo="" group-title="PERU",PERU | TV PERU
-http://appstv.us:25461/lozanos/tvmulti/468
-#EXTINF:-1 tvg-id="" tvg-name="PERU | PERU MAGICO" tvg-logo="" group-title="PERU",PERU | PERU MAGICO
-http://appstv.us:25461/lozanos/tvmulti/466
-#EXTINF:-1 tvg-id="" tvg-name="PERU | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU",PERU | MOVISTAR DEPORTES
-http://appstv.us:25461/lozanos/tvmulti/464
-#EXTINF:-1 tvg-id="" tvg-name="PERU | GOL PERU" tvg-logo="" group-title="PERU",PERU | GOL PERU
-http://appstv.us:25461/lozanos/tvmulti/463
-#EXTINF:-1 tvg-id="" tvg-name="PERU | LATINA" tvg-logo="" group-title="PERU",PERU | LATINA
-http://appstv.us:25461/lozanos/tvmulti/461
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV " tvg-logo="" group-title="PERU",PERU | America TV 
-http://appstv.us:25461/lozanos/tvmulti/459
-#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV" tvg-logo="" group-title="PERU",PERU | ATV
-http://appstv.us:25461/lozanos/tvmulti/460
-#EXTINF:-1 tvg-id="" tvg-name="PERU | PANAMERICANA" tvg-logo="" group-title="PERU",PERU | PANAMERICANA
-http://appstv.us:25461/lozanos/tvmulti/462
-#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS CRICKET" tvg-logo="" group-title="",UK | SKY SPORTS CRICKET
-http://appstv.us:25461/lozanos/tvmulti/476
-#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS ARENA" tvg-logo="" group-title="",UK | SKY SPORTS ARENA
-http://appstv.us:25461/lozanos/tvmulti/475
-#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS FOOTBAL" tvg-logo="" group-title="",UK | SKY SPORTS FOOTBAL
-http://appstv.us:25461/lozanos/tvmulti/474
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports South West Plus" tvg-logo="" group-title="",USA | Fox Sports South West Plus
-http://appstv.us:25461/lozanos/tvmulti/494
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports Prime Ticket" tvg-logo="" group-title="",USA | Fox Sports Prime Ticket
-http://appstv.us:25461/lozanos/tvmulti/493
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports New Orleans" tvg-logo="" group-title="",USA | Fox Sports New Orleans
-http://appstv.us:25461/lozanos/tvmulti/492
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports Mid West" tvg-logo="" group-title="",USA | Fox Sports Mid West
-http://appstv.us:25461/lozanos/tvmulti/491
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports Detroit" tvg-logo="" group-title="",USA | Fox Sports Detroit
-http://appstv.us:25461/lozanos/tvmulti/490
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX SPORTS KANSAS CITY " tvg-logo="" group-title="",USA | FOX SPORTS KANSAS CITY 
-http://appstv.us:25461/lozanos/tvmulti/487
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Sci-fi Horror" tvg-logo="" group-title="",UK | Sky Cinema Sci-fi Horror
-http://appstv.us:25461/lozanos/tvmulti/485
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Premier" tvg-logo="" group-title="",UK | Sky Cinema Premier
-http://appstv.us:25461/lozanos/tvmulti/484
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Hits" tvg-logo="" group-title="",UK | Sky Cinema Hits
-http://appstv.us:25461/lozanos/tvmulti/483
-#EXTINF:-1 tvg-id="" tvg-name="UK | SKY CINEMA GREATS " tvg-logo="" group-title="",UK | SKY CINEMA GREATS 
-http://appstv.us:25461/lozanos/tvmulti/482
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Family" tvg-logo="" group-title="",UK | Sky Cinema Family
-http://appstv.us:25461/lozanos/tvmulti/481
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Drama" tvg-logo="" group-title="",UK | Sky Cinema Drama
-http://appstv.us:25461/lozanos/tvmulti/480
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Disney" tvg-logo="" group-title="",UK | Sky Cinema Disney
-http://appstv.us:25461/lozanos/tvmulti/479
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="",Sky Cinema Comedy
-http://appstv.us:25461/lozanos/tvmulti/478
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Action" tvg-logo="" group-title="",UK | Sky Cinema Action
-http://appstv.us:25461/lozanos/tvmulti/477
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports Tennessee" tvg-logo="" group-title="",USA | Fox Sports Tennessee
-http://appstv.us:25461/lozanos/tvmulti/495
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Cinema Thriller" tvg-logo="" group-title="",UK | Sky Cinema Thriller
-http://appstv.us:25461/lozanos/tvmulti/486
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 10" tvg-logo="" group-title="",TUDN EXTRA 10
-http://appstv.us:25461/lozanos/tvmulti/506
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 9" tvg-logo="" group-title="",TUDN EXTRA 9
-http://appstv.us:25461/lozanos/tvmulti/505
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 7" tvg-logo="" group-title="",TUDN EXTRA 7
-http://appstv.us:25461/lozanos/tvmulti/503
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 6" tvg-logo="" group-title="",TUDN EXTRA 6
-http://appstv.us:25461/lozanos/tvmulti/502
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 5" tvg-logo="" group-title="",TUDN EXTRA 5
-http://appstv.us:25461/lozanos/tvmulti/501
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 4" tvg-logo="" group-title="",TUDN EXTRA 4
-http://appstv.us:25461/lozanos/tvmulti/500
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 3" tvg-logo="" group-title="",TUDN EXTRA 3
-http://appstv.us:25461/lozanos/tvmulti/499
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 2" tvg-logo="" group-title="",TUDN EXTRA 2
-http://appstv.us:25461/lozanos/tvmulti/498
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 1" tvg-logo="" group-title="",TUDN EXTRA 1
-http://appstv.us:25461/lozanos/tvmulti/497
-#EXTINF:-1 tvg-id="" tvg-name="TUDN EXTRA 8" tvg-logo="" group-title="",TUDN EXTRA 8
-http://appstv.us:25461/lozanos/tvmulti/504
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO" tvg-logo="" group-title="ECUADOR",ECUADOR | CANAL UNO
-http://appstv.us:25461/lozanos/tvmulti/507
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUADOR TV" tvg-logo="" group-title="ECUADOR",ECUADOR | ECUADOR TV
-http://appstv.us:25461/lozanos/tvmulti/508
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUADOR TV INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR | ECUADOR TV INTERNACIONAL
-http://appstv.us:25461/lozanos/tvmulti/509
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA" tvg-logo="" group-title="ECUADOR",ECUADOR | ECUAVISA
-http://appstv.us:25461/lozanos/tvmulti/510
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUAVISA INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR | ECUAVISA INTERNACIONAL
-http://appstv.us:25461/lozanos/tvmulti/511
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GAMAVISION" tvg-logo="" group-title="ECUADOR",ECUADOR | GAMAVISION
-http://appstv.us:25461/lozanos/tvmulti/512
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS" tvg-logo="" group-title="ECUADOR",ECUADOR | RTS
-http://appstv.us:25461/lozanos/tvmulti/513
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC TELEVISION" tvg-logo="" group-title="ECUADOR",ECUADOR | TC TELEVISION
-http://appstv.us:25461/lozanos/tvmulti/514
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEAMAZONAS" tvg-logo="" group-title="ECUADOR",ECUADOR | TELEAMAZONAS
-http://appstv.us:25461/lozanos/tvmulti/515
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEVICENTRO" tvg-logo="" group-title="ECUADOR",ECUADOR | TELEVICENTRO
-http://appstv.us:25461/lozanos/tvmulti/516
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | NTN24" tvg-logo="" group-title="COLOMBIA",COLOMBIA | NTN24
-http://appstv.us:25461/lozanos/tvmulti/517
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CARACOL INTERNACIONAL" tvg-logo="" group-title="COLOMBIA",COLOMBIA | CARACOL INTERNACIONAL
-http://appstv.us:25461/lozanos/tvmulti/523
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | CITY TV" tvg-logo="" group-title="COLOMBIA",COLOMBIA | CITY TV
-http://appstv.us:25461/lozanos/tvmulti/524
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | EL TIEMPO" tvg-logo="" group-title="COLOMBIA",COLOMBIA | EL TIEMPO
-http://appstv.us:25461/lozanos/tvmulti/525
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELEANTIOQUIA" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TELEANTIOQUIA
-http://appstv.us:25461/lozanos/tvmulti/528
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELECARIBE" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TELECARIBE
-http://appstv.us:25461/lozanos/tvmulti/530
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TELEPACIFICO" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TELEPACIFICO
-http://appstv.us:25461/lozanos/tvmulti/532
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13I" tvg-logo="" group-title="",CHILE | 13I
-http://appstv.us:25461/lozanos/tvmulti/535
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | 24HORAS" tvg-logo="" group-title="",CHILE | 24HORAS
-http://appstv.us:25461/lozanos/tvmulti/536
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13" tvg-logo="" group-title="",CHILE | CANAL 13
-http://appstv.us:25461/lozanos/tvmulti/537
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDF" tvg-logo="" group-title="",CHILE | CDF
-http://appstv.us:25461/lozanos/tvmulti/538
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDF BASICO" tvg-logo="" group-title="",CHILE | CDF BASICO
-http://appstv.us:25461/lozanos/tvmulti/539
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDF PREMIUN" tvg-logo="" group-title="",CHILE | CDF PREMIUN
-http://appstv.us:25461/lozanos/tvmulti/540
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO BASICO" tvg-logo="" group-title="",CHILE | CDO BASICO
-http://appstv.us:25461/lozanos/tvmulti/541
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO PREMIUN" tvg-logo="" group-title="",CHILE | CDO PREMIUN
-http://appstv.us:25461/lozanos/tvmulti/542
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION" tvg-logo="" group-title="",CHILE | CHILEVISION
-http://appstv.us:25461/lozanos/tvmulti/543
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC TV" tvg-logo="" group-title="",CHILE | ETC TV
-http://appstv.us:25461/lozanos/tvmulti/544
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORTS" tvg-logo="" group-title="PERU",CHILE | FOX SPORTS
-http://appstv.us:25461/lozanos/tvmulti/545
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | LA RED" tvg-logo="" group-title="",CHILE | LA RED
-http://appstv.us:25461/lozanos/tvmulti/546
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA" tvg-logo="" group-title="",CHILE | MEGA
-http://appstv.us:25461/lozanos/tvmulti/547
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TELETRAK" tvg-logo="" group-title="",CHILE | TELETRAK
-http://appstv.us:25461/lozanos/tvmulti/549
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN" tvg-logo="" group-title="",CHILE | TVN
-http://appstv.us:25461/lozanos/tvmulti/550
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CINE AR" tvg-logo="" group-title="",ARGENTINA | CINE AR
-http://appstv.us:25461/lozanos/tvmulti/551
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUN" tvg-logo="" group-title="",ARGENTINA | FOX SPORTS PREMIUN
-http://appstv.us:25461/lozanos/tvmulti/552
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | PAKA PAKA " tvg-logo="" group-title="",ARGENTINA | PAKA PAKA 
-http://appstv.us:25461/lozanos/tvmulti/553
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TNT SPORTS" tvg-logo="" group-title="",ARGENTINA | TNT SPORTS
-http://appstv.us:25461/lozanos/tvmulti/554
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | TELEVISA MONTEREY" tvg-logo="" group-title="MEXICO",MEXICO | TELEVISA MONTEREY
-http://appstv.us:25461/lozanos/tvmulti/555
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | MILENIO TV" tvg-logo="https://www.redespoder.com/wp-content/uploads/2018/01/milenio.png" group-title="MEXICO",MEXICO | MILENIO TV
-http://appstv.us:25461/lozanos/tvmulti/556
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| 90s" tvg-logo="" group-title="MUSICA",Music Choice| 90s
-http://appstv.us:25461/lozanos/tvmulti/557
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Alternative" tvg-logo="" group-title="MUSICA",Music Choice| Alternative
-http://appstv.us:25461/lozanos/tvmulti/558
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Brits   Hits" tvg-logo="" group-title="MUSICA",Music Choice| Brits   Hits
-http://appstv.us:25461/lozanos/tvmulti/559
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Dance/EDM" tvg-logo="" group-title="MUSICA",Music Choice| Dance/EDM
-http://appstv.us:25461/lozanos/tvmulti/560
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hip-Hop and R&B" tvg-logo="" group-title="MUSICA",Music Choice| Hip-Hop and R&B
-http://appstv.us:25461/lozanos/tvmulti/561
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Hit List" tvg-logo="" group-title="MUSICA",Music Choice| Hit List
-http://appstv.us:25461/lozanos/tvmulti/562
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Indie" tvg-logo="" group-title="MUSICA",Music Choice| Indie
-http://appstv.us:25461/lozanos/tvmulti/563
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Kidz Only!" tvg-logo="" group-title="MUSICA",Music Choice| Kidz Only!
-http://appstv.us:25461/lozanos/tvmulti/564
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Metal" tvg-logo="" group-title="MUSICA",Music Choice| Metal
-http://appstv.us:25461/lozanos/tvmulti/565
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Mexicana" tvg-logo="" group-title="MUSICA",Music Choice| Mexicana
-http://appstv.us:25461/lozanos/tvmulti/566
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Musica Urbana" tvg-logo="" group-title="MUSICA",Music Choice| Musica Urbana
-http://appstv.us:25461/lozanos/tvmulti/567
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop & Country" tvg-logo="" group-title="MUSICA",Music Choice| Pop & Country
-http://appstv.us:25461/lozanos/tvmulti/568
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop Hits" tvg-logo="" group-title="MUSICA",Music Choice| Pop Hits
-http://appstv.us:25461/lozanos/tvmulti/569
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Pop Latino" tvg-logo="" group-title="MUSICA",Music Choice| Pop Latino
-http://appstv.us:25461/lozanos/tvmulti/570
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| R&B Soul" tvg-logo="" group-title="MUSICA",Music Choice| R&B Soul
-http://appstv.us:25461/lozanos/tvmulti/571
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rap" tvg-logo="" group-title="MUSICA",Music Choice| Rap
-http://appstv.us:25461/lozanos/tvmulti/572
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rap 2K" tvg-logo="" group-title="MUSICA",Music Choice| Rap 2K
-http://appstv.us:25461/lozanos/tvmulti/573
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Rock" tvg-logo="" group-title="MUSICA",Music Choice| Rock
-http://appstv.us:25461/lozanos/tvmulti/574
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Teen Beats" tvg-logo="" group-title="MUSICA",Music Choice| Teen Beats
-http://appstv.us:25461/lozanos/tvmulti/575
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Throwback Jamz" tvg-logo="" group-title="MUSICA",Music Choice| Throwback Jamz
-http://appstv.us:25461/lozanos/tvmulti/576
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Today's Country" tvg-logo="" group-title="MUSICA",Music Choice| Today's Country
-http://appstv.us:25461/lozanos/tvmulti/577
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Toddler Tunes" tvg-logo="" group-title="MUSICA",Music Choice| Toddler Tunes
-http://appstv.us:25461/lozanos/tvmulti/578
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Tropicales" tvg-logo="" group-title="MUSICA",Music Choice| Tropicales
-http://appstv.us:25461/lozanos/tvmulti/579
-#EXTINF:-1 tvg-id="" tvg-name="Music Choice| Y2K" tvg-logo="" group-title="MUSICA",Music Choice| Y2K
-http://appstv.us:25461/lozanos/tvmulti/580
-#EXTINF:-1 tvg-id="" tvg-name="USA | LIFE TIME MOVIES" tvg-logo="" group-title="",USA | LIFE TIME MOVIES
-http://appstv.us:25461/lozanos/tvmulti/584
-#EXTINF:-1 tvg-id="" tvg-name="USA | RT NEWS" tvg-logo="" group-title="",USA | RT NEWS
-http://appstv.us:25461/lozanos/tvmulti/583
-#EXTINF:-1 tvg-id="" tvg-name="USA | HBO 2" tvg-logo="" group-title="",USA | HBO 2
-http://appstv.us:25461/lozanos/tvmulti/581
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | NICK 2" tvg-logo="" group-title="",LATINO | NICK 2
-http://appstv.us:25461/lozanos/tvmulti/585
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION LOS ANGELES" tvg-logo="" group-title="",USA | UNIVISION LOS ANGELES
-http://appstv.us:25461/lozanos/tvmulti/692
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | UNIVISION TLENOVELAS" tvg-logo="" group-title="",LATINO | UNIVISION TLENOVELAS
-http://appstv.us:25461/lozanos/tvmulti/694
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION HOUSTON" tvg-logo="" group-title="",USA | UNIVISION HOUSTON
-http://appstv.us:25461/lozanos/tvmulti/695
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION NEWYORK" tvg-logo="" group-title="",USA | UNIVISION NEWYORK
-http://appstv.us:25461/lozanos/tvmulti/696
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION CHICAGO" tvg-logo="" group-title="",USA | UNIVISION CHICAGO
-http://appstv.us:25461/lozanos/tvmulti/697
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION MIAMI" tvg-logo="" group-title="",USA | UNIVISION MIAMI
-http://appstv.us:25461/lozanos/tvmulti/693
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO DALLAS" tvg-logo="" group-title="",USA | TELEMUNDO DALLAS
-http://appstv.us:25461/lozanos/tvmulti/702
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO LAS VEGAS" tvg-logo="" group-title="",USA | TELEMUNDO LAS VEGAS
-http://appstv.us:25461/lozanos/tvmulti/703
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO SANANTONIO" tvg-logo="" group-title="",USA | TELEMUNDO SANANTONIO
-http://appstv.us:25461/lozanos/tvmulti/706
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO POHOENIX" tvg-logo="" group-title="",USA | TELEMUNDO POHOENIX
-http://appstv.us:25461/lozanos/tvmulti/705
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO NEWYORK" tvg-logo="" group-title="",USA | TELEMUNDO NEWYORK
-http://appstv.us:25461/lozanos/tvmulti/707
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | SYFY" tvg-logo="" group-title="BRASIL",BRASIL | SYFY
-http://appstv.us:25461/lozanos/tvmulti/720
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | SPORT TV 2" tvg-logo="" group-title="BRASIL",BRASIL | SPORT TV 2
-http://appstv.us:25461/lozanos/tvmulti/722
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | REDE TV" tvg-logo="" group-title="BRASIL",BRASIL | REDE TV
-http://appstv.us:25461/lozanos/tvmulti/724
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | PREMIER 5" tvg-logo="" group-title="BRASIL",BRASIL | PREMIER 5
-http://appstv.us:25461/lozanos/tvmulti/727
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | PREMIER4" tvg-logo="" group-title="BRASIL",BRASIL | PREMIER4
-http://appstv.us:25461/lozanos/tvmulti/728
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | COMEDY CENTRAL" tvg-logo="" group-title="BRASIL",BRASIL | COMEDY CENTRAL
-http://appstv.us:25461/lozanos/tvmulti/735
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | CARTOON NETWORK" tvg-logo="" group-title="BRASIL",BRASIL | CARTOON NETWORK
-http://appstv.us:25461/lozanos/tvmulti/737
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIMAS LOS ANGELES" tvg-logo="" group-title="",USA | UNIMAS LOS ANGELES
-http://appstv.us:25461/lozanos/tvmulti/745
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIMAS NEW YORK" tvg-logo="" group-title="",USA | UNIMAS NEW YORK
-http://appstv.us:25461/lozanos/tvmulti/742
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIMAS MIAMI" tvg-logo="" group-title="",USA | UNIMAS MIAMI
-http://appstv.us:25461/lozanos/tvmulti/741
-#EXTINF:-1 tvg-id="" tvg-name="USA | OLYMPIC CHANNEL " tvg-logo="" group-title="",USA | OLYMPIC CHANNEL 
-http://appstv.us:25461/lozanos/tvmulti/770
-#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO | TELEMUNDO" tvg-logo="" group-title="PUERTO RICO",PUERTO RICO | TELEMUNDO
-http://appstv.us:25461/lozanos/tvmulti/769
-#EXTINF:-1 tvg-id="" tvg-name="USA | Entertainment" tvg-logo="" group-title="",USA | Entertainment
-http://appstv.us:25461/lozanos/tvmulti/768
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBSN Los Angeles 9 News" tvg-logo="" group-title="",USA | CBSN Los Angeles 9 News
-http://appstv.us:25461/lozanos/tvmulti/767
-#EXTINF:-1 tvg-id="" tvg-name="USA | KTLA 5 NEWS" tvg-logo="" group-title="",USA | KTLA 5 NEWS
-http://appstv.us:25461/lozanos/tvmulti/766
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | NICKELODEON" tvg-logo="" group-title="",LATINO | NICKELODEON
-http://appstv.us:25461/lozanos/tvmulti/765
-#EXTINF:-1 tvg-id="" tvg-name="UK | SKY CINEMA SELET" tvg-logo="" group-title="",UK | SKY CINEMA SELET
-http://appstv.us:25461/lozanos/tvmulti/762
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX BOSTON" tvg-logo="" group-title="",USA | FOX BOSTON
-http://appstv.us:25461/lozanos/tvmulti/760
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC SEATTLE" tvg-logo="" group-title="",USA | ABC SEATTLE
-http://appstv.us:25461/lozanos/tvmulti/761
-#EXTINF:-1 tvg-id="" tvg-name="USA | NESN PLUS" tvg-logo="" group-title="",USA | NESN PLUS
-http://appstv.us:25461/lozanos/tvmulti/758
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | GOLDEN" tvg-logo="" group-title="",LATINO | GOLDEN
-http://appstv.us:25461/lozanos/tvmulti/757
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | GOLDEN PREMIER" tvg-logo="" group-title="",LATINO | GOLDEN PREMIER
-http://appstv.us:25461/lozanos/tvmulti/756
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | HBO SIGNATURE" tvg-logo="" group-title="PERU",LATINO | HBO SIGNATURE
-http://appstv.us:25461/lozanos/tvmulti/755
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | FOX PREMIUN COMEDY" tvg-logo="" group-title="",LATINO | FOX PREMIUN COMEDY
-http://appstv.us:25461/lozanos/tvmulti/754
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | MTV LIVE " tvg-logo="" group-title="",LATINO | MTV LIVE 
-http://appstv.us:25461/lozanos/tvmulti/753
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | MTV" tvg-logo="" group-title="",LATINO | MTV
-http://appstv.us:25461/lozanos/tvmulti/752
-#EXTINF:-1 tvg-id="" tvg-name="USA | NESN SPORT" tvg-logo="" group-title="",USA | NESN SPORT
-http://appstv.us:25461/lozanos/tvmulti/759
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 11" tvg-logo="" group-title="GUATEMALA",GUATEMALA | CANAL 11
-http://appstv.us:25461/lozanos/tvmulti/821
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 13" tvg-logo="" group-title="GUATEMALA",GUATEMALA | CANAL 13
-http://appstv.us:25461/lozanos/tvmulti/822
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 3" tvg-logo="" group-title="GUATEMALA",GUATEMALA | CANAL 3
-http://appstv.us:25461/lozanos/tvmulti/823
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 7" tvg-logo="" group-title="GUATEMALA",GUATEMALA | CANAL 7
-http://appstv.us:25461/lozanos/tvmulti/824
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL ANTIGUA" tvg-logo="" group-title="GUATEMALA",GUATEMALA | CANAL ANTIGUA
-http://appstv.us:25461/lozanos/tvmulti/825
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | GUATEVISION" tvg-logo="" group-title="GUATEMALA",GUATEMALA | GUATEVISION
-http://appstv.us:25461/lozanos/tvmulti/826
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | RETRO TV" tvg-logo="" group-title="GUATEMALA",GUATEMALA | RETRO TV
-http://appstv.us:25461/lozanos/tvmulti/828
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN 23" tvg-logo="" group-title="GUATEMALA",GUATEMALA | TN 23
-http://appstv.us:25461/lozanos/tvmulti/829
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | SER TV" tvg-logo="" group-title="LOCAL CA",PANAMA | SER TV
-http://appstv.us:25461/lozanos/tvmulti/837
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO" tvg-logo="" group-title="LOCAL CA",PANAMA | TELEMETRO
-http://appstv.us:25461/lozanos/tvmulti/838
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | EBENEZER" tvg-logo="" group-title="HONDURAS",HONDURAS | EBENEZER
-http://appstv.us:25461/lozanos/tvmulti/808
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 6" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 6
-http://appstv.us:25461/lozanos/tvmulti/805
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CHTV" tvg-logo="" group-title="HONDURAS",HONDURAS | CHTV
-http://appstv.us:25461/lozanos/tvmulti/802
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 11" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 11
-http://appstv.us:25461/lozanos/tvmulti/801
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | AZTECA HONDURAS" tvg-logo="" group-title="HONDURAS",HONDURAS | AZTECA HONDURAS
-http://appstv.us:25461/lozanos/tvmulti/799
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | TELETICA 7" tvg-logo="" group-title="COSTA RICA",COSTA RICA | TELETICA 7
-http://appstv.us:25461/lozanos/tvmulti/793
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | REPRETEL 6 " tvg-logo="" group-title="COSTA RICA",COSTA RICA | REPRETEL 6 
-http://appstv.us:25461/lozanos/tvmulti/792
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | REPRETEL 11 " tvg-logo="" group-title="COSTA RICA",COSTA RICA | REPRETEL 11 
-http://appstv.us:25461/lozanos/tvmulti/791
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | TELEUNO" tvg-logo="" group-title="COSTA RICA",COSTA RICA | TELEUNO
-http://appstv.us:25461/lozanos/tvmulti/794
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | TIGO SPORTS" tvg-logo="" group-title="COSTA RICA",COSTA RICA | TIGO SPORTS
-http://appstv.us:25461/lozanos/tvmulti/790
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | CANAL 14 TV SUR" tvg-logo="" group-title="COSTA RICA",COSTA RICA | CANAL 14 TV SUR
-http://appstv.us:25461/lozanos/tvmulti/788
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TCS CANAL 4" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | TCS CANAL 4
-http://appstv.us:25461/lozanos/tvmulti/784
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | WOW TV
-http://appstv.us:25461/lozanos/tvmulti/782
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TCS PLUS" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | TCS PLUS
-http://appstv.us:25461/lozanos/tvmulti/781
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | MEGAVISION TRV" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | MEGAVISION TRV
-http://appstv.us:25461/lozanos/tvmulti/778
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | MEGAVISION CANAL 21" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | MEGAVISION CANAL 21
-http://appstv.us:25461/lozanos/tvmulti/777
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | MEGAVISION CANAL 19" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | MEGAVISION CANAL 19
-http://appstv.us:25461/lozanos/tvmulti/776
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 12" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 12
-http://appstv.us:25461/lozanos/tvmulti/775
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 6
-http://appstv.us:25461/lozanos/tvmulti/774
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 4
-http://appstv.us:25461/lozanos/tvmulti/773
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | BABY FIRTS" tvg-logo="" group-title="",LATINO | BABY FIRTS
-http://appstv.us:25461/lozanos/tvmulti/899
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | Film And Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="MEXICO",MEXICO | Film And Arts
-http://appstv.us:25461/lozanos/tvmulti/896
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | Azteca Plus" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71nBKGdIymL._AC_UL600_SR600,600_.png" group-title="MEXICO",MEXICO | Azteca Plus
-http://appstv.us:25461/lozanos/tvmulti/894
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RTQ QUERETARO" tvg-logo="https://cdn.apkmonk.com/images/apps.ver.israel.rtq.png" group-title="MEXICO",MEXICO | RTQ QUERETARO
-http://appstv.us:25461/lozanos/tvmulti/955
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | RCG SALTILLO" tvg-logo="https://i.pinimg.com/originals/87/ec/aa/87ecaa46de83d90085e2ff737dabac0c.jpg" group-title="MEXICO",MEXICO | RCG SALTILLO
-http://appstv.us:25461/lozanos/tvmulti/956
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | MELODY CHANNEL" tvg-logo="" group-title="",LATINO | MELODY CHANNEL
-http://appstv.us:25461/lozanos/tvmulti/960
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | CGTN ESPANOL" tvg-logo="" group-title="",LATINO | CGTN ESPANOL
-http://appstv.us:25461/lozanos/tvmulti/961
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | EXTREMA X" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="MEXICO",MEXICO | EXTREMA X
-http://appstv.us:25461/lozanos/tvmulti/962
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 10 CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial.png" group-title="MEXICO",MEXICO | CANAL 10 CANCUN
-http://appstv.us:25461/lozanos/tvmulti/972
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANAL 4 SALTILLO" tvg-logo="https://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="MEXICO",MEXICO | CANAL 4 SALTILLO
-http://appstv.us:25461/lozanos/tvmulti/974
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | PRESUMIENDO MEXICO" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png" group-title="MEXICO",MEXICO | PRESUMIENDO MEXICO
-http://appstv.us:25461/lozanos/tvmulti/977
-#EXTINF:-1 tvg-id="" tvg-name="PERU | BHTV" tvg-logo="" group-title="PERU",PERU | BHTV
-http://appstv.us:25461/lozanos/tvmulti/979
-#EXTINF:-1 tvg-id="" tvg-name="PERU | ANTARES TV" tvg-logo="" group-title="PERU",PERU | ANTARES TV
-http://appstv.us:25461/lozanos/tvmulti/980
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CULTURA 24" tvg-logo="" group-title="PERU",PERU | CULTURA 24
-http://appstv.us:25461/lozanos/tvmulti/982
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION DALLAS" tvg-logo="" group-title="",USA | UNIVISION DALLAS
-http://appstv.us:25461/lozanos/tvmulti/983
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | CANAL DIOCESANO" tvg-logo="" group-title="RELIGION",RELIGIOSO | CANAL DIOCESANO
-http://appstv.us:25461/lozanos/tvmulti/949
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | ESNE TV" tvg-logo="" group-title="RELIGION",RELIGIOSO | ESNE TV
-http://appstv.us:25461/lozanos/tvmulti/948
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | JRES TV" tvg-logo="" group-title="RELIGION",RELIGIOSO | JRES TV
-http://appstv.us:25461/lozanos/tvmulti/946
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | LA VOZ DE MARIA" tvg-logo="" group-title="RELIGION",RELIGIOSO | LA VOZ DE MARIA
-http://appstv.us:25461/lozanos/tvmulti/945
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | MONTE MARIA" tvg-logo="" group-title="RELIGION",RELIGIOSO | MONTE MARIA
-http://appstv.us:25461/lozanos/tvmulti/944
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | 3ABN Latino" tvg-logo="" group-title="RELIGION",RELIGIOSO | 3ABN Latino
-http://appstv.us:25461/lozanos/tvmulti/942
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | ALIENTO VISION" tvg-logo="" group-title="RELIGION",RELIGIOSO | ALIENTO VISION
-http://appstv.us:25461/lozanos/tvmulti/941
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | CBN ES" tvg-logo="" group-title="RELIGION",RELIGIOSO | CBN ES
-http://appstv.us:25461/lozanos/tvmulti/939
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | EVENEZER TV" tvg-logo="" group-title="RELIGION",RELIGIOSO | EVENEZER TV
-http://appstv.us:25461/lozanos/tvmulti/937
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO | ESPERANZA TV" tvg-logo="" group-title="RELIGION",RELIGIOSO | ESPERANZA TV
-http://appstv.us:25461/lozanos/tvmulti/936
-#EXTINF:-1 tvg-id="" tvg-name="USA | DOCURAMA" tvg-logo="" group-title="",USA | DOCURAMA
-http://appstv.us:25461/lozanos/tvmulti/935
-#EXTINF:-1 tvg-id="" tvg-name="USA | HSN 1" tvg-logo="" group-title="",USA | HSN 1
-http://appstv.us:25461/lozanos/tvmulti/924
-#EXTINF:-1 tvg-id="" tvg-name="USA | HSN 2" tvg-logo="" group-title="",USA | HSN 2
-http://appstv.us:25461/lozanos/tvmulti/923
-#EXTINF:-1 tvg-id="" tvg-name="USA | DISTRITO TV" tvg-logo="" group-title="",USA | DISTRITO TV
-http://appstv.us:25461/lozanos/tvmulti/921
-#EXTINF:-1 tvg-id="" tvg-name="USA | JEWELRY TELEVISION" tvg-logo="" group-title="",USA | JEWELRY TELEVISION
-http://appstv.us:25461/lozanos/tvmulti/922
-#EXTINF:-1 tvg-id="" tvg-name="USA | RETRO MUSIC" tvg-logo="" group-title="MUSICA",USA | RETRO MUSIC
-http://appstv.us:25461/lozanos/tvmulti/920
-#EXTINF:-1 tvg-id="" tvg-name="USA | NEWSMAX" tvg-logo="" group-title="",USA | NEWSMAX
-http://appstv.us:25461/lozanos/tvmulti/919
-#EXTINF:-1 tvg-id="" tvg-name="USA | NEWSNET" tvg-logo="" group-title="",USA | NEWSNET
-http://appstv.us:25461/lozanos/tvmulti/918
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC LAS VEGAS" tvg-logo="" group-title="",USA | ABC LAS VEGAS
-http://appstv.us:25461/lozanos/tvmulti/916
-#EXTINF:-1 tvg-id="" tvg-name="USA | THE BOAT SHOW" tvg-logo="" group-title="",USA | THE BOAT SHOW
-http://appstv.us:25461/lozanos/tvmulti/915
-#EXTINF:-1 tvg-id="" tvg-name="USA | Atlanta Channel" tvg-logo="" group-title="",USA | Atlanta Channel
-http://appstv.us:25461/lozanos/tvmulti/914
-#EXTINF:-1 tvg-id="" tvg-name="USA | NEW ORLEANS TV" tvg-logo="" group-title="",USA | NEW ORLEANS TV
-http://appstv.us:25461/lozanos/tvmulti/913
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WINSPORTS PLUS" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WINSPORTS PLUS
-http://appstv.us:25461/lozanos/tvmulti/984
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RTP" tvg-logo="" group-title="",BOLIVIA | RTP
-http://appstv.us:25461/lozanos/tvmulti/1028
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RED UNO SANTA CRUZ" tvg-logo="" group-title="",BOLIVIA | RED UNO SANTA CRUZ
-http://appstv.us:25461/lozanos/tvmulti/1029
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | RED PAT LA PAZ" tvg-logo="" group-title="",BOLIVIA | RED PAT LA PAZ
-http://appstv.us:25461/lozanos/tvmulti/1030
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | TIGO SPORTS 2" tvg-logo="" group-title="",BOLIVIA | TIGO SPORTS 2
-http://appstv.us:25461/lozanos/tvmulti/1036
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | UNITEL" tvg-logo="" group-title="",BOLIVIA | UNITEL
-http://appstv.us:25461/lozanos/tvmulti/1039
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIA TV" tvg-logo="" group-title="",BOLIVIA | BOLIVIA TV
-http://appstv.us:25461/lozanos/tvmulti/1020
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | ATB" tvg-logo="" group-title="",BOLIVIA | ATB
-http://appstv.us:25461/lozanos/tvmulti/1018
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | FUTV" tvg-logo="" group-title="COSTA RICA",COSTA RICA | FUTV
-http://appstv.us:25461/lozanos/tvmulti/1041
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL PANDA" tvg-logo="" group-title="",ESPAÑA | CANAL PANDA
-http://appstv.us:25461/lozanos/tvmulti/1043
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BOING" tvg-logo="" group-title="",ESPAÑA | BOING
-http://appstv.us:25461/lozanos/tvmulti/1042
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TOROS TV" tvg-logo="" group-title="PERU",ESPAÑA | TOROS TV
-http://appstv.us:25461/lozanos/tvmulti/1044
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DIRECTV SPORTS 2" tvg-logo="" group-title="",LATINO | DIRECTV SPORTS 2
-http://appstv.us:25461/lozanos/tvmulti/1048
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DIREC TV PLUS" tvg-logo="" group-title="",LATINO | DIREC TV PLUS
-http://appstv.us:25461/lozanos/tvmulti/1046
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | DIRECTV SPORTS" tvg-logo="" group-title="",LATINO | DIRECTV SPORTS
-http://appstv.us:25461/lozanos/tvmulti/1047
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | HBO MUNDI" tvg-logo="" group-title="",LATINO | HBO MUNDI
-http://appstv.us:25461/lozanos/tvmulti/1112
-#EXTINF:-1 tvg-id="" tvg-name="USA | SPORTNET LA" tvg-logo="" group-title="",USA | SPORTNET LA
-http://appstv.us:25461/lozanos/tvmulti/1115
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | INGENIO TV" tvg-logo="https://chileiptv.cl/img/logos/file_1522638531.png" group-title="MEXICO",MEXICO | INGENIO TV
-http://appstv.us:25461/lozanos/tvmulti/1116
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N" tvg-logo="" group-title="PERU",PERU | CANAL N
-http://appstv.us:25461/lozanos/tvmulti/1117
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE" tvg-logo="" group-title="",ARGENTINA | TELEFE
-http://appstv.us:25461/lozanos/tvmulti/1133
-#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN EXTRA 11" tvg-logo="" group-title="",USA | TUDN EXTRA 11
-http://appstv.us:25461/lozanos/tvmulti/1137
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION" tvg-logo="" group-title="USA / NACIONAL",USA | UNIVISION
-http://appstv.us:25461/lozanos/tvmulti/1124
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION SAN FRANCISCO" tvg-logo="" group-title="",USA | UNIVISION SAN FRANCISCO
-http://appstv.us:25461/lozanos/tvmulti/1123
-#EXTINF:-1 tvg-id="" tvg-name="USA | NICKELODEON" tvg-logo="" group-title="",USA | NICKELODEON
-http://appstv.us:25461/lozanos/tvmulti/1147
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pac-12 Arizona" tvg-logo="" group-title="",USA | Pac-12 Arizona
-http://appstv.us:25461/lozanos/tvmulti/1145
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pac-12 Bay Area" tvg-logo="" group-title="",USA | Pac-12 Bay Area
-http://appstv.us:25461/lozanos/tvmulti/1144
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pac-12 Los Angeles" tvg-logo="" group-title="",USA | Pac-12 Los Angeles
-http://appstv.us:25461/lozanos/tvmulti/1143
-#EXTINF:-1 tvg-id="" tvg-name="USA | Pac-12 Washington" tvg-logo="" group-title="",USA | Pac-12 Washington
-http://appstv.us:25461/lozanos/tvmulti/1142
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | Paramount" tvg-logo="" group-title="",LATINO | Paramount
-http://appstv.us:25461/lozanos/tvmulti/1141
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | FILMS ART" tvg-logo="" group-title="",LATINO | FILMS ART
-http://appstv.us:25461/lozanos/tvmulti/1152
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC 12" tvg-logo="" group-title="",USA | NBC 12
-http://appstv.us:25461/lozanos/tvmulti/1161
-#EXTINF:-1 tvg-id="" tvg-name="USA | MTV CLASSICS" tvg-logo="" group-title="",USA | MTV CLASSICS
-http://appstv.us:25461/lozanos/tvmulti/1162
-#EXTINF:-1 tvg-id="" tvg-name="USA | GOL TV" tvg-logo="" group-title="",USA | GOL TV
-http://appstv.us:25461/lozanos/tvmulti/1172
-#EXTINF:-1 tvg-id="" tvg-name="USA | INSP" tvg-logo="" group-title="",USA | INSP
-http://appstv.us:25461/lozanos/tvmulti/1171
-#EXTINF:-1 tvg-id="" tvg-name="USA | LOGO (LGBT)" tvg-logo="" group-title="",USA | LOGO (LGBT)
-http://appstv.us:25461/lozanos/tvmulti/1170
-#EXTINF:-1 tvg-id="" tvg-name="USA | LIFETIME MOVIE NETWORK" tvg-logo="" group-title="",USA | LIFETIME MOVIE NETWORK
-http://appstv.us:25461/lozanos/tvmulti/1169
-#EXTINF:-1 tvg-id="" tvg-name="USA | FS1" tvg-logo="" group-title="",USA | FS1
-http://appstv.us:25461/lozanos/tvmulti/108
-#EXTINF:-1 tvg-id="" tvg-name="PERU | RPP" tvg-logo="" group-title="PERU",PERU | RPP
-http://appstv.us:25461/lozanos/tvmulti/1196
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | ZOOMOO" tvg-logo="" group-title="",LATINO | ZOOMOO
-http://appstv.us:25461/lozanos/tvmulti/1197
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS SPORTS NETWORK" tvg-logo="" group-title="",USA | CBS SPORTS NETWORK
-http://appstv.us:25461/lozanos/tvmulti/1279
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TVO CANAL 23" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | TVO CANAL 23
-http://appstv.us:25461/lozanos/tvmulti/1296
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 33" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | CANAL 33
-http://appstv.us:25461/lozanos/tvmulti/1297
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA FM" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | ORBITA FM
-http://appstv.us:25461/lozanos/tvmulti/1298
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA TV" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | ORBITA TV
-http://appstv.us:25461/lozanos/tvmulti/1299
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | TELESUR" tvg-logo="" group-title="",VENEZUELA | TELESUR
-http://appstv.us:25461/lozanos/tvmulti/1301
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | TVES" tvg-logo="" group-title="",VENEZUELA | TVES
-http://appstv.us:25461/lozanos/tvmulti/1302
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | VTV" tvg-logo="" group-title="",VENEZUELA | VTV
-http://appstv.us:25461/lozanos/tvmulti/1303
-#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA | PROMAR" tvg-logo="" group-title="",VENEZUELA | PROMAR
-http://appstv.us:25461/lozanos/tvmulti/1304
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | VTV " tvg-logo="" group-title="",URUGUAY | VTV 
-http://appstv.us:25461/lozanos/tvmulti/1313
-#EXTINF:-1 tvg-id="" tvg-name="USA | BTN" tvg-logo="" group-title="",USA | BTN
-http://appstv.us:25461/lozanos/tvmulti/1314
-#EXTINF:-1 tvg-id="" tvg-name="USA | TELEMUNDO SAN DIEGO" tvg-logo="" group-title="",USA | TELEMUNDO SAN DIEGO
-http://appstv.us:25461/lozanos/tvmulti/1317
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION SACRAMENTO" tvg-logo="" group-title="",USA | UNIVISION SACRAMENTO
-http://appstv.us:25461/lozanos/tvmulti/1318
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Conecticut" tvg-logo="" group-title="",USA | Telemundo Conecticut
-http://appstv.us:25461/lozanos/tvmulti/1319
-#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="USA | TELEMUNDO HUSTON" tvg-logo="" group-title="LOCAL CA",USA | TELEMUNDO HUSTON
-http://appstv.us:25461/lozanos/tvmulti/1320
-#EXTINF:-1 tvg-id="" tvg-name="USA | Unimas Philadelphia" tvg-logo="" group-title="",USA | Unimas Philadelphia
-http://appstv.us:25461/lozanos/tvmulti/1316
-#EXTINF:-1 tvg-id="unimas50ktfd.us" tvg-name="USA | UNIMAS DALLAS" tvg-logo="" group-title="LOCAL CA",USA | UNIMAS DALLAS
-http://appstv.us:25461/lozanos/tvmulti/1315
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | CUBAVISION" tvg-logo="" group-title="",CUBA | CUBAVISION
-http://appstv.us:25461/lozanos/tvmulti/1321
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | CUBAVISION INTERNACIONAL" tvg-logo="" group-title="",CUBA | CUBAVISION INTERNACIONAL
-http://appstv.us:25461/lozanos/tvmulti/1322
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | AMERICA TV" tvg-logo="" group-title="",CUBA | AMERICA TV
-http://appstv.us:25461/lozanos/tvmulti/1323
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | MULTIVISION" tvg-logo="" group-title="",CUBA | MULTIVISION
-http://appstv.us:25461/lozanos/tvmulti/1325
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | CUBAPLAY" tvg-logo="" group-title="",CUBA | CUBAPLAY
-http://appstv.us:25461/lozanos/tvmulti/1326
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CAMPUS TV" tvg-logo="" group-title="HONDURAS",HONDURAS | CAMPUS TV
-http://appstv.us:25461/lozanos/tvmulti/1345
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 11 HD" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 11 HD
-http://appstv.us:25461/lozanos/tvmulti/1347
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 5" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 5
-http://appstv.us:25461/lozanos/tvmulti/1348
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 6" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 6
-http://appstv.us:25461/lozanos/tvmulti/1349
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | HCH HD" tvg-logo="" group-title="HONDURAS",HONDURAS | HCH HD
-http://appstv.us:25461/lozanos/tvmulti/1350
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | MAYA TV" tvg-logo="" group-title="HONDURAS",HONDURAS | MAYA TV
-http://appstv.us:25461/lozanos/tvmulti/1351
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | MEGATV HD" tvg-logo="" group-title="HONDURAS",HONDURAS | MEGATV HD
-http://appstv.us:25461/lozanos/tvmulti/1352
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | SITV" tvg-logo="" group-title="HONDURAS",HONDURAS | SITV
-http://appstv.us:25461/lozanos/tvmulti/1353
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TELECADENA HD" tvg-logo="" group-title="HONDURAS",HONDURAS | TELECADENA HD
-http://appstv.us:25461/lozanos/tvmulti/1354
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TELEPPROGRESO" tvg-logo="" group-title="HONDURAS",HONDURAS | TELEPPROGRESO
-http://appstv.us:25461/lozanos/tvmulti/1356
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TNH HD" tvg-logo="" group-title="HONDURAS",HONDURAS | TNH HD
-http://appstv.us:25461/lozanos/tvmulti/1357
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TSI" tvg-logo="" group-title="HONDURAS",HONDURAS | TSI
-http://appstv.us:25461/lozanos/tvmulti/1358
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | UNE TV" tvg-logo="" group-title="HONDURAS",HONDURAS | UNE TV
-http://appstv.us:25461/lozanos/tvmulti/1359
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | VICA TV" tvg-logo="" group-title="HONDURAS",HONDURAS | VICA TV
-http://appstv.us:25461/lozanos/tvmulti/1360
-#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIAVISION" tvg-logo="" group-title="LOCAL CA",BOLIVIA | BOLIVIAVISION
-http://appstv.us:25461/lozanos/tvmulti/1361
-#EXTINF:-1 tvg-id="" tvg-name="USA | Red Bull TV" tvg-logo="" group-title="PERU",USA | Red Bull TV
-http://appstv.us:25461/lozanos/tvmulti/1382
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION PHILADELPHIA(W)" tvg-logo="" group-title="PERU",GALAVISION PHILADELPHIA(W)
-http://appstv.us:25461/lozanos/tvmulti/1374
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LA(W)" tvg-logo="" group-title="PERU",GALAVISION LA(W)
-http://appstv.us:25461/lozanos/tvmulti/1370
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SACRAMENTO(W)" tvg-logo="" group-title="PERU",GALAVISION SACRAMENTO(W)
-http://appstv.us:25461/lozanos/tvmulti/1377
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION NY(W)" tvg-logo="" group-title="PERU",GALAVISION NY(W)
-http://appstv.us:25461/lozanos/tvmulti/1373
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION MIAMI(W)" tvg-logo="" group-title="PERU",GALAVISION MIAMI(W)
-http://appstv.us:25461/lozanos/tvmulti/1372
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ENGLISH |  Bonanza" tvg-logo="" group-title="24/7",24/7 ENGLISH |  Bonanza
-http://appstv.us:25461/lozanos/tvmulti/1307
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ENGLISH | Sherlock Holmes" tvg-logo="" group-title="24/7",24/7 ENGLISH | Sherlock Holmes
-http://appstv.us:25461/lozanos/tvmulti/1309
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ENGLISH | The Greatest American Hero" tvg-logo="" group-title="24/7",24/7 ENGLISH | The Greatest American Hero
-http://appstv.us:25461/lozanos/tvmulti/1310
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ENGLISH | The Lone Ranger" tvg-logo="" group-title="24/7",24/7 ENGLISH | The Lone Ranger
-http://appstv.us:25461/lozanos/tvmulti/1311
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ENGLISH | Laurel & Hardy" tvg-logo="" group-title="24/7",24/7 ENGLISH | Laurel & Hardy
-http://appstv.us:25461/lozanos/tvmulti/1305
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry TV EN" tvg-logo="" group-title="24/7",24/7 Tom & Jerry TV EN
-http://appstv.us:25461/lozanos/tvmulti/1110
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EBS Kids EN" tvg-logo="" group-title="24/7",24/7 EBS Kids EN
-http://appstv.us:25461/lozanos/tvmulti/1108
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CHESPIRITO" tvg-logo="" group-title="24/7",24/7 | CHESPIRITO
-http://appstv.us:25461/lozanos/tvmulti/1081
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS" tvg-logo="" group-title="24/7",24/7 | LOS SIMPSONS
-http://appstv.us:25461/lozanos/tvmulti/1072
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="" group-title="24/7",24/7 | ALF
-http://appstv.us:25461/lozanos/tvmulti/1055
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 06 PPV" tvg-logo="" group-title="",LA: Cinema 06 PPV
-http://appstv.us:25461/lozanos/tvmulti/1334
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 07 PPV" tvg-logo="" group-title="",LA: Cinema 07 PPV
-http://appstv.us:25461/lozanos/tvmulti/1335
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 08 PPV" tvg-logo="" group-title="",LA: Cinema 08 PPV
-http://appstv.us:25461/lozanos/tvmulti/1336
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 09 PPV" tvg-logo="" group-title="",LA: Cinema 09 PPV
-http://appstv.us:25461/lozanos/tvmulti/1337
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 10 PPV" tvg-logo="" group-title="",LA: Cinema 10 PPV
-http://appstv.us:25461/lozanos/tvmulti/1338
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 11 PPV" tvg-logo="" group-title="",LA: Cinema 11 PPV
-http://appstv.us:25461/lozanos/tvmulti/1339
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 12 PPV" tvg-logo="" group-title="",LA: Cinema 12 PPV
-http://appstv.us:25461/lozanos/tvmulti/1340
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 13 PPV" tvg-logo="" group-title="",LA: Cinema 13 PPV
-http://appstv.us:25461/lozanos/tvmulti/1341
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 14 PPV" tvg-logo="" group-title="",LA: Cinema 14 PPV
-http://appstv.us:25461/lozanos/tvmulti/1342
-#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 15 PPV" tvg-logo="" group-title="",LA: Cinema 15 PPV
-http://appstv.us:25461/lozanos/tvmulti/1343
-#EXTINF:-1 tvg-id="" tvg-name="LA : Cinema 01 PPV" tvg-logo="" group-title="",LA : Cinema 01 PPV
-http://appstv.us:25461/lozanos/tvmulti/1329
-#EXTINF:-1 tvg-id="" tvg-name="LA : Cinema 02 PPV" tvg-logo="" group-title="",LA : Cinema 02 PPV
-http://appstv.us:25461/lozanos/tvmulti/1330
-#EXTINF:-1 tvg-id="" tvg-name="LA : Cinema 03 PPV" tvg-logo="" group-title="",LA : Cinema 03 PPV
-http://appstv.us:25461/lozanos/tvmulti/1331
-#EXTINF:-1 tvg-id="" tvg-name="LA : Cinema 04 PPV" tvg-logo="" group-title="",LA : Cinema 04 PPV
-http://appstv.us:25461/lozanos/tvmulti/1332
-#EXTINF:-1 tvg-id="" tvg-name="LA : Cinema 05 PPV" tvg-logo="" group-title="",LA : Cinema 05 PPV
-http://appstv.us:25461/lozanos/tvmulti/1333
-
-
 #EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
-http://cinematicket.club/tp12.php?c=17&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
-http://cinematicket.club/tp12.php?c=27&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=27&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/2/items/a_20200906/A%2B.png"group-title="NACIONAL", A+
-http://cinematicket.club/tp12.php?c=2316&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=2316&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/34/items/canal-5/Canal5.png" group-title="NACIONAL", Canal 5
-http://cinematicket.club/tp12.php?c=20&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=20&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/30/items/imagen_202009/Imagen.png"group-title="NACIONAL", Imagen TV
-http://cinematicket.club/tp12.php?c=2298&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=2298&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/12/items/azteca-7/Azteca7.png" group-title="NACIONAL", Azteca 7
-http://cinematicket.club/tp12.php?c=21&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=21&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/28/items/canal-6/Canal6.png"group-title="NACIONAL", Canal 6
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/nu-9ve/Nu9ve.png"group-title="NACIONAL", Nu9ve
-http://cinematicket.club/tp12.php?c=24&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=24&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/21/items/mexiquense_202009/Mexiquense.png"group-title="NACIONAL", Mexiquense
-http://cinematicket.club/tp12.php?c=44&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=44&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/19/items/canal-once/CanalOnce.png"group-title="NACIONAL", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
@@ -1419,21 +26,21 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
-http://cinematicket.club/tp12.php?c=66&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
-http://cinematicket.club/tp12.php?c=83&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/2/items/telemundo_202009/Telemundo.png"group-title="ENTRETENIMIENTO", Telemundo
-http://cinematicket.club/tp12.php?c=85&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/15/items/e_20200907/E%21.png"group-title="ENTRETENIMIENTO", E!
-http://cinematicket.club/tp12.php?c=55&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=55&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/17/items/lifetime_202009/Lifetime.png"group-title="ENTRETENIMIENTO", Lifetime
-http://cinematicket.club/tp12.php?c=94&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/17/items/a-e_20200907/A%26E.png"group-title="ENTRETENIMIENTO", A&E
-http://cinematicket.club/tp12.php?c=62&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/1/items/distrito-comedia/DistritoComedia.png"group-title="ENTRETENIMIENTO", Distrito Comedia
-http://cinematicket.club/tp12.php?c=78&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/comedy-central/ComedyCentral.png"group-title="ENTRETENIMIENTO", Comedy Central
-http://cinematicket.club/tp12.php?c=340&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=340&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -1445,11 +52,11 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Teleformula/Teleformula.png"group-title="NOTICIAS",Teleformula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/3/items/foro-tv/ForoTV.png"group-title="NOTICIAS", Foro TV
-http://cinematicket.club/tp12.php?c=19&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=19&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/29/items/milenio_202009/Milenio.png"group-title="NOTICIAS", Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/3/items/cnn_20200907/CNN.png"group-title="NOTICIAS", CNN En Español
-http://cinematicket.club/tp12.php?c=187&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -1457,23 +64,23 @@ http://cinematicket.club/tp12.php?c=187&p=3&k=tecnotv&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/29/items/history_20200907/History.png"group-title="MUNDO Y CULTURA", HISTORY
-http://cinematicket.club/tp12.php?c=89&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=89&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/discovery-channel_202009/DiscoveryChannel.png"group-title="MUNDO Y CULTURA", Discovery Channel
-http://cinematicket.club/tp12.php?c=86&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=86&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/4/items/discovery-world/DiscoveryWorld.png"group-title="MUNDO Y CULTURA", Discovery World
-http://cinematicket.club/tp12.php?c=101&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/33/items/discovery-turbo/DiscoveryTurbo.png"group-title="MUNDO Y CULTURA", Discovery Turbo
-http://cinematicket.club/tp12.php?c=2379&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/discovery-id/DiscoveryID.png"group-title="MUNDO Y CULTURA", Discovery ID
-http://cinematicket.club/tp12.php?c=68&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/12/items/discovery-h-h/DiscoveryH%26H.png"group-title="MUNDO Y CULTURA", Discovery h&h
-http://cinematicket.club/tp12.php?c=96&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/27/items/animal-planet_20200907/AnimalPlanet.png"group-title="MUNDO Y CULTURA", Animal Planet 
-http://cinematicket.club/tp12.php?c=88&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=88&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/31/items/nat-geo/NatGeo.png"group-title="MUNDO Y CULTURA", NatGeo
-http://cinematicket.club/tp12.php?c=91&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=91&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/1/items/nat-geo-wild/NatGeoWild.png"group-title="MUNDO Y CULTURA", Natgeo Wild
-http://cinematicket.club/tp12.php?c=92&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -1481,54 +88,54 @@ http://cinematicket.club/tp12.php?c=92&p=3&k=tecnotv&f=.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/18/items/de-pelicula/DePelicula.png"group-title="CINE Y SERIES", De Película
-http://cinematicket.club/tp12.php?c=121&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/18/items/de-pelicula/DePelicula.png"group-title="CINE Y SERIES", De Peli­cula
+http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/5/items/cine-canal_202009/CineCanal.png"group-title="CINE Y SERIES", CineCanal
-http://cinematicket.club/tp12.php?c=149&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/23/items/golden_202009/Golden.png"group-title="CINE Y SERIES", Golden
-http://cinematicket.club/tp12.php?c=123&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/20/items/warner_202009/Warner.png"group-title="CINE Y SERIES", Warner Channel
-http://cinematicket.club/tp12.php?c=52&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=52&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/sony_20200907/Sony.png"group-title="CINE Y SERIES", Sony
-http://cinematicket.club/tp12.php?c=48&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/1/items/paramount_202009/Paramount.png"group-title="CINE Y SERIES", Paramount
-http://cinematicket.club/tp12.php?c=1726&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/23/items/tnt_20200907/TNT.png"group-title="CINE Y SERIES", TNT
-http://cinematicket.club/tp12.php?c=126&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/tntseries_202009/TNTSeries.png"group-title="CINE Y SERIES", TNT Series
-http://cinematicket.club/tp12.php?c=71&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/23/items/axn_20200907/AXN.png"group-title="CINE Y SERIES", AXN
-http://cinematicket.club/tp12.php?c=64&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/21/items/amc_20200907/AMC.png"group-title="CINE Y SERIES", AMC
-http://cinematicket.club/tp12.php?c=131&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/34/items/cinemax_202009/Cinemax.png"group-title="CINE Y SERIES", Cinemax
-http://cinematicket.club/tp12.php?c=158&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=158&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/29/items/space_202009/Space.png"group-title="CINE Y SERIES", Space
-http://cinematicket.club/tp12.php?c=129&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=129&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/10/items/studio-universal/StudioUniversal.png"group-title="CINE Y SERIES", Studio Universal
-http://cinematicket.club/tp12.php?c=132&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=132&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/34/items/universal-tv/UniversalTV.png"group-title="CINE Y SERIES", Universal Channel
-http://cinematicket.club/tp12.php?c=57&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
-http://cinematicket.club/tp12.php?c=60&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/22/items/fxm_20200907/FXM.png"group-title="CINE Y SERIES", FXM
-http://cinematicket.club/tp12.php?c=332&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/syfy_20200907/Syfy.png"group-title="CINE Y SERIES", SyFy
-http://cinematicket.club/tp12.php?c=59&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/19/items/fox_20200907/Fox.png"group-title="CINE Y SERIES", Fox
-http://cinematicket.club/tp12.php?c=46&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/13/items/fox-life/FoxLife.png"group-title="CINE Y SERIES", FOX Life
-http://cinematicket.club/tp12.php?c=77&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/fox-action/FoxAction.png"group-title="CINE Y SERIES", FOX Action
-http://cinematicket.club/tp12.php?c=336&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/18/items/fox-series/FoxSeries.png"group-title="CINE Y SERIES", Fox Series
-http://cinematicket.club/tp12.php?c=139&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/9/items/fox-cinema/FoxCinema.png"group-title="CINE Y SERIES", Fox Cinema
-http://cinematicket.club/tp12.php?c=1729&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/22/items/fox-classics/FoxClassics.png"group-title="CINE Y SERIES", Fox Classics
-http://cinematicket.club/tp12.php?c=1732&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
-http://cinematicket.club/tp12.php?c=146&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -1536,29 +143,75 @@ http://cinematicket.club/tp12.php?c=146&p=3&k=tecnotv&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/22/items/disney-channel_202009/DisneyChannel.png"group-title="NIÑOS", Disney Channel
-http://cinematicket.club/tp12.php?c=113&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=113&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/17/items/disney-junior/DisneyJunior.png"group-title="NIÑOS", Disney Junior
-http://cinematicket.club/tp12.php?c=118&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=118&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/discovery-kids/DiscoveryKids.png"group-title="NIÑOS", Discovery Kids
-http://cinematicket.club/tp12.php?c=109&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=109&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/30/items/boomerang_202009/Boomerang.png"group-title="NIÑOS", Boomerang
-http://cinematicket.club/tp12.php?c=115&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=115&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/7/items/cartoon-network/CartoonNetwork.png"group-title="NIÑOS", Cartoon Network
-http://cinematicket.club/tp12.php?c=112&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/14/items/disney-xd/DisneyXD.png"group-title="NIÑOS", Disney XD
-http://cinematicket.club/tp12.php?c=111&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/14/items/nick_20200908/Nick.png"group-title="NIÑOS", NICK
-http://cinematicket.club/tp12.php?c=110&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/29/items/nick-2/Nick2.png"group-title="NIÑOS", NICK 2
-http://cinematicket.club/tp12.php?c=2147&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/20/items/teen-nick/TeenNick.png"group-title="NIÑOS", Teen Nick
+http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
-http://cinematicket.club/tp12.php?c=111&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/4/items/nick-toons/NickToons.png"group-title="NIÑOS", Nicktoons
-http://cinematicket.club/tp12.php?c=1708&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/33/items/nick-music/NickMusic.png"group-title="NIÑOS", Nick Music
+http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
-http://cinematicket.club/tp12.php?c=108&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
-http://cinematicket.club/tp12.php?c=2591&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/1/items/bandamax_202009/Bandamax.png"group-title="MUSICA", Bandamax
+http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/29/items/telehit_202009/Telehit.png"group-title="MUSICA", Telehit
+http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/24/items/telehit-urbano/TelehitUrbano.png"group-title="MUSICA", Telehit Urbano
+http://cinematicket.club/cantp.php?c=218&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/25/items/mtv_20200908/MTV.png"group-title="MUSICA", MTV
+http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/18/items/mtvhits_202009/MTVHits.png"group-title="MUSICA", MTV HITS
+http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/3/items/vh-1_20200908/Vh1.png"group-title="MUSICA", VH1
+http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
+http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
+http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
+http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/27/items/fox-sports-2/FoxSports2.png" group-title="DEPORTES", Fox Sports 2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/18/items/fox-sports-3/FoxSports3.png" group-title="DEPORTES", Fox Sports 3
+http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
+http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="24/7 PREMIUM",Cinema Disney Family ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PREMIUM",Cinema Disney Pixar ⁽ᴴᴰ⁾
@@ -1568,20 +221,6 @@ http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/1/items/bandamax_202009/Bandamax.png"group-title="MUSICA", Bandamax
-http://cinematicket.club/tp12.php?c=221&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/29/items/telehit_202009/Telehit.png"group-title="MUSICA", Telehit
-http://cinematicket.club/tp12.php?c=220&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/24/items/telehit-urbano/TelehitUrbano.png"group-title="MUSICA", Telehit Urbano
-http://cinematicket.club/tp12.php?c=218&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/25/items/mtv_20200908/MTV.png"group-title="MUSICA", MTV
-http://cinematicket.club/tp12.php?c=212&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/18/items/mtvhits_202009/MTVHits.png"group-title="MUSICA", MTV HITS
-http://cinematicket.club/tp12.php?c=213&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/3/items/vh-1_20200908/Vh1.png"group-title="MUSICA", VH1
-http://cinematicket.club/tp12.php?c=211&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
-http://cinematicket.club/tp12.php?c=214&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="90s" tvg-logo="https://www.vhv.rs/dpng/d/455-4558822_remember-the-90s-musica-90s-dibujo-hd-png.png" group-title="MUSICA",Music Choice| 90s
 http://appstv.us:25461/lozanos/tvmulti/557
 #EXTINF:-1 tvg-id="" tvg-name="Alternative" tvg-logo="https://media.cdnandroid.com/item_images/709995/imagen-alternative-music-0big.jpg" group-title="MUSICA",Music Choice| Alternative
@@ -1636,21 +275,6 @@ http://appstv.us:25461/lozanos/tvmulti/580
 
 
 
-#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
-http://cinematicket.club/tp12.php?c=168&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
-http://cinematicket.club/tp12.php?c=169&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
-http://cinematicket.club/tp12.php?c=345&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
-http://cinematicket.club/tp12.php?c=170&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/27/items/fox-sports-2/FoxSports2.png" group-title="DEPORTES", Fox Sports 2
-http://cinematicket.club/tp12.php?c=172&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/18/items/fox-sports-3/FoxSports3.png" group-title="DEPORTES", Fox Sports 3
-http://cinematicket.club/tp12.php?c=178&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
-http://cinematicket.club/tp12.php?c=174&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="AFIZZIONADOS" tvg-logo="https://afizzionados.tv/izzi/v4/img/logos/izzi-spaced-logo.png" group-title="DEPORTES",AFIZZIONADOS
 http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.ts
 #EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",BARCA TV
