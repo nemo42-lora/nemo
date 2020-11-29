@@ -26,7 +26,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
-http://cinematicket.club/cantp.php?c=66&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
 http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/2/items/telemundo_202009/Telemundo.png"group-title="ENTRETENIMIENTO", Telemundo
@@ -136,14 +136,15 @@ http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latino | FXM" tvg-logo="" group-title="",Latino | FXM
-http://appstv.us:25461/lozanos/tvmulti/112
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
+http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/22/items/fxm_20200907/FXM.png"group-title="CINE Y SERIES", FXM
+http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Gala TV" tvg-logo="" group-title="",Latino | Gala TV
 http://appstv.us:25461/lozanos/tvmulti/113
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="" group-title="",Latino | Glitz
 http://appstv.us:25461/lozanos/tvmulti/114
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="",Latino | Gol TV
-http://appstv.us:25461/lozanos/tvmulti/115
+
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
 http://appstv.us:25461/lozanos/tvmulti/116
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Golden Plus" tvg-logo="" group-title="",Latino | Golden Plus
@@ -188,17 +189,14 @@ http://cinematicket.club/cantp.php?c=110&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/20/items/teen-nick/TeenNick.png"group-title="NIÑOS", Teen Nick
 http://cinematicket.club/cantp.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
-http://cinematicket.club/cantp.php?c=111&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=117&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/33/items/nick-music/NickMusic.png"group-title="NIÑOS", Nick Music
 http://cinematicket.club/cantp.php?c=1708&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
 http://cinematicket.club/cantp.php?c=108&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
 http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/4d9e5e65620d07c1fc4edfd06560c7a1.png" group-title="24/7 PREMIUM",Cinema Disney Family ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60475.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar ⁽ᴴᴰ⁾" tvg-logo="http://tv.iptv5latino.cl:8000/images/b37d9490e868558b23928e9ad7967725.png" group-title="24/7 PREMIUM",Cinema Disney Pixar ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/60476.ts
+
 
 
 
@@ -241,6 +239,13 @@ http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="",Latino | Gol TV
+http://appstv.us:25461/lozanos/tvmulti/115
+
+
+
+
+
 
 
 
