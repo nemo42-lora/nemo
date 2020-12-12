@@ -91,10 +91,6 @@ http://cinematicket.club/cantp.php?c=48&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/23/items/tnt_20200907/TNT.png"group-title="CINE Y SERIES", TNT
 http://cinematicket.club/cantp.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/tntseries_202009/TNTSeries.png"group-title="CINE Y SERIES", TNT Series
-http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/23/items/axn_20200907/AXN.png"group-title="CINE Y SERIES", AXN
-http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/21/items/amc_20200907/AMC.png"group-title="CINE Y SERIES", AMC
 http://cinematicket.club/cantp.php?c=131&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/34/items/cinemax_202009/Cinemax.png"group-title="CINE Y SERIES", Cinemax
@@ -111,16 +107,6 @@ http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=332&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/syfy_20200907/Syfy.png"group-title="CINE Y SERIES", SyFy
 http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/19/items/fox_20200907/Fox.png"group-title="CINE Y SERIES", Fox
-http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/13/items/fox-life/FoxLife.png"group-title="CINE Y SERIES", FOX Life
-http://cinematicket.club/cantp.php?c=77&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/fox-action/FoxAction.png"group-title="CINE Y SERIES", FOX Action
-http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/18/items/fox-series/FoxSeries.png"group-title="CINE Y SERIES", Fox Series
-http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/9/items/fox-cinema/FoxCinema.png"group-title="CINE Y SERIES", Fox Cinema
-http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
 http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8
@@ -131,12 +117,7 @@ http://appstv.us:25461/lozanos/tvmulti/113
 #EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="" group-title="",Latino | Glitz
 http://appstv.us:25461/lozanos/tvmulti/114
 
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
-http://appstv.us:25461/lozanos/tvmulti/116
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden Plus" tvg-logo="" group-title="",Latino | Golden Plus
-http://appstv.us:25461/lozanos/tvmulti/117
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO" tvg-logo="" group-title="",Latino | HBO
-http://appstv.us:25461/lozanos/tvmulti/118
+
 
 http://appstv.us:25461/lozanos/tvmulti/128
 #EXTINF:-1 tvg-id="" tvg-name="Latino | HBO POP" tvg-logo="" group-title="",Latino | HBO POP
