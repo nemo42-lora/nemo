@@ -88,7 +88,14 @@ http://cinematicket.club/cantp.php?c=92&p=3&k=tecnotv&f=.m3u8
 
 
 
-
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=261_&f=.m3u8
+#EXTINF:-0, SONY HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=263_&f=.m3u8
+#EXTINF:-0, AMC HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=264_&f=.m3u8
+#EXTINF:-0, PARAMOUNT HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=265_&f=.m3u8
+#EXTINF:-0, FOX MOVIES HD
 
 #EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/18/items/de-pelicula/DePelicula.png"group-title="CINE Y SERIES", De Peli­cula
 http://cinematicket.club/cantp.php?c=121&p=3&k=tecnotv&f=.m3u8
@@ -138,7 +145,74 @@ http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
+ttp://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=67_&f=.m3u8
+#EXTINF:-0, FOX MOVIES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=68_&f=.m3u8
+#EXTINF:-0, FOX FAMILY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=69_&f=.m3u8
+#EXTINF:-0, FX
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=70_&f=.m3u8
+#EXTINF:-0, FXM
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=71_&f=.m3u8
+#EXTINF:-0, FOX LIFE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=72_&f=.m3u8
+#EXTINF:-0, GOLDEN +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=73_&f=.m3u8
+#EXTINF:-0, GOLDEN EDGE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=74_&f=.m3u8
+#EXTINF:-0, GOLDEN PREMIER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=75_&f=.m3u8
+#EXTINF:-0, TNT SERIES
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=76_&f=.m3u8
+#EXTINF:-0, SONY
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=77_&f=.m3u8
+#EXTINF:-0, AXN
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=78_&f=.m3u8
+#EXTINF:-0, UNIVERSAL CHANNEL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=79_&f=.m3u8
+#EXTINF:-0, SINCANAL03
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=80_&f=.m3u8
+#EXTINF:-0, MULTI PREMIER
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=81_&f=.m3u8
+#EXTINF:-0, AMC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=82_&f=.m3u8
+#EXTINF:-0, PARAMOUNT
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=83_&f=.m3u8
+#EXTINF:-0, CINE LATINO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=84_&f=.m3u8
+#EXTINF:-0, DE PELICULA +
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=85_&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=206_&f=.m3u8
+#EXTINF:-0, HBO HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=207_&f=.m3u8
+#EXTINF:-0, HBO 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=208_&f=.m3u8
+#EXTINF:-0, HBO FAMILY HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=210_&f=.m3u8
+#EXTINF:-0, HBO SIGNATURE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=211_&f=.m3u8
+#EXTINF:-0, HBO MUNDI
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=212_&f=.m3u8
+#EXTINF:-0, HBO XTREME
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=213_&f=.m3u8
+#EXTINF:-0, TNT HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=214_&f=.m3u8
+#EXTINF:-0, CINEMAX HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=215_&f=.m3u8
+#EXTINF:-0, SPACE HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=216_&f=.m3u8
+#EXTINF:-0, AXN HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=217_&f=.m3u8
+#EXTINF:-0, FX HD
 
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=222_&f=.m3u8
+#EXTINF:-0, CINECANAL
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=223_&f=.m3u8
+#EXTINF:-0, FOX ACTION HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=224_&f=.m3u8
+#EXTINF:-0, GOLDEN PREMIER HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=225_&f=.m3u8
+#EXTINF:-0, GOLDEN EDGE HD
 
 
 
@@ -188,13 +262,18 @@ http://cinematicket.club/cantp.php?c=213&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=211&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
 http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=119_&f=.m3u8
+#EXTINF:-0, VH1
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=120_&f=.m3u8
+#EXTINF:-0, MTV CLASSICS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=121_&f=.m3u8
+#EXTINF:-0, TELEHIT MUSIC
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=122_&f=.m3u8
+#EXTINF:-0, TOP LATINO
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=123_&f=.m3u8
 
-
-
-
-
-
-
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=221_&f=.m3u8
+#EXTINF:-0, WWE TV
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
 http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
@@ -213,6 +292,51 @@ http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD" tvg-logo="" group-title="BeIn Group HD",beIN Sports News HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/16472
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=338_&f=.m3u8
+#EXTINF:-0, MOVISTAR FORMULA 1
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=339_&f=.m3u8
+#EXTINF:-0, MOVISTAR LA LIGA
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=350_&f=.m3u8
+#EXTINF:-0, TOROS
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=352_&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=238_&f=.m3u8
+#EXTINF:-0, FOX SPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=239_&f=.m3u8
+#EXTINF:-0, FOX SPORTS 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=240_&f=.m3u8
+#EXTINF:-0, FOX SPORTS 3 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=241_&f=.m3u8
+#EXTINF:-0, ESPN HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=243_&f=.m3u8
+#EXTINF:-0, ESPN 3 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=244_&f=.m3u8
+#EXTINF:-0, FOX SPORTS SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=246_&f=.m3u8
+#EXTINF:-0, FOX SPORTS 2 SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=247_&f=.m3u8
+#EXTINF:-0, FOX SPORTS 3 SUR HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=248_&f=.m3u8
+#EXTINF:-0, ESPN HD SUR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=249_&f=.m3u8
+#EXTINF:-0, ESPN 3 HD SUR
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=250_&f=.m3u8
+#EXTINF:-0, SINCANALHD01
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=251_&f=.m3u8
+#EXTINF:-0, DHE
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=253_&f=.m3u8
+#EXTINF:-0, TNTSPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=254_&f=.m3u8
+#EXTINF:-0, FOX SPORTS PREMIUM HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=255_&f=.m3u8
+#EXTINF:-0, DIRECTV SPORTS HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=256_&f=.m3u8
+#EXTINF:-0, DIRECTV SPORTS 2 HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=257_&f=.m3u8
+#EXTINF:-0, DIRECTV SPORTS + HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=258_&f=.m3u8
+#EXTINF:-0, CARACOL HD
+http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=259_&f=.m3u8
+#EXTINF:-0, WIN SPORTS +
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD" tvg-logo="" group-title="BeIn Group HD",beIN Sports HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/16473
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="" group-title="BeIn Group HD",beIN Sports 1 HD
@@ -438,43 +562,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=65_&f=.m3u8
 #EXTINF:-0, CNN Ñ
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=66_&f=.m3u8
 #EXTINF:-0, RT Ñ
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=67_&f=.m3u8
-#EXTINF:-0, FOX MOVIES
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=68_&f=.m3u8
-#EXTINF:-0, FOX FAMILY
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=69_&f=.m3u8
-#EXTINF:-0, FX
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=70_&f=.m3u8
-#EXTINF:-0, FXM
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=71_&f=.m3u8
-#EXTINF:-0, FOX LIFE
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=72_&f=.m3u8
-#EXTINF:-0, GOLDEN +
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=73_&f=.m3u8
-#EXTINF:-0, GOLDEN EDGE
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=74_&f=.m3u8
-#EXTINF:-0, GOLDEN PREMIER
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=75_&f=.m3u8
-#EXTINF:-0, TNT SERIES
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=76_&f=.m3u8
-#EXTINF:-0, SONY
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=77_&f=.m3u8
-#EXTINF:-0, AXN
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=78_&f=.m3u8
-#EXTINF:-0, UNIVERSAL CHANNEL
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=79_&f=.m3u8
-#EXTINF:-0, SINCANAL03
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=80_&f=.m3u8
-#EXTINF:-0, MULTI PREMIER
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=81_&f=.m3u8
-#EXTINF:-0, AMC
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=82_&f=.m3u8
-#EXTINF:-0, PARAMOUNT
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=83_&f=.m3u8
-#EXTINF:-0, CINE LATINO
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=84_&f=.m3u8
-#EXTINF:-0, DE PELICULA +
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=85_&f=.m3u8
+h
 #EXTINF:-0, I SAT
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=86_&f=.m3u8
 #EXTINF:-0, MTV
@@ -542,15 +630,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=117_&f=.m3u8
 #EXTINF:-0, NAT GEO KIDS
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=118_&f=.m3u8
 #EXTINF:-0, SINCANAL04
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=119_&f=.m3u8
-#EXTINF:-0, VH1
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=120_&f=.m3u8
-#EXTINF:-0, MTV CLASSICS
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=121_&f=.m3u8
-#EXTINF:-0, TELEHIT MUSIC
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=122_&f=.m3u8
-#EXTINF:-0, TOP LATINO
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=123_&f=.m3u8
+
 #EXTINF:-0, NBA TV
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=125_&f=.m3u8
 #EXTINF:-0, ADN40
@@ -614,38 +694,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=203_&f=.m3u8
 #EXTINF:-0, TUDN HD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=205_&f=.m3u8
 #EXTINF:-0, AMERICA TV 
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=206_&f=.m3u8
-#EXTINF:-0, HBO HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=207_&f=.m3u8
-#EXTINF:-0, HBO 2 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=208_&f=.m3u8
-#EXTINF:-0, HBO FAMILY HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=210_&f=.m3u8
-#EXTINF:-0, HBO SIGNATURE
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=211_&f=.m3u8
-#EXTINF:-0, HBO MUNDI
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=212_&f=.m3u8
-#EXTINF:-0, HBO XTREME
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=213_&f=.m3u8
-#EXTINF:-0, TNT HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=214_&f=.m3u8
-#EXTINF:-0, CINEMAX HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=215_&f=.m3u8
-#EXTINF:-0, SPACE HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=216_&f=.m3u8
-#EXTINF:-0, AXN HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=217_&f=.m3u8
-#EXTINF:-0, FX HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=221_&f=.m3u8
-#EXTINF:-0, WWE TV
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=222_&f=.m3u8
-#EXTINF:-0, CINECANAL
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=223_&f=.m3u8
-#EXTINF:-0, FOX ACTION HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=224_&f=.m3u8
-#EXTINF:-0, GOLDEN PREMIER HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=225_&f=.m3u8
-#EXTINF:-0, GOLDEN EDGE HD
+
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=226_&f=.m3u8
 #EXTINF:-0, NAT GEO WILD HD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=227_&f=.m3u8
@@ -653,77 +702,20 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=227_&f=.m3u8
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=228_&f=.m3u8
 #EXTINF:-0, H&H HD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=229_&f=.m3u8
-#EXTINF:-0, DISCOVERY SCIENCE HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=230_&f=.m3u8
-#EXTINF:-0, DISCOVERY WORLD HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=231_&f=.m3u8
-#EXTINF:-0, DISCOVERY THEATER HD
+
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=232_&f=.m3u8
-#EXTINF:-0, DISCOVERY ID HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=233_&f=.m3u8
+
 #EXTINF:-0, HISTORY HD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=234_&f=.m3u8
 #EXTINF:-0, H2 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=235_&f=.m3u8
-#EXTINF:-0, LAS ESTRELLAS
+
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=236_&f=.m3u8
 #EXTINF:-0, FOX CINEMA HD
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=237_&f=.m3u8
 #EXTINF:-0, GALAVISION HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=238_&f=.m3u8
-#EXTINF:-0, FOX SPORTS HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=239_&f=.m3u8
-#EXTINF:-0, FOX SPORTS 2 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=240_&f=.m3u8
-#EXTINF:-0, FOX SPORTS 3 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=241_&f=.m3u8
-#EXTINF:-0, ESPN HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=243_&f=.m3u8
-#EXTINF:-0, ESPN 3 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=244_&f=.m3u8
-#EXTINF:-0, FOX SPORTS SUR HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=246_&f=.m3u8
-#EXTINF:-0, FOX SPORTS 2 SUR HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=247_&f=.m3u8
-#EXTINF:-0, FOX SPORTS 3 SUR HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=248_&f=.m3u8
-#EXTINF:-0, ESPN HD SUR
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=249_&f=.m3u8
-#EXTINF:-0, ESPN 3 HD SUR
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=250_&f=.m3u8
-#EXTINF:-0, SINCANALHD01
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=251_&f=.m3u8
-#EXTINF:-0, DHE
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=253_&f=.m3u8
-#EXTINF:-0, TNTSPORTS HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=254_&f=.m3u8
-#EXTINF:-0, FOX SPORTS PREMIUM HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=255_&f=.m3u8
-#EXTINF:-0, DIRECTV SPORTS HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=256_&f=.m3u8
-#EXTINF:-0, DIRECTV SPORTS 2 HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=257_&f=.m3u8
-#EXTINF:-0, DIRECTV SPORTS + HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=258_&f=.m3u8
-#EXTINF:-0, CARACOL HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=259_&f=.m3u8
-#EXTINF:-0, WIN SPORTS +
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=261_&f=.m3u8
-#EXTINF:-0, SONY HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=263_&f=.m3u8
-#EXTINF:-0, AMC HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=264_&f=.m3u8
-#EXTINF:-0, PARAMOUNT HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=265_&f=.m3u8
-#EXTINF:-0, FOX MOVIES HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=266_&f=.m3u8
-#EXTINF:-0, TEEN NICK
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=268_&f=.m3u8
-#EXTINF:-0, CARTOON NETWORK HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=269_&f=.m3u8
-#EXTINF:-0, DISNEY CHANNEL HD
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=270_&f=.m3u8
-#EXTINF:-0, ANIMAL PLANET HD
+
+
+
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=272_&f=.m3u8
 #EXTINF:-0, LA UNO
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=328_&f=.m3u8
@@ -740,10 +732,4 @@ http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=333_&f=.m3u8
 #EXTINF:-0, MOVISTAR ACCION
 http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=337_&f=.m3u8
 #EXTINF:-0, MOVISTAR ESTRENOS
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=338_&f=.m3u8
-#EXTINF:-0, MOVISTAR FORMULA 1
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=339_&f=.m3u8
-#EXTINF:-0, MOVISTAR LA LIGA
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=350_&f=.m3u8
-#EXTINF:-0, TOROS
-http://ipeteve.com/php/REGIO_PLAY160220/smartv.php?c=352_&f=.m3u8
+
