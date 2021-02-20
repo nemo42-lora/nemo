@@ -74,7 +74,7 @@ http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/33/items/discovery-turbo/DiscoveryTurbo.png"group-title="MUNDO Y CULTURA", Discovery Turbo
 http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/discovery-id/DiscoveryID.png"group-title="MUNDO Y CULTURA", Discovery ID
-http://cinematicket.club/cantp.php?c=68&p=3&k=tecnotv&f=.m3u8
+http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/12/items/discovery-h-h/DiscoveryH%26H.png"group-title="MUNDO Y CULTURA", Discovery h&h
 http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/27/items/animal-planet_20200907/AnimalPlanet.png"group-title="MUNDO Y CULTURA", Animal Planet 
@@ -242,21 +242,8 @@ http://youriptv.tv:8080/ARGENTINA/Nicetry8888/16470
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 13 HD" tvg-logo="" group-title="BeIn Group HD",beIN Sports 13 HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/16471
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1 tvg-logo="http://srregio.net/img/img.php" .jpg", SRREGIO.NET
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://srregio.net/web.php
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" ,REGIO CHANNEL
-http://ipeteve.com/php/th.php?channel=srregio&f.m3u8
 
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , DISCOVERY IDD
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
+
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , RT ESPANOL
