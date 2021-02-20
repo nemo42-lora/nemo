@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
 http://cinematicket.club/cantp.php?c=17&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
@@ -28,7 +27,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable 
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
 http://cinematicket.club/cantp.php?c=1499&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
 http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
@@ -141,26 +140,6 @@ http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden EDGE" tvg-logo="" group-title="",Latino | Golden EDGE
-http://appstv.us:25461/lozanos/tvmulti/116
-#EXTINF:-1 tvg-id="" tvg-name="Latino | Golden Plus" tvg-logo="" group-title="",Latino | Golden Plus
-http://appstv.us:25461/lozanos/tvmulti/117
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO" tvg-logo="" group-title="",Latino | HBO
-http://appstv.us:25461/lozanos/tvmulti/118
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO 2" tvg-logo="" group-title="",Latino | HBO 2
-http://appstv.us:25461/lozanos/tvmulti/119
-#EXTINF:-1 tvg-id="I356.34879.schedulesdirect.org" tvg-name="Latino | HBO Family" tvg-logo="https://i.imgur.com/RQa2ipx.png" group-title="LOCAL CA",Latino | HBO Family
-http://appstv.us:25461/lozanos/tvmulti/120
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO Plus" tvg-logo="" group-title="",Latino | HBO Plus
-http://appstv.us:25461/lozanos/tvmulti/121
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO XTREME" tvg-logo="" group-title="",Latino | HBO XTREME
-http://appstv.us:25461/lozanos/tvmulti/128
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO POP" tvg-logo="" group-title="",Latino | HBO POP
-http://appstv.us:25461/lozanos/tvmulti/129
-#EXTINF:-1 tvg-id="" tvg-name="Latino | History 2" tvg-logo="" group-title="",Latino | History 2
-http://appstv.us:25461/lozanos/tvmulti/122
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TruTV" tvg-logo="" group-title="PERU",Latino | TruTV
-http://appstv.us:25461/lozanos/tvmulti/159
 
 
 
@@ -217,9 +196,9 @@ http://cinematicket.club/cantp.php?c=214&p=3&k=tecnotv&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
-http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
 http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
 http://cinematicket.club/cantp.php?c=345&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
@@ -232,53 +211,3 @@ http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=174&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
 http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="AFIZZIONADOS" tvg-logo="https://afizzionados.tv/izzi/v4/img/logos/izzi-spaced-logo.png" group-title="DEPORTES",AFIZZIONADOS
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55292.ts
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="DEPORTES",BARCA TV
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/15360.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO BRASILERO" tvg-logo="https://img1.freepng.es/20180614/et/kisspng-2018-campeonato-brasileiro-srie-a-campeonato-bra-brasileira-5b22a6daa19c87.707316201528997594662.jpg" group-title="DEPORTES",CAMPEONATO BRASILERO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58272.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO" tvg-logo="https://www.pesalmanac.com/cdn/competition/emb_0023_l.png" group-title="DEPORTES",CAMPEONATO CHILENO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54021.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CHILENO ⁽ᴹ⁾" tvg-logo="https://www.chilemagazine.net/wp-content/uploads/2020/08/CHI-1.png" group-title="DEPORTES",CAMPEONATO CHILENO ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58267.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO ECUATORIANO" tvg-logo="https://pm1.narvii.com/6237/c4d34ed2a3091ad788cf8f4772a6f6ea331608c8_00.jpg" group-title="DEPORTES",CAMPEONATO ECUATORIANO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55194.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAGUAYO" tvg-logo="https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png" group-title="DEPORTES",CAMPEONATO PARAGUAYO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54022.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAGUAYO 2" tvg-logo="https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png" group-title="DEPORTES",CAMPEONATO PARAGUAYO 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54327.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PERUANO" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-6876BAD77D-seeklogo.com.png" group-title="DEPORTES",CAMPEONATO PERUANO
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/55377.ts
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO URUGUAYO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n.png/1200px-Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n.png" group-title="DEPORTES",CAMPEONATO URUGUAYO 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/54020.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27592.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR " tvg-logo="https://pbs.twimg.com/profile_images/1230800723983716362/3rSTieSJ_400x400.jpg" group-title="ESPAÑA",ES: LALIGATV BAR 
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/27593.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal_plus_liga_campeones.png" group-title="ESPAÑA",ES: LIGA DE CAMPEONES
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/25653.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV FÚTBOL",LIGA MX
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58270.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="PPV FÚTBOL",LIGA MX 2
-http://tv.iptv5latino.cl:8000/live/Lucho/LJFR6mUxu6/58271.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TVC Deportes" tvg-logo="" group-title="",Latino | TVC Deportes
-http://appstv.us:25461/lozanos/tvmulti/162
-#EXTINF:-1 tvg-id="" tvg-name="Latino | TyC Sports" tvg-logo="" group-title="",Latino | TyC Sports
-http://appstv.us:25461/lozanos/tvmulti/16
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Action" tvg-logo="" group-title="",UK | Sky Sports Action
-http://appstv.us:25461/lozanos/tvmulti/187
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports F1" tvg-logo="" group-title="",UK | Sky Sports F1
-http://appstv.us:25461/lozanos/tvmulti/188
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Golf" tvg-logo="" group-title="",UK | Sky Sports Golf
-http://appstv.us:25461/lozanos/tvmulti/189
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Main Event" tvg-logo="" group-title="",UK | Sky Sports Main Event
-http://appstv.us:25461/lozanos/tvmulti/190
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports MIX" tvg-logo="" group-title="",UK | Sky Sports MIX
-http://appstv.us:25461/lozanos/tvmulti/191
-#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Premier League" tvg-logo="" group-title="",UK | Sky Sports Premier League
-http://appstv.us:25461/lozanos/tvmulti/192
