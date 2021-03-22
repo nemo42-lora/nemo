@@ -1,453 +1,245 @@
 #EXTM3U
-EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/23/items/las-estrellas_202009/LasEstrellas.png"group-title="NACIONAL", Las Estrellas
-http://tecnotv.club/pop/geomex2.php?c=17&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/6/items/azteca-uno/AztecaUno.png"group-title="NACIONAL", Azteca Uno
-http://tecnotv.club/pop/geomex2.php?c=27&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/2/items/a_20200906/A%2B.png"group-title="NACIONAL", A+
-http://tecnotv.club/pop/geomex2.php?c=2316&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/34/items/canal-5/Canal5.png" group-title="NACIONAL", Canal 5
-http://tecnotv.club/pop/geomex2.php?c=20&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/30/items/imagen_202009/Imagen.png"group-title="NACIONAL", Imagen TV
-http://tecnotv.club/pop/geomex2.php?c=2298&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/12/items/azteca-7/Azteca7.png" group-title="NACIONAL", Azteca 7
-http://tecnotv.club/pop/geomex2.php?c=21&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/28/items/canal-6/Canal6.png"group-title="NACIONAL", Canal 6
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/nu-9ve/Nu9ve.png"group-title="NACIONAL", Nu9ve
-http://tecnotv.club/pop/geomex2.php?c=24&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/21/items/mexiquense_202009/Mexiquense.png"group-title="NACIONAL", Mexiquense
-http://tecnotv.club/pop/geomex2.php?c=44&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/19/items/canal-once/CanalOnce.png"group-title="NACIONAL", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/14/items/unicable_202009/Unicable.png"group-title="ENTRETENIMIENTO", Unicable
-http://tecnotv.club/pop/geomex2.php?c=1499&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/Tlnovelas/Tlnovelas.png"group-title="ENTRETENIMIENTO", Tl Novelas
-http://tecnotv.club/pop/geomex2.php?c=83&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/2/items/telemundo_202009/Telemundo.png"group-title="ENTRETENIMIENTO", Telemundo
-http://tecnotv.club/pop/geomex2.php?c=85&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/15/items/e_20200907/E%21.png"group-title="ENTRETENIMIENTO", E!
-http://tecnotv.club/pop/geomex2.php?c=55&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/17/items/lifetime_202009/Lifetime.png"group-title="ENTRETENIMIENTO", Lifetime
-http://tecnotv.club/pop/geomex2.php?c=94&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/17/items/a-e_20200907/A%26E.png"group-title="ENTRETENIMIENTO", A&E
-http://tecnotv.club/pop/geomex2.php?c=62&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/1/items/distrito-comedia/DistritoComedia.png"group-title="ENTRETENIMIENTO", Distrito Comedia
-http://tecnotv.club/pop/geomex2.php?c=78&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/18/items/comedy-central/ComedyCentral.png"group-title="ENTRETENIMIENTO", Comedy Central
-http://tecnotv.club/pop/geomex2.php?c=340&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/20/items/adn-40/Adn40.png"group-title="NOTICIAS", ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/Teleformula/Teleformula.png"group-title="NOTICIAS",Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/3/items/foro-tv/ForoTV.png"group-title="NOTICIAS", Foro TV
-http://tecnotv.club/pop/geomex2.php?c=19&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/29/items/milenio_202009/Milenio.png"group-title="NOTICIAS", Milenio
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/3/items/cnn_20200907/CNN.png"group-title="NOTICIAS", CNN En Español
-http://tecnotv.club/pop/geomex2.php?c=187&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/29/items/history_20200907/History.png"group-title="MUNDO Y CULTURA", HISTORY
-http://tecnotv.club/pop/geomex2.php?c=89&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/discovery-channel_202009/DiscoveryChannel.png"group-title="MUNDO Y CULTURA", Discovery Channel
-http://tecnotv.club/pop/geomex2.php?c=86&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/4/items/discovery-world/DiscoveryWorld.png"group-title="MUNDO Y CULTURA", Discovery World
-http://tecnotv.club/pop/geomex2.php?c=101&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/33/items/discovery-turbo/DiscoveryTurbo.png"group-title="MUNDO Y CULTURA", Discovery Turbo
-http://tecnotv.club/pop/geomex2.php?c=2379&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/discovery-id/DiscoveryID.png"group-title="MUNDO Y CULTURA", Discovery ID
-http://tecnotv.club/pop/geomex2.php?c=68&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/12/items/discovery-h-h/DiscoveryH%26H.png"group-title="MUNDO Y CULTURA", Discovery h&h
-http://tecnotv.club/pop/geomex2.php?c=96&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/27/items/animal-planet_20200907/AnimalPlanet.png"group-title="MUNDO Y CULTURA", Animal Planet 
-http://tecnotv.club/pop/geomex2.php?c=88&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/31/items/nat-geo/NatGeo.png"group-title="MUNDO Y CULTURA", NatGeo
-http://tecnotv.club/pop/geomex2.php?c=91&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/1/items/nat-geo-wild/NatGeoWild.png"group-title="MUNDO Y CULTURA", Natgeo Wild
-http://tecnotv.club/pop/geomex2.php?c=92&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/18/items/de-pelicula/DePelicula.png"group-title="CINE Y SERIES", De Peli­cula
-http://tecnotv.club/pop/geomex2.php?c=121&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/5/items/cine-canal_202009/CineCanal.png"group-title="CINE Y SERIES", CineCanal
-http://tecnotv.club/pop/geomex2.php?c=149&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/23/items/golden_202009/Golden.png"group-title="CINE Y SERIES", Golden
-http://tecnotv.club/pop/geomex2.php?c=123&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/20/items/warner_202009/Warner.png"group-title="CINE Y SERIES", Warner Channel
-http://tecnotv.club/pop/geomex2.php?c=52&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/34/items/sony_20200907/Sony.png"group-title="CINE Y SERIES", Sony
-http://tecnotv.club/pop/geomex2.php?c=48&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/1/items/paramount_202009/Paramount.png"group-title="CINE Y SERIES", Paramount
-http://tecnotv.club/pop/geomex2.php?c=1726&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/23/items/tnt_20200907/TNT.png"group-title="CINE Y SERIES", TNT
-http://tecnotv.club/pop/geomex2.php?c=126&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/23/items/tntseries_202009/TNTSeries.png"group-title="CINE Y SERIES", TNT Series
-http://tecnotv.club/pop/geomex2.php?c=71&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/23/items/axn_20200907/AXN.png"group-title="CINE Y SERIES", AXN
-http://tecnotv.club/pop/geomex2.php?c=64&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/21/items/amc_20200907/AMC.png"group-title="CINE Y SERIES", AMC
-http://tecnotv.club/pop/geomex2.php?c=131&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/34/items/cinemax_202009/Cinemax.png"group-title="CINE Y SERIES", Cinemax
-http://tecnotv.club/pop/geomex2.php?c=158&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/29/items/space_202009/Space.png"group-title="CINE Y SERIES", Space
-http://tecnotv.club/pop/geomex2.php?c=129&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/10/items/studio-universal/StudioUniversal.png"group-title="CINE Y SERIES", Studio Universal
-http://tecnotv.club/pop/geomex2.php?c=132&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/34/items/universal-tv/UniversalTV.png"group-title="CINE Y SERIES", Universal Channel
-http://tecnotv.club/pop/geomex2.php?c=57&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/35/items/fx_20200907/FX.png"group-title="CINE Y SERIES", FX
-http://tecnotv.club/pop/geomex2.php?c=60&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/22/items/fxm_20200907/FXM.png"group-title="CINE Y SERIES", FXM
-http://tecnotv.club/pop/geomex2.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/syfy_20200907/Syfy.png"group-title="CINE Y SERIES", SyFy
-http://tecnotv.club/pop/geomex2.php?c=59&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/19/items/fox_20200907/Fox.png"group-title="CINE Y SERIES", Fox
-http://tecnotv.club/pop/geomex2.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/13/items/fox-life/FoxLife.png"group-title="CINE Y SERIES", FOX Life
-http://tecnotv.club/pop/geomex2.php?c=77&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/6/items/fox-action/FoxAction.png"group-title="CINE Y SERIES", FOX Action
-http://tecnotv.club/pop/geomex2.php?c=336&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/18/items/fox-series/FoxSeries.png"group-title="CINE Y SERIES", Fox Series
-http://tecnotv.club/pop/geomex2.php?c=139&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/9/items/fox-cinema/FoxCinema.png"group-title="CINE Y SERIES", Fox Cinema
-http://tecnotv.club/pop/geomex2.php?c=1729&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/22/items/fox-classics/FoxClassics.png"group-title="CINE Y SERIES", Fox Classics
-http://tecnotv.club/pop/geomex2.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/10/items/fox-movies/FoxMovies.png"group-title="CINE Y SERIES", Fox Movies
-http://tecnotv.club/pop/geomex2.php?c=146&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/22/items/disney-channel_202009/DisneyChannel.png"group-title="NIÑOS", Disney Channel
-http://tecnotv.club/pop/geomex2.php?c=113&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801506.us.archive.org/17/items/disney-junior/DisneyJunior.png"group-title="NIÑOS", Disney Junior
-http://tecnotv.club/pop/geomex2.php?c=118&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/12/items/discovery-kids/DiscoveryKids.png"group-title="NIÑOS", Discovery Kids
-http://tecnotv.club/pop/geomex2.php?c=109&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601403.us.archive.org/30/items/boomerang_202009/Boomerang.png"group-title="NIÑOS", Boomerang
-http://tecnotv.club/pop/geomex2.php?c=115&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/7/items/cartoon-network/CartoonNetwork.png"group-title="NIÑOS", Cartoon Network
-http://tecnotv.club/pop/geomex2.php?c=112&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/14/items/disney-xd/DisneyXD.png"group-title="NIÑOS", Disney XD
-http://tecnotv.club/pop/geomex2.php?c=111&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/14/items/nick_20200908/Nick.png"group-title="NIÑOS", NICK
-http://tecnotv.club/pop/geomex2.php?c=110&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/20/items/teen-nick/TeenNick.png"group-title="NIÑOS", Teen Nick
-http://tecnotv.club/pop/geomex2.php?c=2147&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/0/items/nick-jr_202009/NickJR.png"group-title="NIÑOS", Nick JR
-http://tecnotv.club/pop/geomex2.php?c=117&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/33/items/nick-music/NickMusic.png"group-title="NIÑOS", Nick Music
-http://tecnotv.club/pop/geomex2.php?c=1708&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/11/items/toon-cast/ToonCast.png"group-title="NIÑOS", Tooncast
-http://tecnotv.club/pop/geomex2.php?c=108&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/30/items/bit-me/BitMe.png"group-title="NIÑOS", BitMe
-http://tecnotv.club/pop/geomex2.php?c=2591&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia601407.us.archive.org/1/items/bandamax_202009/Bandamax.png"group-title="MUSICA", Bandamax
-http://tecnotv.club/pop/geomex2.php?c=221&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/29/items/telehit_202009/Telehit.png"group-title="MUSICA", Telehit
-http://tecnotv.club/pop/geomex2.php?c=220&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801502.us.archive.org/24/items/telehit-urbano/TelehitUrbano.png"group-title="MUSICA", Telehit Urbano
-http://tecnotv.club/pop/geomex2.php?c=218&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/25/items/mtv_20200908/MTV.png"group-title="MUSICA", MTV
-http://tecnotv.club/pop/geomex2.php?c=212&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601502.us.archive.org/18/items/mtvhits_202009/MTVHits.png"group-title="MUSICA", MTV HITS
-http://tecnotv.club/pop/geomex2.php?c=213&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/3/items/vh-1_20200908/Vh1.png"group-title="MUSICA", VH1
-http://tecnotv.club/pop/geomex2.php?c=211&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801505.us.archive.org/35/items/vh-1-classic/Vh1Classic.png"group-title="MUSICA", VH1 CLASSIC
-http://tecnotv.club/pop/geomex2.php?c=214&p=3&k=tecnotv&f=.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/33/items/espn_20200908/ESPN.png"group-title="DEPORTES", ESPN
-http://tecnotv.club/pop/geomex2.php?c=168&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601505.us.archive.org/3/items/espn-2/ESPN2.png"group-title="DEPORTES", ESPN 2
-http://tecnotv.club/pop/geomex2.php?c=169&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601508.us.archive.org/5/items/espn-3/ESPN3.png"group-title="DEPORTES", ESPN 3
-http://tecnotv.club/pop/geomex2.php?c=345&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601405.us.archive.org/32/items/fox-sports_202009/FoxSports.png" group-title="DEPORTES", Fox Sports
-http://tecnotv.club/pop/geomex2.php?c=170&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/27/items/fox-sports-2/FoxSports2.png" group-title="DEPORTES", Fox Sports 2
-http://tecnotv.club/pop/geomex2.php?c=172&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/18/items/fox-sports-3/FoxSports3.png" group-title="DEPORTES", Fox Sports 3
-http://tecnotv.club/pop/geomex2.php?c=178&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/15/items/tudn_20200908/TUDN.png"group-title="DEPORTES", TUDN
-http://tecnotv.club/pop/geomex2.php?c=174&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/20/items/claro-sports/ClaroSports.png"group-title="DEPORTES", Claro Sports
-http://tecnotv.club/pop/geomex2.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Multimedios
+http://ipeteve.com/php/SR_REGIO231213/multimedios.php?f=.m3u8
 #EXTINF:0 group-title="Lista TV", Canal 28
-http://ipeteve.com/php/SR_REGIO200813/canal28.php?f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/canal28.php?f=.m3u8
 #EXTINF:0 group-title="Lista TV", AZTECA 7
-http://ipeteve.com/php/SR_REGIO200813/azteca7.php?f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/azteca7.php?f=.m3u8
 #EXTINF:0 group-title="Lista TV", TNT
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=tnt&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=tnt&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Discovery ID
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=id&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=id&f=.m3u8
 #EXTINF:0 group-title="Lista TV", H2
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=h2&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=h2&f=.m3u8
 #EXTINF:0 group-title="Lista TV", History
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=history&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=history&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Azteca UNO
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=aztecauno&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=aztecauno&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Azteca 7
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=azteca7&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=azteca7&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Space
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=space&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=space&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Universal
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=warner&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=warner&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Universal
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=universal&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=universal&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Sony
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=sony&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=sony&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Tooncast
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1728_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1728_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Teen Nick
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1715_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1715_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Nick Jr
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=nickjr&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nickjr&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Nick
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=nick&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nick&f=.m3u8
 #EXTINF:0 group-title="Lista TV", NatGeo Kids
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=natgeokids&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=natgeokids&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Discovery Kids
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=dkids&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=dkids&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Disney XD
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=disneyxd&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyxd&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Disney Jr
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=disneyjr&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyjr&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Disney Channel
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=disneych&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneych&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Cartoon Network
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=cartoon&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=cartoon&f=.m3u8
 #EXTINF:0 group-title="Lista TV", BitMe
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=212_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=212_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Baby Firts
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=214_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=214_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Series
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=babytv&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=babytv&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Series
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=starseries&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starseries&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Life
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=starlife&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starlife&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Hits
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=starhits&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starhits&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Action
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=starfun&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starfun&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Comedy
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=234_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=234_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Classics
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1498_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1498_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Cinema
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1626_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1626_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Action
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=staraction&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=staraction&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Star Channel
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=starch&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starch&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HBO Family
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=hbofamily&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbofamily&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HBO +
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=hboplus&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hboplus&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HBO 2
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=hbo2&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo2&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HBO
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=hbo&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo&f=.m3u8
 #EXTINF:0 group-title="Lista TV", A&E
-http://ipeteve.com/php/SR_REGIO200813/regio.php?c=ae&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=ae&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Discovery SCIENCE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1519_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1519_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Tele Novelas
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=79_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=79_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HBO Xtreme
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1536_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1536_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", Golden EDGE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=169_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=169_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", GOLDEN
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=166_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=166_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1704_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1704_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", LAS Deportes
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=263_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=263_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", HAVOC
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=266_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=266_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", NFL NETWORK
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=83_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=83_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", FOX SPORTS 3 LA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1394_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1394_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", FOX SPORTS 2 LA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1850_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1850_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", FOX SPORTS 1 LA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1851_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1851_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN 3 LA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1836_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1836_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN 2 LA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1834_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1834_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=258_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=258_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", BASKET AMERICAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1572_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1572_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", AyM Sports
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=262_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=262_&f=.m3u8
 #EXTINF:0 group-title="Lista TV", A+
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1_&f.m3u8
 #EXTINF:0 group-title="Lista TV", QUIERO TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=3_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=3_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CANAL 10
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=4_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=4_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DW
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=5_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=5_&f.m3u8
 #EXTINF:0 group-title="Lista TV", TV MAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=6_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=6_&f.m3u8
 #EXTINF:0 group-title="Lista TV", TELEMAX
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=7_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=7_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ADN40
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=15_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=15_&f.m3u8
 #EXTINF:0 group-title="Lista TV", MILENIO
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=17_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=17_&f.m3u8
 #EXTINF:0 group-title="Lista TV", TELE UNO TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=30_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=30_&f.m3u8
 #EXTINF:0 group-title="Lista TV", MICROVISION HD
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=39_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=39_&f.m3u8
 #EXTINF:0 group-title="Lista TV", RCN
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=47_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=47_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CANAL CLARO
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=59_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=59_&f.m3u8
 #EXTINF:0 group-title="Lista TV", LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=72_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=72_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CARACOL TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=74_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=74_&f.m3u8
 #EXTINF:0 group-title="Lista TV", NFL NETWORK
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=83_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=83_&f.m3u8
 #EXTINF:0 group-title="Lista TV", UNIVISION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=84_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=84_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CINELATINO
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=85_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=85_&f.m3u8
 #EXTINF:0 group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=86_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=86_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=87_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=87_&f.m3u8
 #EXTINF:0 group-title="Lista TV", TUDN
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=88_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=88_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GARAGE TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=91_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=91_&f.m3u8
 #EXTINF:0 group-title="Lista TV", MIAMITV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=92_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=92_&f.m3u8
 #EXTINF:0 group-title="Lista TV", WOWTV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=94_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=94_&f.m3u8
 #EXTINF:0 group-title="Lista TV", NU9VE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=132_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=132_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=138_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=138_&f.m3u8
 #EXTINF:0 group-title="Lista TV", EUROPA EUROPA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=156_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=156_&f.m3u8
 #EXTINF:0 group-title="Lista TV", MORBIDO
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=158_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=158_&f.m3u8
 #EXTINF:0 group-title="Lista TV", HM HD TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=160_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=160_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DPELICULA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=163_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=163_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DPELICULA+
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=179_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=179_&f.m3u8
 #EXTINF:0 group-title="Lista TV", FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=188_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=188_&f.m3u8
 #EXTINF:0 group-title="Lista TV", MASCHIC
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=190_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=190_&f.m3u8
 #EXTINF:0 group-title="Lista TV", HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=229_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=229_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GRUPO FORMULA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=236_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=236_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CNN ESPANOL
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=245_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=245_&f.m3u8
 #EXTINF:0 group-title="Lista TV", STARTVE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=249_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=249_&f.m3u8
 #EXTINF:0 group-title="Lista TV", TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=264_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=264_&f.m3u8
 #EXTINF:0 group-title="Lista TV", BABYTV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1480_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1480_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1492_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1492_&f.m3u8
 #EXTINF:0 group-title="Lista TV", FOX ACTION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1496_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1496_&f.m3u8
 #EXTINF:0 group-title="Lista TV", HBO MUNDI
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1535_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1535_&f.m3u8
 #EXTINF:0 group-title="Lista TV", HBO XTREME
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1536_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1536_&f.m3u8
 #EXTINF:0 group-title="Lista TV", FOX LIFE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1559_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1559_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1604_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1604_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1606_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1606_&f.m3u8
 #EXTINF:0 group-title="Lista TV", RCNOVELAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1611_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1611_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CLARO MUSICA TV
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1612_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1612_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DHE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1614_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1614_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CLARO CINEMA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1637_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1637_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CONCERT
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1639_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1639_&f.m3u8
 #EXTINF:0 group-title="Lista TV", CLARO MUSICA
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1650_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1650_&f.m3u8
 #EXTINF:0 group-title="Lista TV", WIN SPORTS +
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1670_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1670_&f.m3u8
 #EXTINF:0 group-title="Lista TV", DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1689_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1689_&f.m3u8
 #EXTINF:0 group-title="Lista TV", E!
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1699_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1699_&f.m3u8
 #EXTINF:0 group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1704_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1704_&f.m3u8
 #EXTINF:0 group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1746_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1746_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN2
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1794_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1794_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN 2
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1834_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1834_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1835_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1835_&f.m3u8
 #EXTINF:0 group-title="Lista TV", ESPN 3
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1836_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1836_&f.m3u8
 #EXTINF:0 group-title="Lista TV", WINS PORTS
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1843_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1843_&f.m3u8
 #EXTINF:0 group-title="Lista TV", FOX SPORTS 2 SUR
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1850_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1850_&f.m3u8
 #EXTINF:0 group-title="Lista TV", FOX SPORTS SUR
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1851_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1851_&f.m3u8
 #EXTINF:0 group-title="Lista TV", HBO POP
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1855_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1855_&f.m3u8
 #EXTINF:0 group-title="Lista TV", UNICABLE
-http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=1871_&f.m3u8
+http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1871_&f.m3u8
