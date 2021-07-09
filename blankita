@@ -1,245 +1,88 @@
 #EXTM3U
-#EXTINF:0 group-title="Lista TV", Multimedios
-http://ipeteve.com/php/SR_REGIO231213/multimedios.php?f=.m3u8
-#EXTINF:0 group-title="Lista TV", Canal 28
-http://ipeteve.com/php/SR_REGIO231213/canal28.php?f=.m3u8
-#EXTINF:0 group-title="Lista TV", AZTECA 7
-http://ipeteve.com/php/SR_REGIO231213/azteca7.php?f=.m3u8
-#EXTINF:0 group-title="Lista TV", TNT
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=tnt&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Discovery ID
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=id&f=.m3u8
-#EXTINF:0 group-title="Lista TV", H2
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=h2&f=.m3u8
-#EXTINF:0 group-title="Lista TV", History
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=history&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Azteca UNO
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=aztecauno&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Azteca 7
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=azteca7&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Space
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=space&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Universal
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=warner&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Universal
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=universal&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Sony
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=sony&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Tooncast
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1728_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Teen Nick
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1715_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Nick Jr
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nickjr&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Nick
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nick&f=.m3u8
-#EXTINF:0 group-title="Lista TV", NatGeo Kids
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=natgeokids&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Discovery Kids
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=dkids&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Disney XD
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyxd&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Disney Jr
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyjr&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Disney Channel
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneych&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Cartoon Network
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=cartoon&f=.m3u8
-#EXTINF:0 group-title="Lista TV", BitMe
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=212_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Baby Firts
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=214_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Series
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=babytv&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Series
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starseries&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Life
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starlife&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Hits
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starhits&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Action
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starfun&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Comedy
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=234_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Classics
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1498_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Cinema
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1626_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Action
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=staraction&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Star Channel
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starch&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HBO Family
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbofamily&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HBO +
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hboplus&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HBO 2
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo2&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HBO
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo&f=.m3u8
-#EXTINF:0 group-title="Lista TV", A&E
-http://ipeteve.com/php/SR_REGIO231213/regio.php?c=ae&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Discovery SCIENCE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1519_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Tele Novelas
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=79_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HBO Xtreme
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1536_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", Golden EDGE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=169_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", GOLDEN
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=166_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1704_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", LAS Deportes
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=263_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", HAVOC
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=266_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", NFL NETWORK
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=83_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", FOX SPORTS 3 LA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1394_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", FOX SPORTS 2 LA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1850_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", FOX SPORTS 1 LA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1851_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN 3 LA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1836_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN 2 LA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1834_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=258_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", BASKET AMERICAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1572_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", AyM Sports
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=262_&f=.m3u8
-#EXTINF:0 group-title="Lista TV", A+
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1_&f.m3u8
-#EXTINF:0 group-title="Lista TV", QUIERO TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=3_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CANAL 10
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=4_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DW
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=5_&f.m3u8
-#EXTINF:0 group-title="Lista TV", TV MAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=6_&f.m3u8
-#EXTINF:0 group-title="Lista TV", TELEMAX
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=7_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ADN40
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=15_&f.m3u8
-#EXTINF:0 group-title="Lista TV", MILENIO
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=17_&f.m3u8
-#EXTINF:0 group-title="Lista TV", TELE UNO TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=30_&f.m3u8
-#EXTINF:0 group-title="Lista TV", MICROVISION HD
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=39_&f.m3u8
-#EXTINF:0 group-title="Lista TV", RCN
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=47_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CANAL CLARO
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=59_&f.m3u8
-#EXTINF:0 group-title="Lista TV", LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=72_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CARACOL TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=74_&f.m3u8
-#EXTINF:0 group-title="Lista TV", NFL NETWORK
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=83_&f.m3u8
-#EXTINF:0 group-title="Lista TV", UNIVISION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=84_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CINELATINO
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=85_&f.m3u8
-#EXTINF:0 group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=86_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=87_&f.m3u8
-#EXTINF:0 group-title="Lista TV", TUDN
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=88_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GARAGE TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=91_&f.m3u8
-#EXTINF:0 group-title="Lista TV", MIAMITV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=92_&f.m3u8
-#EXTINF:0 group-title="Lista TV", WOWTV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=94_&f.m3u8
-#EXTINF:0 group-title="Lista TV", NU9VE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=132_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=138_&f.m3u8
-#EXTINF:0 group-title="Lista TV", EUROPA EUROPA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=156_&f.m3u8
-#EXTINF:0 group-title="Lista TV", MORBIDO
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=158_&f.m3u8
-#EXTINF:0 group-title="Lista TV", HM HD TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=160_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DPELICULA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=163_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DPELICULA+
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=179_&f.m3u8
-#EXTINF:0 group-title="Lista TV", FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=188_&f.m3u8
-#EXTINF:0 group-title="Lista TV", MASCHIC
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=190_&f.m3u8
-#EXTINF:0 group-title="Lista TV", HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=229_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GRUPO FORMULA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=236_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CNN ESPANOL
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=245_&f.m3u8
-#EXTINF:0 group-title="Lista TV", STARTVE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=249_&f.m3u8
-#EXTINF:0 group-title="Lista TV", TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=264_&f.m3u8
-#EXTINF:0 group-title="Lista TV", BABYTV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1480_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1492_&f.m3u8
-#EXTINF:0 group-title="Lista TV", FOX ACTION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1496_&f.m3u8
-#EXTINF:0 group-title="Lista TV", HBO MUNDI
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1535_&f.m3u8
-#EXTINF:0 group-title="Lista TV", HBO XTREME
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1536_&f.m3u8
-#EXTINF:0 group-title="Lista TV", FOX LIFE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1559_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1604_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1606_&f.m3u8
-#EXTINF:0 group-title="Lista TV", RCNOVELAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1611_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CLARO MUSICA TV
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1612_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DHE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1614_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CLARO CINEMA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1637_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CONCERT
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1639_&f.m3u8
-#EXTINF:0 group-title="Lista TV", CLARO MUSICA
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1650_&f.m3u8
-#EXTINF:0 group-title="Lista TV", WIN SPORTS +
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1670_&f.m3u8
-#EXTINF:0 group-title="Lista TV", DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1689_&f.m3u8
-#EXTINF:0 group-title="Lista TV", E!
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1699_&f.m3u8
-#EXTINF:0 group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1704_&f.m3u8
-#EXTINF:0 group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1746_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN2
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1794_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN 2
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1834_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1835_&f.m3u8
-#EXTINF:0 group-title="Lista TV", ESPN 3
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1836_&f.m3u8
-#EXTINF:0 group-title="Lista TV", WINS PORTS
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1843_&f.m3u8
-#EXTINF:0 group-title="Lista TV", FOX SPORTS 2 SUR
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1850_&f.m3u8
-#EXTINF:0 group-title="Lista TV", FOX SPORTS SUR
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1851_&f.m3u8
-#EXTINF:0 group-title="Lista TV", HBO POP
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1855_&f.m3u8
-#EXTINF:0 group-title="Lista TV", UNICABLE
-http://ipeteve.com/php/SR_REGIO231213/tv3.php?c=1871_&f.m3u8
+http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
+#EXTINF:0,FILMBOX
+http://213.81.153.241/live001/channel018_p2.stream/DVR.m3u8
+#EXTINF:0,EnglishClub
+http://213.81.153.241/live001/channel020_p2.stream/DVR.m3u8
+#EXTINF:0,DigiSport3
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
+#EXTINF:0,novaSport1
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:0,O1
+http://213.81.153.241/live001/channel031_p2.stream/DVR.m3u8
+#EXTINF:0,O2
+http://213.81.153.241/live001/channel032_p2.stream/DVR.m3u8
+#EXTINF:0,N/A
+http://213.81.153.241/live001/channel033_p2.stream/DVR.m3u8
+#EXTINF:0,Discovery
+http://213.81.153.241/live001/channel034_p1.stream/DVR.m3u8
+#EXTINF:0,AnimalPlanet
+http://213.81.153.241/live001/channel036_p2.stream/DVR.m3u8
+#EXTINF:0,N/A
+http://213.81.153.241/live001/channel040_p2.stream/DVR.m3u8
+#EXTINF:0,AXN
+http://213.81.153.241/live001/channel046_p2.stream/DVR.m3u8
+#EXTINF:0,MEGAMAX
+http://213.81.153.241/live001/channel049_p2.stream/DVR.m3u8
+#EXTINF:0,JimJam
+http://213.81.153.241/live001/channel050_p2.stream/DVR.m3u8
+#EXTINF:0,amc
+http://213.81.153.241/live001/channel052_p2.stream/DVR.m3u8
+#EXTINF:0,Spectrum
+http://213.81.153.241/live001/channel054_p2.stream/DVR.m3u8
+#EXTINF:0,SpectrumHome
+http://213.81.153.241/live001/channel056_p2.stream/DVR.m3u8
+#EXTINF:0,jojCinema
+http://213.81.153.241/live001/channel057_p2.stream/DVR.m3u8
+#EXTINF:0,1 Clasic
+http://212.79.96.134:8024/
+#EXTINF:0,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0,Amazing TV
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0,Eska Party HD TV
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,Eska Wawa Tv
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:0,eskatv 480P
+rtmp://stream.smcloud.net/live2/eskatv//eskatv_480p
+#EXTINF:0,Fokus TV
+http://stream.smcloud.net/live/fokustv/playlist.m3u8
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0,
+rtmp://stream85.polskieradio.pl/video/czworka.sdp
+#EXTINF:0,ITV
+mms://194.150.185.253/ITV
+#EXTINF:0,Lech TV
+http://wtk.live-ext.e96-jw.insyscd.net/lechtv.smil/playlist.m3u8
+#EXTINF:0,NOE
+http://212.79.96.134:8017/
+#EXTINF:0,O1
+http://212.79.96.134:8001/
+#EXTINF:0,O2
+http://212.79.96.134:8002/
+#EXTINF:0,Retro
+http://212.79.96.134:8018/
+#EXTINF:0,
+rtmp://stream14.polskieradio.pl/pr4_video/czworka.sdp
+#EXTINF:0,TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,TV Trwam
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:0,TV TRWAM
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:0,TVP 1
+http://63.237.48.23/ios/TVP/TVP.m3u8
+#EXTINF:0,Twoja TV
+http://94.246.169.19/ttv_hls/live_270p/index.m3u8
+#EXTINF:0,Vox Music Tv rtmp
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,WTK
+http://wtk.live-ext.e96-jw.insyscd.net/wtk.smil/playlist.m3u8
