@@ -86,3 +86,91 @@ http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 rtmp://stream.smcloud.net/live/vox2/stream1
 #EXTINF:0,WTK
 http://wtk.live-ext.e96-jw.insyscd.net/wtk.smil/playlist.m3u8
+#EXTM3U
+http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
+#EXTINF:0,FILMBOX
+http://213.81.153.241/live001/channel018_p2.stream/DVR.m3u8
+#EXTINF:0,EnglishClub
+http://213.81.153.241/live001/channel020_p2.stream/DVR.m3u8
+#EXTINF:0,DigiSport3
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
+#EXTINF:0,novaSport1
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:0,O1
+http://213.81.153.241/live001/channel031_p2.stream/DVR.m3u8
+#EXTINF:0,O2
+http://213.81.153.241/live001/channel032_p2.stream/DVR.m3u8
+#EXTINF:0,N/A
+http://213.81.153.241/live001/channel033_p2.stream/DVR.m3u8
+#EXTINF:0,Discovery
+http://213.81.153.241/live001/channel034_p1.stream/DVR.m3u8
+#EXTINF:0,AnimalPlanet
+http://213.81.153.241/live001/channel036_p2.stream/DVR.m3u8
+#EXTINF:0,N/A
+http://213.81.153.241/live001/channel040_p2.stream/DVR.m3u8
+#EXTINF:0,AXN
+http://213.81.153.241/live001/channel046_p2.stream/DVR.m3u8
+#EXTINF:0,MEGAMAX
+http://213.81.153.241/live001/channel049_p2.stream/DVR.m3u8
+#EXTINF:0,JimJam
+http://213.81.153.241/live001/channel050_p2.stream/DVR.m3u8
+#EXTINF:0,amc
+http://213.81.153.241/live001/channel052_p2.stream/DVR.m3u8
+#EXTINF:0,Spectrum
+http://213.81.153.241/live001/channel054_p2.stream/DVR.m3u8
+#EXTINF:0,SpectrumHome
+http://213.81.153.241/live001/channel056_p2.stream/DVR.m3u8
+#EXTINF:0,jojCinema
+http://213.81.153.241/live001/channel057_p2.stream/DVR.m3u8
+#EXTINF:0,1 Clasic
+http://212.79.96.134:8024/
+#EXTINF:0,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0,Amazing TV
+http://dcs-188-64-85-40.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?stream=2
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0,Eska Party HD TV
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/playlist.m3u8
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,Eska Wawa Tv
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:0,eskatv 480P
+rtmp://stream.smcloud.net/live2/eskatv//eskatv_480p
+#EXTINF:0,Fokus TV
+http://stream.smcloud.net/live/fokustv/playlist.m3u8
+#EXTINF:0,
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0,
+rtmp://stream85.polskieradio.pl/video/czworka.sdp
+#EXTINF:0,ITV
+mms://194.150.185.253/ITV
+#EXTINF:0,Lech TV
+http://wtk.live-ext.e96-jw.insyscd.net/lechtv.smil/playlist.m3u8
+#EXTINF:0,NOE
+http://212.79.96.134:8017/
+#EXTINF:0,O1
+http://212.79.96.134:8001/
+#EXTINF:0,O2
+http://212.79.96.134:8002/
+#EXTINF:0,Retro
+http://212.79.96.134:8018/
+#EXTINF:0,
+rtmp://stream14.polskieradio.pl/pr4_video/czworka.sdp
+#EXTINF:0,TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,TV Trwam
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:0,TV TRWAM
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+#EXTINF:0,TVP 1
+http://63.237.48.23/ios/TVP/TVP.m3u8
+#EXTINF:0,Twoja TV
+http://94.246.169.19/ttv_hls/live_270p/index.m3u8
+#EXTINF:0,Vox Music Tv rtmp
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,WTK
+http://wtk.live-ext.e96-jw.insyscd.net/wtk.smil/playlist.m3u8
